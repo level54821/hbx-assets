@@ -1,0 +1,104 @@
+
+clothing_goldhatpack1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_goldhatpack1_clothing_goldhatpack1_64_a_0_0.png
+  rotate: false
+  xy: 2, 17
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_1.png
+  rotate: false
+  xy: 91, 30
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_10.png
+  rotate: false
+  xy: 117, 53
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_11.png
+  rotate: false
+  xy: 104, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_2.png
+  rotate: false
+  xy: 104, 46
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_3.png
+  rotate: false
+  xy: 91, 33
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_4.png
+  rotate: false
+  xy: 2, 12
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_5.png
+  rotate: false
+  xy: 2, 9
+  size: 6, 1
+  orig: 6, 1
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_6.png
+  rotate: false
+  xy: 12, 14
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_7.png
+  rotate: false
+  xy: 96, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_8.png
+  rotate: false
+  xy: 117, 42
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_b_0_9.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_64_sd_0_0.png
+  rotate: false
+  xy: 60, 41
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+clothing_goldhatpack1_clothing_goldhatpack1_icon_a.png
+  rotate: false
+  xy: 60, 9
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

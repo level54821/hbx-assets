@@ -1,0 +1,62 @@
+
+xmas_c20_runerockred.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_runerockred_xmas_c20_runerockred_64_a_0_0.png
+  rotate: false
+  xy: 2, 166
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_64_b_0_0.png
+  rotate: false
+  xy: 108, 199
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_64_b_0_1.png
+  rotate: false
+  xy: 56, 112
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_64_b_0_2.png
+  rotate: false
+  xy: 2, 29
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_64_b_0_3.png
+  rotate: false
+  xy: 54, 179
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_64_b_0_4.png
+  rotate: false
+  xy: 2, 97
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+xmas_c20_runerockred_xmas_c20_runerockred_icon_a.png
+  rotate: false
+  xy: 108, 216
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

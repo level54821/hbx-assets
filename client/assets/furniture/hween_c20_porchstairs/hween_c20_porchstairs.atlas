@@ -1,0 +1,125 @@
+
+hween_c20_porchstairs.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_porchstairs_hween_c20_porchstairs_64_a_2_0.png
+  rotate: false
+  xy: 496, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_a_6_0.png
+  rotate: false
+  xy: 417, 78
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_a_6_1.png
+  rotate: false
+  xy: 326, 78
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_b_2_0.png
+  rotate: false
+  xy: 102, 54
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_b_2_1.png
+  rotate: false
+  xy: 2, 3
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_b_6_0.png
+  rotate: false
+  xy: 459, 77
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_b_6_1.png
+  rotate: false
+  xy: 75, 3
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_c_2_0.png
+  rotate: false
+  xy: 170, 65
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_c_2_1.png
+  rotate: false
+  xy: 170, 2
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_c_6_0.png
+  rotate: false
+  xy: 112, 3
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_c_6_1.png
+  rotate: false
+  xy: 140, 3
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_d_2_0.png
+  rotate: false
+  xy: 224, 4
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_d_2_1.png
+  rotate: false
+  xy: 224, 66
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_d_6_0.png
+  rotate: false
+  xy: 375, 78
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_d_6_1.png
+  rotate: false
+  xy: 275, 78
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_64_sd_6_0.png
+  rotate: false
+  xy: 2, 77
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+hween_c20_porchstairs_hween_c20_porchstairs_icon_a.png
+  rotate: false
+  xy: 275, 48
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

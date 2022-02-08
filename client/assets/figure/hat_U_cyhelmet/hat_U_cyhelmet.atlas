@@ -1,0 +1,132 @@
+
+hat_U_cyhelmet.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_cyhelmet_h_lay_ha_3807_2_0.png
+  rotate: false
+  xy: 112, 2
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_lay_ha_3808_2_0.png
+  rotate: false
+  xy: 175, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_lsp_ha_3806_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3806_0_0.png
+  rotate: false
+  xy: 187, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3806_1_0.png
+  rotate: false
+  xy: 220, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3806_2_0.png
+  rotate: false
+  xy: 80, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3807_0_0.png
+  rotate: false
+  xy: 152, 32
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3807_1_0.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3808_1_0.png
+  rotate: false
+  xy: 2, 30
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3808_2_0.png
+  rotate: false
+  xy: 41, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3808_3_0.png
+  rotate: false
+  xy: 234, 7
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_spk_ha_3808_7_0.png
+  rotate: false
+  xy: 310, 38
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_std_ha_3806_3_0.png
+  rotate: false
+  xy: 204, 7
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_std_ha_3806_7_0.png
+  rotate: false
+  xy: 252, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_std_ha_3807_2_0.png
+  rotate: false
+  xy: 115, 31
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_std_ha_3807_3_0.png
+  rotate: false
+  xy: 282, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_std_ha_3807_7_0.png
+  rotate: false
+  xy: 147, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hat_U_cyhelmet_h_std_ha_3808_0_0.png
+  rotate: false
+  xy: 79, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1

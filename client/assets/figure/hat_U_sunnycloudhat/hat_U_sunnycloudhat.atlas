@@ -1,0 +1,48 @@
+
+hat_U_sunnycloudhat.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_sunnycloudhat_h_lay_ha_3983_2_0.png
+  rotate: false
+  xy: 218, 10
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+hat_U_sunnycloudhat_h_std_ha_3983_0_0.png
+  rotate: false
+  xy: 114, 2
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+hat_U_sunnycloudhat_h_std_ha_3983_1_0.png
+  rotate: false
+  xy: 270, 3
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+hat_U_sunnycloudhat_h_std_ha_3983_2_0.png
+  rotate: false
+  xy: 167, 2
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+hat_U_sunnycloudhat_h_std_ha_3983_3_0.png
+  rotate: false
+  xy: 58, 4
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+hat_U_sunnycloudhat_h_std_ha_3983_7_0.png
+  rotate: false
+  xy: 2, 4
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1

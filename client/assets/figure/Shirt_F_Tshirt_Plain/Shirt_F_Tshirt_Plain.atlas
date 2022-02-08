@@ -1,0 +1,650 @@
+
+Shirt_F_Tshirt_Plain.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shirt_F_Tshirt_Plain_h_crr_ls_2051_0_0.png
+  rotate: false
+  xy: 238, 11
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_ls_2051_1_0.png
+  rotate: false
+  xy: 216, 39
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_ls_2051_2_0.png
+  rotate: false
+  xy: 226, 38
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_ls_2051_3_0.png
+  rotate: false
+  xy: 118, 6
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_ls_2051_7_0.png
+  rotate: false
+  xy: 128, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_0_0.png
+  rotate: false
+  xy: 411, 47
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_1_0.png
+  rotate: false
+  xy: 200, 24
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_2_0.png
+  rotate: false
+  xy: 432, 47
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_3_0.png
+  rotate: false
+  xy: 502, 31
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_4_0.png
+  rotate: false
+  xy: 166, 5
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_5_0.png
+  rotate: false
+  xy: 98, 17
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_6_0.png
+  rotate: false
+  xy: 210, 24
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_crr_rs_2051_7_0.png
+  rotate: false
+  xy: 137, 3
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_0_0.png
+  rotate: false
+  xy: 204, 51
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_1_0.png
+  rotate: false
+  xy: 149, 31
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_2_0.png
+  rotate: false
+  xy: 188, 24
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_3_0.png
+  rotate: false
+  xy: 184, 12
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_4_0.png
+  rotate: false
+  xy: 217, 11
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_5_0.png
+  rotate: false
+  xy: 162, 18
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_6_0.png
+  rotate: false
+  xy: 175, 39
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_drk_rs_2051_7_0.png
+  rotate: false
+  xy: 294, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_lay_ch_2051_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_lay_ls_2051_2_0.png
+  rotate: false
+  xy: 158, 40
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_lay_rs_2051_2_0.png
+  rotate: false
+  xy: 158, 49
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_sit_ls_2051_0_0.png
+  rotate: false
+  xy: 195, 10
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_sit_ls_2051_2_0.png
+  rotate: false
+  xy: 224, 11
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_sit_rs_2051_2_0.png
+  rotate: false
+  xy: 44, 9
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ch_2051_0_0.png
+  rotate: false
+  xy: 44, 29
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ch_2051_1_0.png
+  rotate: false
+  xy: 128, 32
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ch_2051_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ch_2051_3_0.png
+  rotate: false
+  xy: 73, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ch_2051_7_0.png
+  rotate: false
+  xy: 101, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ls_2051_0_0.png
+  rotate: false
+  xy: 201, 36
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ls_2051_1_0.png
+  rotate: false
+  xy: 149, 40
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ls_2051_2_0.png
+  rotate: false
+  xy: 202, 10
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ls_2051_3_0.png
+  rotate: false
+  xy: 492, 46
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_ls_2051_7_0.png
+  rotate: false
+  xy: 88, 17
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_rs_2051_0_0.png
+  rotate: false
+  xy: 56, 10
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_rs_2051_1_0.png
+  rotate: false
+  xy: 174, 13
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_rs_2051_2_0.png
+  rotate: false
+  xy: 305, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_rs_2051_3_0.png
+  rotate: false
+  xy: 422, 47
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_std_rs_2051_7_0.png
+  rotate: false
+  xy: 107, 19
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_0_0.png
+  rotate: false
+  xy: 246, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_0_1.png
+  rotate: false
+  xy: 327, 48
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_1_0.png
+  rotate: false
+  xy: 233, 37
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_1_1.png
+  rotate: false
+  xy: 174, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_2_0.png
+  rotate: false
+  xy: 174, 50
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_2_1.png
+  rotate: false
+  xy: 189, 50
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_3_0.png
+  rotate: false
+  xy: 31, 18
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_4_0.png
+  rotate: false
+  xy: 352, 49
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_4_1.png
+  rotate: false
+  xy: 364, 49
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_5_0.png
+  rotate: false
+  xy: 175, 26
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_5_1.png
+  rotate: false
+  xy: 188, 37
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_6_0.png
+  rotate: false
+  xy: 339, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_6_1.png
+  rotate: false
+  xy: 162, 27
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_7_0.png
+  rotate: false
+  xy: 233, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wav_ls_2051_7_1.png
+  rotate: false
+  xy: 31, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_0_0.png
+  rotate: false
+  xy: 231, 11
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_0_1.png
+  rotate: false
+  xy: 217, 25
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_0_2.png
+  rotate: false
+  xy: 238, 24
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_0_3.png
+  rotate: false
+  xy: 209, 11
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_1_1.png
+  rotate: false
+  xy: 117, 22
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_1_2.png
+  rotate: false
+  xy: 156, 5
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_1_3.png
+  rotate: false
+  xy: 157, 22
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_2_0.png
+  rotate: false
+  xy: 224, 24
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_2_1.png
+  rotate: false
+  xy: 208, 36
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_2_3.png
+  rotate: false
+  xy: 231, 23
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_3_0.png
+  rotate: false
+  xy: 462, 46
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_3_1.png
+  rotate: false
+  xy: 472, 46
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_3_2.png
+  rotate: false
+  xy: 482, 46
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_3_3.png
+  rotate: false
+  xy: 502, 47
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_7_1.png
+  rotate: false
+  xy: 78, 17
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_7_2.png
+  rotate: false
+  xy: 109, 3
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_ls_2051_7_3.png
+  rotate: false
+  xy: 79, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_0_0.png
+  rotate: false
+  xy: 316, 47
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_0_1.png
+  rotate: false
+  xy: 259, 47
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_0_2.png
+  rotate: false
+  xy: 400, 48
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_0_3.png
+  rotate: false
+  xy: 283, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_1_0.png
+  rotate: false
+  xy: 147, 18
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_1_1.png
+  rotate: false
+  xy: 219, 51
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_1_2.png
+  rotate: false
+  xy: 146, 5
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_1_3.png
+  rotate: false
+  xy: 68, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_2_1.png
+  rotate: false
+  xy: 388, 48
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_2_2.png
+  rotate: false
+  xy: 271, 46
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_2_3.png
+  rotate: false
+  xy: 376, 48
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_3_0.png
+  rotate: false
+  xy: 452, 47
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_3_1.png
+  rotate: false
+  xy: 99, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_3_2.png
+  rotate: false
+  xy: 442, 47
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_3_3.png
+  rotate: false
+  xy: 89, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_7_1.png
+  rotate: false
+  xy: 137, 18
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_7_2.png
+  rotate: false
+  xy: 128, 2
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Tshirt_Plain_h_wlk_rs_2051_7_3.png
+  rotate: false
+  xy: 68, 13
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1

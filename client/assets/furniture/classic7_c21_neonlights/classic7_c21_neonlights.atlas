@@ -1,0 +1,62 @@
+
+classic7_c21_neonlights.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic7_c21_neonlights_classic7_c21_neonlights_64_a_0_0.png
+  rotate: false
+  xy: 2, 42
+  size: 36, 191
+  orig: 36, 191
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_64_a_0_1.png
+  rotate: false
+  xy: 40, 42
+  size: 36, 191
+  orig: 36, 191
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_64_b_0_0.png
+  rotate: false
+  xy: 78, 45
+  size: 32, 188
+  orig: 32, 188
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_64_b_0_1.png
+  rotate: false
+  xy: 112, 45
+  size: 32, 188
+  orig: 32, 188
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_64_c_0_0.png
+  rotate: false
+  xy: 184, 130
+  size: 40, 103
+  orig: 40, 103
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_64_d_0_0.png
+  rotate: false
+  xy: 146, 126
+  size: 36, 107
+  orig: 36, 107
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+classic7_c21_neonlights_classic7_c21_neonlights_icon_a.png
+  rotate: false
+  xy: 146, 94
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

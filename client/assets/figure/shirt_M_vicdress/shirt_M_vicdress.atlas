@@ -1,0 +1,1364 @@
+
+shirt_M_vicdress.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_vicdress_h_crr_ls_3081_0_0.png
+  rotate: false
+  xy: 420, 51
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_1_0.png
+  rotate: false
+  xy: 144, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_2_0.png
+  rotate: false
+  xy: 345, 2
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_3_0.png
+  rotate: false
+  xy: 436, 71
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_4_0.png
+  rotate: false
+  xy: 389, 109
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_5_0.png
+  rotate: false
+  xy: 163, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_6_0.png
+  rotate: false
+  xy: 249, 2
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3081_7_0.png
+  rotate: false
+  xy: 395, 9
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3082_2_0.png
+  rotate: false
+  xy: 439, 45
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3082_3_0.png
+  rotate: false
+  xy: 487, 41
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3082_4_0.png
+  rotate: false
+  xy: 450, 60
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3082_5_0.png
+  rotate: false
+  xy: 245, 102
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_ls_3082_6_0.png
+  rotate: false
+  xy: 476, 98
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_0_0.png
+  rotate: false
+  xy: 229, 2
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_1_0.png
+  rotate: false
+  xy: 188, 204
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_2_0.png
+  rotate: false
+  xy: 348, 166
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_3_0.png
+  rotate: false
+  xy: 425, 71
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_4_0.png
+  rotate: false
+  xy: 283, 2
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_5_0.png
+  rotate: false
+  xy: 182, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_6_0.png
+  rotate: false
+  xy: 420, 32
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3081_7_0.png
+  rotate: false
+  xy: 403, 14
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3082_0_0.png
+  rotate: false
+  xy: 488, 98
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3082_1_0.png
+  rotate: false
+  xy: 416, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3082_2_0.png
+  rotate: false
+  xy: 450, 48
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3082_3_0.png
+  rotate: false
+  xy: 427, 3
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3082_4_0.png
+  rotate: false
+  xy: 487, 29
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_crr_rs_3082_7_0.png
+  rotate: false
+  xy: 321, 29
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_0_0.png
+  rotate: false
+  xy: 123, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_1_0.png
+  rotate: false
+  xy: 201, 5
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_2_0.png
+  rotate: false
+  xy: 79, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_3_0.png
+  rotate: false
+  xy: 104, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_4_0.png
+  rotate: false
+  xy: 387, 92
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_5_0.png
+  rotate: false
+  xy: 301, 35
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_6_0.png
+  rotate: false
+  xy: 197, 21
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3081_7_0.png
+  rotate: false
+  xy: 207, 209
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_0_0.png
+  rotate: false
+  xy: 461, 63
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_1_0.png
+  rotate: false
+  xy: 498, 28
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_2_0.png
+  rotate: false
+  xy: 499, 72
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_3_0.png
+  rotate: false
+  xy: 242, 36
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_4_0.png
+  rotate: false
+  xy: 242, 26
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_5_0.png
+  rotate: false
+  xy: 474, 28
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_6_0.png
+  rotate: false
+  xy: 500, 96
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_drk_rs_3082_7_0.png
+  rotate: false
+  xy: 179, 149
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_lay_ch_3081_2_0.png
+  rotate: false
+  xy: 97, 217
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_lay_ch_3082_2_0.png
+  rotate: false
+  xy: 161, 225
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_lay_ls_3081_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_lay_ls_3082_2_0.png
+  rotate: false
+  xy: 420, 15
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_lay_rs_3081_2_0.png
+  rotate: false
+  xy: 329, 28
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_lay_rs_3082_2_0.png
+  rotate: false
+  xy: 97, 200
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_sit_ch_3081_0_0.png
+  rotate: false
+  xy: 256, 101
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_sit_ch_3081_2_0.png
+  rotate: false
+  xy: 218, 204
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_sit_ch_3082_0_0.png
+  rotate: false
+  xy: 113, 122
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_sit_ch_3082_2_0.png
+  rotate: false
+  xy: 112, 78
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3081_0_0.png
+  rotate: false
+  xy: 113, 159
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3081_1_0.png
+  rotate: false
+  xy: 236, 46
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3081_2_0.png
+  rotate: false
+  xy: 263, 196
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3081_3_0.png
+  rotate: false
+  xy: 350, 197
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3081_7_0.png
+  rotate: false
+  xy: 122, 23
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3082_3_0.png
+  rotate: false
+  xy: 155, 158
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ch_3082_7_0.png
+  rotate: false
+  xy: 276, 36
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ls_3081_2_0.png
+  rotate: false
+  xy: 469, 75
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ls_3081_3_0.png
+  rotate: false
+  xy: 488, 111
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ls_3081_7_0.png
+  rotate: false
+  xy: 428, 169
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ls_3082_2_0.png
+  rotate: false
+  xy: 276, 26
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_ls_3082_3_0.png
+  rotate: false
+  xy: 439, 58
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3081_0_0.png
+  rotate: false
+  xy: 474, 111
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3081_2_0.png
+  rotate: false
+  xy: 371, 29
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3081_3_0.png
+  rotate: false
+  xy: 500, 165
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3081_7_0.png
+  rotate: false
+  xy: 468, 141
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3082_0_0.png
+  rotate: false
+  xy: 403, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3082_2_0.png
+  rotate: false
+  xy: 437, 98
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_std_rs_3082_3_0.png
+  rotate: false
+  xy: 450, 36
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_0_0.png
+  rotate: false
+  xy: 394, 139
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_0_1.png
+  rotate: false
+  xy: 387, 168
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_2_0.png
+  rotate: false
+  xy: 460, 169
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_2_1.png
+  rotate: false
+  xy: 479, 167
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_3_0.png
+  rotate: false
+  xy: 411, 139
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_3_1.png
+  rotate: false
+  xy: 440, 168
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_4_0.png
+  rotate: false
+  xy: 374, 139
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_4_1.png
+  rotate: false
+  xy: 406, 110
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_5_0.png
+  rotate: false
+  xy: 407, 169
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_5_1.png
+  rotate: false
+  xy: 370, 111
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_6_0.png
+  rotate: false
+  xy: 365, 168
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_6_1.png
+  rotate: false
+  xy: 296, 6
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_7_0.png
+  rotate: false
+  xy: 352, 26
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3081_7_1.png
+  rotate: false
+  xy: 276, 71
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_0_1.png
+  rotate: false
+  xy: 438, 11
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_1_0.png
+  rotate: false
+  xy: 435, 111
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_1_1.png
+  rotate: false
+  xy: 479, 140
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_2_0.png
+  rotate: false
+  xy: 461, 51
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_2_1.png
+  rotate: false
+  xy: 498, 39
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_3_0.png
+  rotate: false
+  xy: 499, 84
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_3_1.png
+  rotate: false
+  xy: 450, 98
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_4_0.png
+  rotate: false
+  xy: 231, 102
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_4_1.png
+  rotate: false
+  xy: 426, 59
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_5_0.png
+  rotate: false
+  xy: 228, 26
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_5_1.png
+  rotate: false
+  xy: 413, 97
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_6_0.png
+  rotate: false
+  xy: 439, 22
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_6_1.png
+  rotate: false
+  xy: 426, 24
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_7_0.png
+  rotate: false
+  xy: 474, 39
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wav_ls_3082_7_1.png
+  rotate: false
+  xy: 463, 98
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_0_1.png
+  rotate: false
+  xy: 2, 198
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_0_2.png
+  rotate: false
+  xy: 436, 198
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_1_1.png
+  rotate: false
+  xy: 50, 200
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_1_2.png
+  rotate: false
+  xy: 300, 86
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_2_1.png
+  rotate: false
+  xy: 2, 77
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_2_2.png
+  rotate: false
+  xy: 2, 138
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_2_3.png
+  rotate: false
+  xy: 2, 16
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_3_1.png
+  rotate: false
+  xy: 307, 196
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_3_2.png
+  rotate: false
+  xy: 393, 197
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_7_0.png
+  rotate: false
+  xy: 262, 141
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_7_1.png
+  rotate: false
+  xy: 188, 149
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_7_2.png
+  rotate: false
+  xy: 79, 22
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3081_7_3.png
+  rotate: false
+  xy: 305, 141
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_0_0.png
+  rotate: false
+  xy: 231, 151
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_0_1.png
+  rotate: false
+  xy: 155, 79
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_1_0.png
+  rotate: false
+  xy: 165, 24
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_1_1.png
+  rotate: false
+  xy: 197, 39
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_1_3.png
+  rotate: false
+  xy: 192, 94
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_2_0.png
+  rotate: false
+  xy: 46, 17
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_2_1.png
+  rotate: false
+  xy: 46, 77
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_2_2.png
+  rotate: false
+  xy: 47, 138
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_2_3.png
+  rotate: false
+  xy: 479, 195
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_3_1.png
+  rotate: false
+  xy: 80, 140
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_3_3.png
+  rotate: false
+  xy: 79, 78
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_7_0.png
+  rotate: false
+  xy: 326, 51
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_7_1.png
+  rotate: false
+  xy: 154, 122
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_7_2.png
+  rotate: false
+  xy: 301, 51
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ch_3082_7_3.png
+  rotate: false
+  xy: 231, 115
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_0_0.png
+  rotate: false
+  xy: 411, 15
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_0_1.png
+  rotate: false
+  xy: 406, 92
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_0_2.png
+  rotate: false
+  xy: 490, 76
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_0_3.png
+  rotate: false
+  xy: 358, 2
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_1_1.png
+  rotate: false
+  xy: 236, 39
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_1_2.png
+  rotate: false
+  xy: 361, 141
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_1_3.png
+  rotate: false
+  xy: 494, 145
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_2_1.png
+  rotate: false
+  xy: 479, 76
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_2_2.png
+  rotate: false
+  xy: 459, 75
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_2_3.png
+  rotate: false
+  xy: 42, 2
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_3_0.png
+  rotate: false
+  xy: 450, 111
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_3_1.png
+  rotate: false
+  xy: 500, 109
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_3_2.png
+  rotate: false
+  xy: 462, 111
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_3_3.png
+  rotate: false
+  xy: 321, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_7_0.png
+  rotate: false
+  xy: 396, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_7_1.png
+  rotate: false
+  xy: 333, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_7_2.png
+  rotate: false
+  xy: 383, 2
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3081_7_3.png
+  rotate: false
+  xy: 384, 31
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_0_0.png
+  rotate: false
+  xy: 474, 17
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_0_1.png
+  rotate: false
+  xy: 414, 64
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_0_3.png
+  rotate: false
+  xy: 463, 16
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_1_0.png
+  rotate: false
+  xy: 499, 50
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_1_1.png
+  rotate: false
+  xy: 201, 2
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_1_3.png
+  rotate: false
+  xy: 256, 142
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_2_0.png
+  rotate: false
+  xy: 255, 26
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_2_1.png
+  rotate: false
+  xy: 254, 36
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_2_3.png
+  rotate: false
+  xy: 110, 214
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_3_0.png
+  rotate: false
+  xy: 428, 140
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_3_1.png
+  rotate: false
+  xy: 426, 97
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_3_2.png
+  rotate: false
+  xy: 456, 140
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_3_3.png
+  rotate: false
+  xy: 31, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_ls_3082_7_3.png
+  rotate: false
+  xy: 474, 63
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_0_0.png
+  rotate: false
+  xy: 389, 64
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_0_1.png
+  rotate: false
+  xy: 179, 122
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_0_2.png
+  rotate: false
+  xy: 364, 57
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_0_3.png
+  rotate: false
+  xy: 341, 86
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_1_0.png
+  rotate: false
+  xy: 348, 141
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_1_1.png
+  rotate: false
+  xy: 269, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_1_2.png
+  rotate: false
+  xy: 357, 86
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_1_3.png
+  rotate: false
+  xy: 370, 88
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_2_0.png
+  rotate: false
+  xy: 356, 111
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_2_1.png
+  rotate: false
+  xy: 440, 140
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_2_2.png
+  rotate: false
+  xy: 351, 55
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_2_3.png
+  rotate: false
+  xy: 341, 110
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_3_0.png
+  rotate: false
+  xy: 423, 110
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_3_1.png
+  rotate: false
+  xy: 408, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_3_2.png
+  rotate: false
+  xy: 500, 137
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_3_3.png
+  rotate: false
+  xy: 377, 59
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_7_0.png
+  rotate: false
+  xy: 414, 70
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_7_1.png
+  rotate: false
+  xy: 371, 2
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_7_2.png
+  rotate: false
+  xy: 402, 64
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3081_7_3.png
+  rotate: false
+  xy: 447, 73
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_0_0.png
+  rotate: false
+  xy: 426, 35
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_0_1.png
+  rotate: false
+  xy: 426, 47
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_0_3.png
+  rotate: false
+  xy: 62, 5
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_1_0.png
+  rotate: false
+  xy: 486, 53
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_1_1.png
+  rotate: false
+  xy: 499, 61
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_1_3.png
+  rotate: false
+  xy: 48, 5
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_2_0.png
+  rotate: false
+  xy: 485, 64
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_2_1.png
+  rotate: false
+  xy: 461, 39
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_2_3.png
+  rotate: false
+  xy: 474, 51
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_3_0.png
+  rotate: false
+  xy: 452, 24
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_3_1.png
+  rotate: false
+  xy: 463, 27
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_7_0.png
+  rotate: false
+  xy: 265, 34
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_vicdress_h_wlk_rs_3082_7_1.png
+  rotate: false
+  xy: 439, 33
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+xmas_c20_frozenwaterfall.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_b_0_0.png
+  rotate: false
+  xy: 224, 31
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_b_0_1.png
+  rotate: false
+  xy: 124, 29
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_b_0_2.png
+  rotate: false
+  xy: 74, 28
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_b_0_3.png
+  rotate: false
+  xy: 172, 36
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_b_0_4.png
+  rotate: false
+  xy: 270, 40
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_64_sd_0_0.png
+  rotate: false
+  xy: 317, 85
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenwaterfall_xmas_c20_frozenwaterfall_icon_a.png
+  rotate: false
+  xy: 317, 53
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

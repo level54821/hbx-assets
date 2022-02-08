@@ -1,0 +1,209 @@
+
+hween_c20_cursedmirror.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_a_0_0.png
+  rotate: false
+  xy: 2, 97
+  size: 52, 151
+  orig: 52, 151
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_0.png
+  rotate: false
+  xy: 248, 116
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_1.png
+  rotate: false
+  xy: 236, 34
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_10.png
+  rotate: false
+  xy: 476, 155
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_11.png
+  rotate: false
+  xy: 54, 2
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_12.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_2.png
+  rotate: false
+  xy: 210, 34
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_3.png
+  rotate: false
+  xy: 184, 34
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_4.png
+  rotate: false
+  xy: 158, 30
+  size: 24, 84
+  orig: 24, 84
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_5.png
+  rotate: false
+  xy: 132, 28
+  size: 24, 86
+  orig: 24, 86
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_6.png
+  rotate: false
+  xy: 106, 25
+  size: 24, 89
+  orig: 24, 89
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_7.png
+  rotate: false
+  xy: 28, 2
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_8.png
+  rotate: false
+  xy: 450, 155
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_b_0_9.png
+  rotate: false
+  xy: 80, 21
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_1.png
+  rotate: false
+  xy: 394, 140
+  size: 26, 108
+  orig: 26, 108
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_10.png
+  rotate: false
+  xy: 120, 116
+  size: 30, 132
+  orig: 30, 132
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_11.png
+  rotate: false
+  xy: 216, 116
+  size: 30, 132
+  orig: 30, 132
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_12.png
+  rotate: false
+  xy: 184, 116
+  size: 30, 132
+  orig: 30, 132
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_13.png
+  rotate: false
+  xy: 152, 116
+  size: 30, 132
+  orig: 30, 132
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_2.png
+  rotate: false
+  xy: 422, 140
+  size: 26, 108
+  orig: 26, 108
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_3.png
+  rotate: false
+  xy: 366, 137
+  size: 26, 111
+  orig: 26, 111
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_4.png
+  rotate: false
+  xy: 338, 137
+  size: 26, 111
+  orig: 26, 111
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_5.png
+  rotate: false
+  xy: 310, 137
+  size: 26, 111
+  orig: 26, 111
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_6.png
+  rotate: false
+  xy: 279, 119
+  size: 29, 129
+  orig: 29, 129
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_7.png
+  rotate: false
+  xy: 248, 119
+  size: 29, 129
+  orig: 29, 129
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_8.png
+  rotate: false
+  xy: 88, 116
+  size: 30, 132
+  orig: 30, 132
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_c_0_9.png
+  rotate: false
+  xy: 56, 116
+  size: 30, 132
+  orig: 30, 132
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_64_sd_0_0.png
+  rotate: false
+  xy: 262, 93
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+hween_c20_cursedmirror_hween_c20_cursedmirror_icon_a.png
+  rotate: false
+  xy: 310, 104
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1

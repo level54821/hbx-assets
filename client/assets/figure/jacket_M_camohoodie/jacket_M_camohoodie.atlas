@@ -1,0 +1,573 @@
+
+jacket_M_camohoodie.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_M_camohoodie_h_crr_lc_4011_0_0.png
+  rotate: false
+  xy: 879, 47
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_lc_4011_2_0.png
+  rotate: false
+  xy: 800, 40
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_lc_4011_3_0.png
+  rotate: false
+  xy: 372, 23
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_lc_4011_4_0.png
+  rotate: false
+  xy: 431, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_lc_4011_6_0.png
+  rotate: false
+  xy: 811, 42
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_0_0.png
+  rotate: false
+  xy: 413, 40
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_1_0.png
+  rotate: false
+  xy: 655, 42
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_2_0.png
+  rotate: false
+  xy: 448, 36
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_3_0.png
+  rotate: false
+  xy: 213, 10
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_4_0.png
+  rotate: false
+  xy: 704, 41
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_5_0.png
+  rotate: false
+  xy: 638, 42
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_6_0.png
+  rotate: false
+  xy: 885, 47
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_crr_rc_4011_7_0.png
+  rotate: false
+  xy: 830, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_0_0.png
+  rotate: false
+  xy: 393, 43
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_1_0.png
+  rotate: false
+  xy: 295, 48
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_2_0.png
+  rotate: false
+  xy: 322, 46
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_3_0.png
+  rotate: false
+  xy: 671, 42
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_4_0.png
+  rotate: false
+  xy: 686, 45
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_5_0.png
+  rotate: false
+  xy: 268, 48
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_6_0.png
+  rotate: false
+  xy: 372, 51
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_drk_rc_4011_7_0.png
+  rotate: false
+  xy: 861, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_lay_cc_4011_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_lay_lc_4011_2_0.png
+  rotate: false
+  xy: 347, 50
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_lay_rc_4011_2_0.png
+  rotate: false
+  xy: 243, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_cc_4011_0_0.png
+  rotate: false
+  xy: 80, 33
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_cc_4011_1_0.png
+  rotate: false
+  xy: 136, 39
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_cc_4011_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_cc_4011_3_0.png
+  rotate: false
+  xy: 49, 35
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_cc_4011_7_0.png
+  rotate: false
+  xy: 109, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_lc_4011_2_0.png
+  rotate: false
+  xy: 839, 40
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_lc_4011_3_0.png
+  rotate: false
+  xy: 237, 8
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_lc_4011_7_0.png
+  rotate: false
+  xy: 188, 7
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_rc_4011_0_0.png
+  rotate: false
+  xy: 511, 34
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_rc_4011_1_0.png
+  rotate: false
+  xy: 717, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_rc_4011_2_0.png
+  rotate: false
+  xy: 100, 2
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_rc_4011_3_0.png
+  rotate: false
+  xy: 540, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_std_rc_4011_7_0.png
+  rotate: false
+  xy: 175, 7
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_0_1.png
+  rotate: false
+  xy: 224, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_1_1.png
+  rotate: false
+  xy: 161, 8
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_2_1.png
+  rotate: false
+  xy: 204, 38
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_3_1.png
+  rotate: false
+  xy: 80, 2
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_4_0.png
+  rotate: false
+  xy: 164, 36
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_4_1.png
+  rotate: false
+  xy: 185, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_5_1.png
+  rotate: false
+  xy: 115, 6
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_6_1.png
+  rotate: false
+  xy: 56, 8
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wav_lc_4011_7_1.png
+  rotate: false
+  xy: 35, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_0_1.png
+  rotate: false
+  xy: 872, 45
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_0_2.png
+  rotate: false
+  xy: 821, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_0_3.png
+  rotate: false
+  xy: 383, 26
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_1_1.png
+  rotate: false
+  xy: 622, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_1_2.png
+  rotate: false
+  xy: 788, 40
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_1_3.png
+  rotate: false
+  xy: 588, 40
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_2_0.png
+  rotate: false
+  xy: 854, 39
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_2_1.png
+  rotate: false
+  xy: 777, 39
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_2_2.png
+  rotate: false
+  xy: 847, 39
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_2_3.png
+  rotate: false
+  xy: 393, 28
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_3_1.png
+  rotate: false
+  xy: 201, 7
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_3_2.png
+  rotate: false
+  xy: 135, 2
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_3_3.png
+  rotate: false
+  xy: 741, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_7_0.png
+  rotate: false
+  xy: 310, 20
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_7_1.png
+  rotate: false
+  xy: 729, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_7_2.png
+  rotate: false
+  xy: 298, 20
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_lc_4011_7_3.png
+  rotate: false
+  xy: 286, 20
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_0_0.png
+  rotate: false
+  xy: 360, 23
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_0_1.png
+  rotate: false
+  xy: 147, 11
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_0_2.png
+  rotate: false
+  xy: 335, 19
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_0_3.png
+  rotate: false
+  xy: 554, 39
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_1_1.png
+  rotate: false
+  xy: 605, 40
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_1_3.png
+  rotate: false
+  xy: 571, 39
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_2_0.png
+  rotate: false
+  xy: 481, 34
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_2_1.png
+  rotate: false
+  xy: 465, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_2_2.png
+  rotate: false
+  xy: 526, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_2_3.png
+  rotate: false
+  xy: 496, 32
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_3_0.png
+  rotate: false
+  xy: 249, 15
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_3_1.png
+  rotate: false
+  xy: 753, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_3_2.png
+  rotate: false
+  xy: 261, 15
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_3_3.png
+  rotate: false
+  xy: 224, 8
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_7_0.png
+  rotate: false
+  xy: 322, 19
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_7_1.png
+  rotate: false
+  xy: 273, 20
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_7_2.png
+  rotate: false
+  xy: 347, 23
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jacket_M_camohoodie_h_wlk_rc_4011_7_3.png
+  rotate: false
+  xy: 765, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1

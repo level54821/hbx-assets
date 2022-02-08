@@ -1,0 +1,580 @@
+
+jacket_M_runway.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_M_runway_h_crr_lc_2146_0_0.png
+  rotate: false
+  xy: 503, 9
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_lc_2146_2_0.png
+  rotate: false
+  xy: 268, 14
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_lc_2146_3_0.png
+  rotate: false
+  xy: 385, 24
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_0_0.png
+  rotate: false
+  xy: 48, 11
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_1_0.png
+  rotate: false
+  xy: 451, 12
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_2_0.png
+  rotate: false
+  xy: 131, 6
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_3_0.png
+  rotate: false
+  xy: 331, 25
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_4_0.png
+  rotate: false
+  xy: 441, 16
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_5_0.png
+  rotate: false
+  xy: 452, 27
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_6_0.png
+  rotate: false
+  xy: 250, 17
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_crr_rc_2146_7_0.png
+  rotate: false
+  xy: 196, 2
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_0_0.png
+  rotate: false
+  xy: 62, 17
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_1_0.png
+  rotate: false
+  xy: 94, 17
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_2_0.png
+  rotate: false
+  xy: 90, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_3_0.png
+  rotate: false
+  xy: 250, 33
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_4_0.png
+  rotate: false
+  xy: 242, 26
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_5_0.png
+  rotate: false
+  xy: 79, 17
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_6_0.png
+  rotate: false
+  xy: 426, 20
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_drk_rc_2146_7_0.png
+  rotate: false
+  xy: 289, 32
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_lay_cc_2146_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_lay_cc_2147_2_0.png
+  rotate: false
+  xy: 163, 40
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_lay_lc_2146_2_0.png
+  rotate: false
+  xy: 163, 31
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_lay_rc_2146_2_0.png
+  rotate: false
+  xy: 420, 47
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2146_0_0.png
+  rotate: false
+  xy: 111, 27
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2146_1_0.png
+  rotate: false
+  xy: 141, 30
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2146_2_0.png
+  rotate: false
+  xy: 79, 29
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2146_3_0.png
+  rotate: false
+  xy: 43, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2146_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2147_0_0.png
+  rotate: false
+  xy: 218, 43
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2147_1_0.png
+  rotate: false
+  xy: 300, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2147_2_0.png
+  rotate: false
+  xy: 191, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2147_3_0.png
+  rotate: false
+  xy: 245, 46
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_cc_2147_7_0.png
+  rotate: false
+  xy: 273, 50
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_lc_2146_0_0.png
+  rotate: false
+  xy: 263, 30
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_lc_2146_2_0.png
+  rotate: false
+  xy: 276, 2
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_lc_2146_3_0.png
+  rotate: false
+  xy: 344, 26
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_lc_2146_7_0.png
+  rotate: false
+  xy: 414, 27
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_rc_2146_0_0.png
+  rotate: false
+  xy: 118, 6
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_rc_2146_2_0.png
+  rotate: false
+  xy: 158, 10
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_std_rc_2146_3_0.png
+  rotate: false
+  xy: 372, 24
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_0_0.png
+  rotate: false
+  xy: 357, 25
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_1_0.png
+  rotate: false
+  xy: 466, 27
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_1_1.png
+  rotate: false
+  xy: 316, 26
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_2_1.png
+  rotate: false
+  xy: 468, 45
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_3_0.png
+  rotate: false
+  xy: 357, 43
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_4_0.png
+  rotate: false
+  xy: 437, 46
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_5_0.png
+  rotate: false
+  xy: 453, 45
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_5_1.png
+  rotate: false
+  xy: 389, 45
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_6_0.png
+  rotate: false
+  xy: 338, 46
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wav_lc_2146_7_0.png
+  rotate: false
+  xy: 320, 44
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_0_0.png
+  rotate: false
+  xy: 259, 14
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_0_1.png
+  rotate: false
+  xy: 284, 2
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_0_2.png
+  rotate: false
+  xy: 276, 18
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_0_3.png
+  rotate: false
+  xy: 426, 32
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_1_2.png
+  rotate: false
+  xy: 104, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_1_3.png
+  rotate: false
+  xy: 300, 28
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_2_0.png
+  rotate: false
+  xy: 224, 2
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_2_1.png
+  rotate: false
+  xy: 208, 25
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_2_2.png
+  rotate: false
+  xy: 216, 2
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_2_3.png
+  rotate: false
+  xy: 208, 2
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_3_1.png
+  rotate: false
+  xy: 184, 21
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_3_3.png
+  rotate: false
+  xy: 171, 10
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_7_0.png
+  rotate: false
+  xy: 184, 2
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_7_1.png
+  rotate: false
+  xy: 493, 25
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_lc_2146_7_3.png
+  rotate: false
+  xy: 230, 27
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_0_0.png
+  rotate: false
+  xy: 34, 11
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_0_1.png
+  rotate: false
+  xy: 405, 45
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_0_2.png
+  rotate: false
+  xy: 498, 43
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_0_3.png
+  rotate: false
+  xy: 374, 44
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_1_0.png
+  rotate: false
+  xy: 76, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_1_1.png
+  rotate: false
+  xy: 273, 34
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_1_2.png
+  rotate: false
+  xy: 62, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_1_3.png
+  rotate: false
+  xy: 437, 32
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_2_1.png
+  rotate: false
+  xy: 483, 45
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_2_2.png
+  rotate: false
+  xy: 144, 10
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_2_3.png
+  rotate: false
+  xy: 399, 27
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_3_1.png
+  rotate: false
+  xy: 478, 8
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_3_2.png
+  rotate: false
+  xy: 465, 8
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_3_3.png
+  rotate: false
+  xy: 196, 25
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_7_1.png
+  rotate: false
+  xy: 218, 27
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_7_2.png
+  rotate: false
+  xy: 491, 7
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+jacket_M_runway_h_wlk_rc_2146_7_3.png
+  rotate: false
+  xy: 480, 27
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1

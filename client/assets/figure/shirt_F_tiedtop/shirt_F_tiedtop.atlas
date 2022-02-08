@@ -1,0 +1,1119 @@
+
+shirt_F_tiedtop.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_tiedtop_h_crr_ls_3122_0_0.png
+  rotate: false
+  xy: 811, 19
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3122_1_0.png
+  rotate: false
+  xy: 402, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3122_2_0.png
+  rotate: false
+  xy: 759, 19
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3122_3_0.png
+  rotate: false
+  xy: 591, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3122_7_0.png
+  rotate: false
+  xy: 709, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3123_0_0.png
+  rotate: false
+  xy: 475, 4
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3123_2_0.png
+  rotate: false
+  xy: 543, 10
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3123_3_0.png
+  rotate: false
+  xy: 667, 18
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_ls_3123_7_0.png
+  rotate: false
+  xy: 487, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_0_0.png
+  rotate: false
+  xy: 547, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_2_0.png
+  rotate: false
+  xy: 336, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_3_0.png
+  rotate: false
+  xy: 514, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_4_0.png
+  rotate: false
+  xy: 767, 19
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_5_0.png
+  rotate: false
+  xy: 569, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_6_0.png
+  rotate: false
+  xy: 433, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3122_7_0.png
+  rotate: false
+  xy: 216, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_0_0.png
+  rotate: false
+  xy: 1011, 26
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_1_0.png
+  rotate: false
+  xy: 993, 26
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_2_0.png
+  rotate: false
+  xy: 954, 24
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_3_0.png
+  rotate: false
+  xy: 458, 10
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_4_0.png
+  rotate: false
+  xy: 553, 11
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_5_0.png
+  rotate: false
+  xy: 54, 2
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_6_0.png
+  rotate: false
+  xy: 548, 11
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_crr_rs_3123_7_0.png
+  rotate: false
+  xy: 508, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_0_0.png
+  rotate: false
+  xy: 241, 19
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_1_0.png
+  rotate: false
+  xy: 645, 21
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_2_0.png
+  rotate: false
+  xy: 358, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_3_0.png
+  rotate: false
+  xy: 413, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_4_0.png
+  rotate: false
+  xy: 790, 18
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_5_0.png
+  rotate: false
+  xy: 138, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_6_0.png
+  rotate: false
+  xy: 676, 21
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3122_7_0.png
+  rotate: false
+  xy: 431, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3123_0_0.png
+  rotate: false
+  xy: 977, 22
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3123_1_0.png
+  rotate: false
+  xy: 538, 7
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3123_2_0.png
+  rotate: false
+  xy: 970, 22
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_drk_rs_3123_3_0.png
+  rotate: false
+  xy: 126, 2
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_lay_ch_3122_2_0.png
+  rotate: false
+  xy: 2, 8
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_lay_ls_3122_2_0.png
+  rotate: false
+  xy: 659, 24
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_lay_ls_3123_2_0.png
+  rotate: false
+  xy: 495, 5
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_lay_rs_3122_2_0.png
+  rotate: false
+  xy: 189, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_lay_rs_3123_2_0.png
+  rotate: false
+  xy: 827, 22
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ch_3122_0_0.png
+  rotate: false
+  xy: 33, 8
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ch_3122_1_0.png
+  rotate: false
+  xy: 116, 7
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ch_3122_2_0.png
+  rotate: false
+  xy: 63, 6
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ch_3122_3_0.png
+  rotate: false
+  xy: 91, 5
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ch_3122_7_0.png
+  rotate: false
+  xy: 138, 11
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ch_3123_0_0.png
+  rotate: false
+  xy: 358, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3122_0_0.png
+  rotate: false
+  xy: 775, 19
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3122_1_0.png
+  rotate: false
+  xy: 390, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3122_2_0.png
+  rotate: false
+  xy: 382, 2
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3122_3_0.png
+  rotate: false
+  xy: 303, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3122_7_0.png
+  rotate: false
+  xy: 536, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3123_0_0.png
+  rotate: false
+  xy: 653, 15
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3123_2_0.png
+  rotate: false
+  xy: 485, 4
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3123_3_0.png
+  rotate: false
+  xy: 515, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_ls_3123_7_0.png
+  rotate: false
+  xy: 461, 4
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3122_0_0.png
+  rotate: false
+  xy: 442, 16
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3122_1_0.png
+  rotate: false
+  xy: 176, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3122_2_0.png
+  rotate: false
+  xy: 455, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3122_3_0.png
+  rotate: false
+  xy: 503, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3122_7_0.png
+  rotate: false
+  xy: 525, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3123_0_0.png
+  rotate: false
+  xy: 862, 25
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3123_1_0.png
+  rotate: false
+  xy: 24, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_std_rs_3123_2_0.png
+  rotate: false
+  xy: 937, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_0_0.png
+  rotate: false
+  xy: 380, 16
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_0_1.png
+  rotate: false
+  xy: 491, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_1_0.png
+  rotate: false
+  xy: 424, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_1_1.png
+  rotate: false
+  xy: 818, 21
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_2_0.png
+  rotate: false
+  xy: 226, 18
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_3_0.png
+  rotate: false
+  xy: 176, 14
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_3_1.png
+  rotate: false
+  xy: 163, 11
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_4_0.png
+  rotate: false
+  xy: 467, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_4_1.png
+  rotate: false
+  xy: 479, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_5_1.png
+  rotate: false
+  xy: 270, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_6_0.png
+  rotate: false
+  xy: 189, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_6_1.png
+  rotate: false
+  xy: 283, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_7_0.png
+  rotate: false
+  xy: 226, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3122_7_1.png
+  rotate: false
+  xy: 239, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_0_0.png
+  rotate: false
+  xy: 169, 4
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_1_0.png
+  rotate: false
+  xy: 468, 4
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_2_1.png
+  rotate: false
+  xy: 901, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_3_0.png
+  rotate: false
+  xy: 946, 24
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_4_0.png
+  rotate: false
+  xy: 160, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_5_0.png
+  rotate: false
+  xy: 919, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_6_0.png
+  rotate: false
+  xy: 836, 22
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_6_1.png
+  rotate: false
+  xy: 962, 23
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wav_ls_3123_7_0.png
+  rotate: false
+  xy: 892, 25
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_0_0.png
+  rotate: false
+  xy: 735, 18
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_0_1.png
+  rotate: false
+  xy: 743, 18
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_0_2.png
+  rotate: false
+  xy: 783, 18
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_0_3.png
+  rotate: false
+  xy: 719, 17
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_1_0.png
+  rotate: false
+  xy: 344, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_1_1.png
+  rotate: false
+  xy: 356, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_1_2.png
+  rotate: false
+  xy: 332, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_1_3.png
+  rotate: false
+  xy: 533, 7
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_2_0.png
+  rotate: false
+  xy: 751, 18
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_2_1.png
+  rotate: false
+  xy: 727, 17
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_2_2.png
+  rotate: false
+  xy: 804, 18
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_2_3.png
+  rotate: false
+  xy: 797, 18
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_3_0.png
+  rotate: false
+  xy: 602, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_3_1.png
+  rotate: false
+  xy: 624, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_3_2.png
+  rotate: false
+  xy: 613, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_3_3.png
+  rotate: false
+  xy: 347, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_7_1.png
+  rotate: false
+  xy: 580, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_7_2.png
+  rotate: false
+  xy: 635, 16
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3122_7_3.png
+  rotate: false
+  xy: 213, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_0_1.png
+  rotate: false
+  xy: 522, 10
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_0_2.png
+  rotate: false
+  xy: 490, 4
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_1_0.png
+  rotate: false
+  xy: 44, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_1_1.png
+  rotate: false
+  xy: 1002, 26
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_1_2.png
+  rotate: false
+  xy: 116, 2
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_1_3.png
+  rotate: false
+  xy: 135, 3
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_2_0.png
+  rotate: false
+  xy: 455, 3
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_2_1.png
+  rotate: false
+  xy: 480, 4
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_2_2.png
+  rotate: false
+  xy: 528, 10
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_2_3.png
+  rotate: false
+  xy: 1020, 26
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_3_1.png
+  rotate: false
+  xy: 450, 10
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_3_3.png
+  rotate: false
+  xy: 448, 3
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_7_0.png
+  rotate: false
+  xy: 473, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_7_1.png
+  rotate: false
+  xy: 466, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_7_2.png
+  rotate: false
+  xy: 480, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_ls_3123_7_3.png
+  rotate: false
+  xy: 645, 15
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_0_0.png
+  rotate: false
+  xy: 291, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_0_1.png
+  rotate: false
+  xy: 252, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_0_2.png
+  rotate: false
+  xy: 367, 16
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_0_3.png
+  rotate: false
+  xy: 419, 14
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_1_0.png
+  rotate: false
+  xy: 320, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_1_1.png
+  rotate: false
+  xy: 256, 19
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_1_2.png
+  rotate: false
+  xy: 308, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_1_3.png
+  rotate: false
+  xy: 296, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_2_0.png
+  rotate: false
+  xy: 406, 14
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_2_1.png
+  rotate: false
+  xy: 278, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_2_2.png
+  rotate: false
+  xy: 393, 14
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_2_3.png
+  rotate: false
+  xy: 265, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_3_0.png
+  rotate: false
+  xy: 325, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_3_1.png
+  rotate: false
+  xy: 205, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_3_2.png
+  rotate: false
+  xy: 314, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_3_3.png
+  rotate: false
+  xy: 202, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_7_0.png
+  rotate: false
+  xy: 699, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_7_1.png
+  rotate: false
+  xy: 371, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_7_2.png
+  rotate: false
+  xy: 689, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3122_7_3.png
+  rotate: false
+  xy: 558, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_0_0.png
+  rotate: false
+  xy: 34, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_0_1.png
+  rotate: false
+  xy: 984, 25
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_0_2.png
+  rotate: false
+  xy: 13, 2
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_0_3.png
+  rotate: false
+  xy: 910, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_1_0.png
+  rotate: false
+  xy: 872, 25
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_1_1.png
+  rotate: false
+  xy: 928, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_1_2.png
+  rotate: false
+  xy: 882, 25
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_1_3.png
+  rotate: false
+  xy: 659, 17
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_2_0.png
+  rotate: false
+  xy: 150, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_2_1.png
+  rotate: false
+  xy: 853, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_2_2.png
+  rotate: false
+  xy: 844, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_3_1.png
+  rotate: false
+  xy: 441, 3
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_3_3.png
+  rotate: false
+  xy: 984, 19
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_7_1.png
+  rotate: false
+  xy: 442, 10
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_7_2.png
+  rotate: false
+  xy: 501, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_tiedtop_h_wlk_rs_3123_7_3.png
+  rotate: false
+  xy: 494, 10
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,965 @@
+
+pigletbaby.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pigletbaby_pigletbaby_64_a_0_101.png
+  rotate: false
+  xy: 808, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_102.png
+  rotate: false
+  xy: 1088, 36
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_103.png
+  rotate: false
+  xy: 52, 8
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_104.png
+  rotate: false
+  xy: 859, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_105.png
+  rotate: false
+  xy: 1524, 40
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_106.png
+  rotate: false
+  xy: 911, 41
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_107.png
+  rotate: false
+  xy: 451, 42
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_108.png
+  rotate: false
+  xy: 937, 41
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_109.png
+  rotate: false
+  xy: 885, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_1100.png
+  rotate: false
+  xy: 1952, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_1101.png
+  rotate: false
+  xy: 1908, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_1102.png
+  rotate: false
+  xy: 1930, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_200.png
+  rotate: false
+  xy: 1134, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_201.png
+  rotate: false
+  xy: 1111, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_300.png
+  rotate: false
+  xy: 1251, 39
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_301.png
+  rotate: false
+  xy: 1274, 39
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_302.png
+  rotate: false
+  xy: 1341, 32
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_400.png
+  rotate: false
+  xy: 732, 38
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_500.png
+  rotate: false
+  xy: 1504, 37
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_501.png
+  rotate: false
+  xy: 1180, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_503.png
+  rotate: false
+  xy: 337, 16
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_600.png
+  rotate: false
+  xy: 1157, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_601.png
+  rotate: false
+  xy: 1297, 36
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_602.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_800.png
+  rotate: false
+  xy: 1997, 43
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_0_900.png
+  rotate: false
+  xy: 988, 42
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_0.png
+  rotate: false
+  xy: 283, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_101.png
+  rotate: false
+  xy: 166, 41
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_102.png
+  rotate: false
+  xy: 137, 41
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_103.png
+  rotate: false
+  xy: 51, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_104.png
+  rotate: false
+  xy: 195, 42
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_105.png
+  rotate: false
+  xy: 423, 42
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_106.png
+  rotate: false
+  xy: 649, 45
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_107.png
+  rotate: false
+  xy: 535, 45
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_108.png
+  rotate: false
+  xy: 677, 45
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_109.png
+  rotate: false
+  xy: 564, 45
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_1100.png
+  rotate: false
+  xy: 507, 44
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_1101.png
+  rotate: false
+  xy: 479, 44
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_1102.png
+  rotate: false
+  xy: 621, 45
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_200.png
+  rotate: false
+  xy: 339, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_201.png
+  rotate: false
+  xy: 311, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_300.png
+  rotate: false
+  xy: 367, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_301.png
+  rotate: false
+  xy: 395, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_302.png
+  rotate: false
+  xy: 27, 29
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_400.png
+  rotate: false
+  xy: 109, 40
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_500.png
+  rotate: false
+  xy: 758, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_501.png
+  rotate: false
+  xy: 1064, 36
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_502.png
+  rotate: false
+  xy: 783, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_503.png
+  rotate: false
+  xy: 27, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_601.png
+  rotate: false
+  xy: 254, 41
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_602.png
+  rotate: false
+  xy: 80, 40
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_800.png
+  rotate: false
+  xy: 593, 45
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_1_900.png
+  rotate: false
+  xy: 225, 42
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1000.png
+  rotate: false
+  xy: 1422, 15
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1001.png
+  rotate: false
+  xy: 1443, 15
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1002.png
+  rotate: false
+  xy: 1662, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1003.png
+  rotate: false
+  xy: 1684, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_101.png
+  rotate: false
+  xy: 1039, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_102.png
+  rotate: false
+  xy: 1547, 41
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_103.png
+  rotate: false
+  xy: 1203, 38
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_104.png
+  rotate: false
+  xy: 833, 39
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_105.png
+  rotate: false
+  xy: 1595, 40
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_106.png
+  rotate: false
+  xy: 1525, 18
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_107.png
+  rotate: false
+  xy: 1571, 41
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_108.png
+  rotate: false
+  xy: 602, 23
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_109.png
+  rotate: false
+  xy: 1819, 42
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1100.png
+  rotate: false
+  xy: 1381, 14
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1101.png
+  rotate: false
+  xy: 1974, 43
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_1102.png
+  rotate: false
+  xy: 1770, 43
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_200.png
+  rotate: false
+  xy: 1842, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_201.png
+  rotate: false
+  xy: 1618, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_300.png
+  rotate: false
+  xy: 1864, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_301.png
+  rotate: false
+  xy: 1886, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_302.png
+  rotate: false
+  xy: 2, 30
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_400.png
+  rotate: false
+  xy: 2019, 42
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_500.png
+  rotate: false
+  xy: 1441, 37
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_501.png
+  rotate: false
+  xy: 1706, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_502.png
+  rotate: false
+  xy: 1419, 37
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_503.png
+  rotate: false
+  xy: 1227, 39
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_600.png
+  rotate: false
+  xy: 1640, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_601.png
+  rotate: false
+  xy: 1014, 42
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_602.png
+  rotate: false
+  xy: 963, 41
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_800.png
+  rotate: false
+  xy: 1795, 44
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_2_900.png
+  rotate: false
+  xy: 705, 43
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_100.png
+  rotate: false
+  xy: 551, 19
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_101.png
+  rotate: false
+  xy: 132, 11
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_102.png
+  rotate: false
+  xy: 187, 12
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_103.png
+  rotate: false
+  xy: 602, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_104.png
+  rotate: false
+  xy: 1381, 34
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_105.png
+  rotate: false
+  xy: 1546, 15
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_106.png
+  rotate: false
+  xy: 280, 15
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_107.png
+  rotate: false
+  xy: 113, 11
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_108.png
+  rotate: false
+  xy: 299, 15
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_109.png
+  rotate: false
+  xy: 149, 12
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_1100.png
+  rotate: false
+  xy: 623, 23
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_1101.png
+  rotate: false
+  xy: 1403, 13
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_1102.png
+  rotate: false
+  xy: 1506, 15
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_200.png
+  rotate: false
+  xy: 318, 15
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_201.png
+  rotate: false
+  xy: 568, 19
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_300.png
+  rotate: false
+  xy: 376, 15
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_301.png
+  rotate: false
+  xy: 395, 15
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_302.png
+  rotate: false
+  xy: 1319, 32
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_400.png
+  rotate: false
+  xy: 241, 15
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_500.png
+  rotate: false
+  xy: 699, 18
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_501.png
+  rotate: false
+  xy: 261, 14
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_502.png
+  rotate: false
+  xy: 1563, 16
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_503.png
+  rotate: false
+  xy: 77, 2
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_601.png
+  rotate: false
+  xy: 96, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_602.png
+  rotate: false
+  xy: 585, 19
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_800.png
+  rotate: false
+  xy: 621, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_3_900.png
+  rotate: false
+  xy: 1463, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_101.png
+  rotate: false
+  xy: 466, 13
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_102.png
+  rotate: false
+  xy: 483, 15
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_103.png
+  rotate: false
+  xy: 1400, 34
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_104.png
+  rotate: false
+  xy: 1580, 17
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_105.png
+  rotate: false
+  xy: 1597, 17
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_106.png
+  rotate: false
+  xy: 1464, 15
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_107.png
+  rotate: false
+  xy: 1728, 39
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_108.png
+  rotate: false
+  xy: 1485, 15
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_109.png
+  rotate: false
+  xy: 1749, 39
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_1100.png
+  rotate: false
+  xy: 680, 22
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_1101.png
+  rotate: false
+  xy: 642, 23
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_1102.png
+  rotate: false
+  xy: 661, 22
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_200.png
+  rotate: false
+  xy: 357, 16
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_201.png
+  rotate: false
+  xy: 414, 15
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_300.png
+  rotate: false
+  xy: 222, 15
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_302.png
+  rotate: false
+  xy: 1362, 26
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_400.png
+  rotate: false
+  xy: 517, 17
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_500.png
+  rotate: false
+  xy: 500, 17
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_501.png
+  rotate: false
+  xy: 431, 14
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_503.png
+  rotate: false
+  xy: 168, 12
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_600.png
+  rotate: false
+  xy: 534, 18
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_601.png
+  rotate: false
+  xy: 449, 14
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_602.png
+  rotate: false
+  xy: 204, 13
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_800.png
+  rotate: false
+  xy: 638, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_a_7_900.png
+  rotate: false
+  xy: 1484, 37
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+pigletbaby_pigletbaby_64_sd_0_0.png
+  rotate: false
+  xy: 222, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1

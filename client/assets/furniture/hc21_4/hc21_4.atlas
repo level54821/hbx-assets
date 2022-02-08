@@ -1,0 +1,48 @@
+
+hc21_4.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc21_4_hc21_4_64_a_0_0.png
+  rotate: false
+  xy: 55, 34
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+hc21_4_hc21_4_64_a_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+hc21_4_hc21_4_64_a_0_2.png
+  rotate: false
+  xy: 108, 34
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+hc21_4_hc21_4_64_a_0_3.png
+  rotate: false
+  xy: 157, 34
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+hc21_4_hc21_4_64_sd_0_0.png
+  rotate: false
+  xy: 191, 98
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+hc21_4_hc21_4_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

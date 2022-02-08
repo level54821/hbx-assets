@@ -1,0 +1,629 @@
+
+frog.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frog_frog_64_a_0_0.png
+  rotate: false
+  xy: 914, 99
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_101.png
+  rotate: false
+  xy: 269, 98
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_102.png
+  rotate: false
+  xy: 41, 25
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_103.png
+  rotate: false
+  xy: 486, 101
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_1100.png
+  rotate: false
+  xy: 970, 97
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_1200.png
+  rotate: false
+  xy: 102, 66
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_1201.png
+  rotate: false
+  xy: 127, 67
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_1300.png
+  rotate: false
+  xy: 82, 3
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_200.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_201.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_400.png
+  rotate: false
+  xy: 886, 99
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_500.png
+  rotate: false
+  xy: 942, 99
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_0_900.png
+  rotate: false
+  xy: 943, 68
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_100.png
+  rotate: false
+  xy: 648, 103
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_101.png
+  rotate: false
+  xy: 519, 101
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_102.png
+  rotate: false
+  xy: 162, 102
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_103.png
+  rotate: false
+  xy: 551, 104
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_1100.png
+  rotate: false
+  xy: 897, 70
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_1200.png
+  rotate: false
+  xy: 100, 27
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_1201.png
+  rotate: false
+  xy: 121, 35
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_1300.png
+  rotate: false
+  xy: 645, 84
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_200.png
+  rotate: false
+  xy: 519, 83
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_201.png
+  rotate: false
+  xy: 613, 85
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_400.png
+  rotate: false
+  xy: 679, 103
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_500.png
+  rotate: false
+  xy: 710, 103
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_1_900.png
+  rotate: false
+  xy: 142, 38
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_100.png
+  rotate: false
+  xy: 828, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1000.png
+  rotate: false
+  xy: 41, 58
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1001.png
+  rotate: false
+  xy: 2, 25
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1002.png
+  rotate: false
+  xy: 2, 63
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1003.png
+  rotate: false
+  xy: 41, 90
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_101.png
+  rotate: false
+  xy: 585, 103
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_102.png
+  rotate: false
+  xy: 125, 98
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_103.png
+  rotate: false
+  xy: 857, 101
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1100.png
+  rotate: false
+  xy: 301, 96
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1200.png
+  rotate: false
+  xy: 460, 93
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1201.png
+  rotate: false
+  xy: 332, 95
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_1300.png
+  rotate: false
+  xy: 582, 82
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_200.png
+  rotate: false
+  xy: 259, 77
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_201.png
+  rotate: false
+  xy: 551, 83
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_300.png
+  rotate: false
+  xy: 414, 90
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_301.png
+  rotate: false
+  xy: 387, 90
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_302.png
+  rotate: false
+  xy: 437, 90
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_303.png
+  rotate: false
+  xy: 360, 90
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_400.png
+  rotate: false
+  xy: 201, 75
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_500.png
+  rotate: false
+  xy: 230, 74
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_600.png
+  rotate: false
+  xy: 81, 97
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_700.png
+  rotate: false
+  xy: 235, 99
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_701.png
+  rotate: false
+  xy: 201, 100
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_800.png
+  rotate: false
+  xy: 770, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_801.png
+  rotate: false
+  xy: 799, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_802.png
+  rotate: false
+  xy: 741, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_803.png
+  rotate: false
+  xy: 617, 103
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_2_900.png
+  rotate: false
+  xy: 79, 58
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_100.png
+  rotate: false
+  xy: 699, 79
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_101.png
+  rotate: false
+  xy: 154, 16
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_102.png
+  rotate: false
+  xy: 849, 73
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_103.png
+  rotate: false
+  xy: 725, 79
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_1100.png
+  rotate: false
+  xy: 920, 70
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_1200.png
+  rotate: false
+  xy: 75, 25
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_1201.png
+  rotate: false
+  xy: 997, 95
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_1300.png
+  rotate: false
+  xy: 178, 31
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_200.png
+  rotate: false
+  xy: 290, 74
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_201.png
+  rotate: false
+  xy: 175, 52
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_400.png
+  rotate: false
+  xy: 751, 79
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_500.png
+  rotate: false
+  xy: 673, 79
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_3_900.png
+  rotate: false
+  xy: 966, 68
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_0.png
+  rotate: false
+  xy: 777, 77
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_101.png
+  rotate: false
+  xy: 825, 75
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_102.png
+  rotate: false
+  xy: 151, 67
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_103.png
+  rotate: false
+  xy: 801, 77
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_1100.png
+  rotate: false
+  xy: 988, 69
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_1200.png
+  rotate: false
+  xy: 873, 71
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_1201.png
+  rotate: false
+  xy: 175, 74
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_1300.png
+  rotate: false
+  xy: 62, 2
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_200.png
+  rotate: false
+  xy: 108, 3
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+frog_frog_64_a_7_900.png
+  rotate: false
+  xy: 132, 9
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_0_1600.png
+  rotate: false
+  xy: 633, 64
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_1_1600.png
+  rotate: false
+  xy: 713, 59
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_1_1900.png
+  rotate: false
+  xy: 178, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_2_1400.png
+  rotate: false
+  xy: 653, 64
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_2_1500.png
+  rotate: false
+  xy: 460, 73
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_2_1600.png
+  rotate: false
+  xy: 753, 59
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_3_1600.png
+  rotate: false
+  xy: 733, 59
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_3_1800.png
+  rotate: false
+  xy: 613, 65
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_7_1600.png
+  rotate: false
+  xy: 693, 59
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_7_1700.png
+  rotate: false
+  xy: 480, 66
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_b_7_2000.png
+  rotate: false
+  xy: 673, 59
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frog_frog_64_sd_0_0.png
+  rotate: false
+  xy: 486, 86
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

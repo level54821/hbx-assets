@@ -1,0 +1,34 @@
+
+val_c21_bell.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c21_bell_val_c21_bell_64_a_0_0.png
+  rotate: false
+  xy: 2, 51
+  size: 29, 127
+  orig: 29, 127
+  offset: 0, 0
+  index: -1
+val_c21_bell_val_c21_bell_64_a_0_1.png
+  rotate: false
+  xy: 33, 52
+  size: 29, 126
+  orig: 29, 126
+  offset: 0, 0
+  index: -1
+val_c21_bell_val_c21_bell_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+val_c21_bell_val_c21_bell_icon_a.png
+  rotate: false
+  xy: 2, 19
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

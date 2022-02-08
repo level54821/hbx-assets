@@ -1,0 +1,55 @@
+
+xmas_c20_woodentrain.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_woodentrain_xmas_c20_woodentrain_64_a_0_0.png
+  rotate: false
+  xy: 43, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodentrain_xmas_c20_woodentrain_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodentrain_xmas_c20_woodentrain_64_a_0_2.png
+  rotate: false
+  xy: 125, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodentrain_xmas_c20_woodentrain_64_a_0_3.png
+  rotate: false
+  xy: 84, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodentrain_xmas_c20_woodentrain_64_a_0_4.png
+  rotate: false
+  xy: 166, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodentrain_xmas_c20_woodentrain_64_sd_0_0.png
+  rotate: false
+  xy: 207, 21
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+xmas_c20_woodentrain_xmas_c20_woodentrain_icon_a.png
+  rotate: false
+  xy: 257, 16
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

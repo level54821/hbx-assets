@@ -1,0 +1,90 @@
+
+hc21_9.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc21_9_hc21_9_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_a_4_0.png
+  rotate: false
+  xy: 79, 7
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_a_4_1.png
+  rotate: false
+  xy: 2, 5
+  size: 75, 107
+  orig: 75, 107
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_a_4_2.png
+  rotate: false
+  xy: 156, 8
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_b_0_0.png
+  rotate: false
+  xy: 305, 19
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_b_0_1.png
+  rotate: false
+  xy: 233, 17
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_b_0_2.png
+  rotate: false
+  xy: 377, 20
+  size: 70, 92
+  orig: 70, 92
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_b_4_0.png
+  rotate: false
+  xy: 529, 34
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_b_4_1.png
+  rotate: false
+  xy: 449, 33
+  size: 38, 79
+  orig: 38, 79
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_b_4_2.png
+  rotate: false
+  xy: 489, 34
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_64_sd_4_0.png
+  rotate: false
+  xy: 569, 79
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+hc21_9_hc21_9_icon_a.png
+  rotate: false
+  xy: 569, 47
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

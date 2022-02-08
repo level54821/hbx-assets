@@ -1,0 +1,27 @@
+
+plushie_c20_scarf.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_scarf_plushie_c20_scarf_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+plushie_c20_scarf_plushie_c20_scarf_64_sd_0_0.png
+  rotate: false
+  xy: 69, 8
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+plushie_c20_scarf_plushie_c20_scarf_icon_a.png
+  rotate: false
+  xy: 37, 2
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

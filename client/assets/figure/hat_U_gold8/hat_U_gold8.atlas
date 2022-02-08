@@ -1,0 +1,48 @@
+
+hat_U_gold8.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_gold8_h_lay_ha_3976_2_0.png
+  rotate: false
+  xy: 205, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+hat_U_gold8_h_std_ha_3976_0_0.png
+  rotate: false
+  xy: 86, 4
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hat_U_gold8_h_std_ha_3976_1_0.png
+  rotate: false
+  xy: 2, 4
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+hat_U_gold8_h_std_ha_3976_2_0.png
+  rotate: false
+  xy: 45, 4
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hat_U_gold8_h_std_ha_3976_3_0.png
+  rotate: false
+  xy: 166, 4
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+hat_U_gold8_h_std_ha_3976_7_0.png
+  rotate: false
+  xy: 127, 3
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+hat_U_hijab.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_hijab_h_lay_ha_4022_2_0.png
+  rotate: false
+  xy: 104, 11
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_spk_ha_4022_0_0.png
+  rotate: false
+  xy: 34, 5
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_spk_ha_4022_1_0.png
+  rotate: false
+  xy: 308, 3
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_spk_ha_4022_2_0.png
+  rotate: false
+  xy: 178, 4
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_spk_ha_4022_3_0.png
+  rotate: false
+  xy: 276, 3
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_spk_ha_4022_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_std_ha_4022_0_0.png
+  rotate: false
+  xy: 69, 6
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_std_ha_4022_1_0.png
+  rotate: false
+  xy: 339, 4
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_std_ha_4022_2_0.png
+  rotate: false
+  xy: 144, 5
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_std_ha_4022_3_0.png
+  rotate: false
+  xy: 212, 4
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+hat_U_hijab_h_std_ha_4022_7_0.png
+  rotate: false
+  xy: 244, 3
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1

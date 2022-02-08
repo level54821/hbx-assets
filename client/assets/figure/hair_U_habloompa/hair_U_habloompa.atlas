@@ -1,0 +1,174 @@
+
+hair_U_habloompa.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_habloompa_h_lay_hr_2693_2_0.png
+  rotate: false
+  xy: 736, 7
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_lay_hrb_2693_2_0.png
+  rotate: false
+  xy: 776, 7
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_lsp_hr_2693_2_0.png
+  rotate: false
+  xy: 459, 6
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_lsp_hrb_2693_2_0.png
+  rotate: false
+  xy: 418, 6
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hr_2693_0_0.png
+  rotate: false
+  xy: 580, 3
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hr_2693_1_0.png
+  rotate: false
+  xy: 816, 6
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hr_2693_2_0.png
+  rotate: false
+  xy: 82, 5
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hr_2693_3_0.png
+  rotate: false
+  xy: 250, 7
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hr_2693_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hrb_2693_0_0.png
+  rotate: false
+  xy: 619, 3
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hrb_2693_1_0.png
+  rotate: false
+  xy: 852, 6
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hrb_2693_2_0.png
+  rotate: false
+  xy: 124, 5
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hrb_2693_3_0.png
+  rotate: false
+  xy: 292, 7
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_spk_hrb_2693_7_0.png
+  rotate: false
+  xy: 42, 2
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hr_2693_0_0.png
+  rotate: false
+  xy: 658, 4
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hr_2693_1_0.png
+  rotate: false
+  xy: 888, 7
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hr_2693_2_0.png
+  rotate: false
+  xy: 166, 6
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hr_2693_3_0.png
+  rotate: false
+  xy: 334, 8
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hr_2693_7_0.png
+  rotate: false
+  xy: 500, 3
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hrb_2693_0_0.png
+  rotate: false
+  xy: 697, 4
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hrb_2693_1_0.png
+  rotate: false
+  xy: 924, 7
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hrb_2693_2_0.png
+  rotate: false
+  xy: 208, 6
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hrb_2693_3_0.png
+  rotate: false
+  xy: 376, 8
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+hair_U_habloompa_h_std_hrb_2693_7_0.png
+  rotate: false
+  xy: 540, 3
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1

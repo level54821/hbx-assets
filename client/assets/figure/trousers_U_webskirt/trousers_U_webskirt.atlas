@@ -1,0 +1,188 @@
+
+trousers_U_webskirt.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_webskirt_h_lay_lg_3793_2_0.png
+  rotate: false
+  xy: 107, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_lay_lg_3794_2_0.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_sit_lg_3793_0_0.png
+  rotate: false
+  xy: 245, 7
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_sit_lg_3793_2_0.png
+  rotate: false
+  xy: 72, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_sit_lg_3794_0_0.png
+  rotate: false
+  xy: 210, 7
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_sit_lg_3794_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_0_0.png
+  rotate: false
+  xy: 344, 4
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_0_1.png
+  rotate: false
+  xy: 176, 5
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_0_3.png
+  rotate: false
+  xy: 504, 5
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_1_0.png
+  rotate: false
+  xy: 740, 8
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_1_1.png
+  rotate: false
+  xy: 792, 9
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_1_3.png
+  rotate: false
+  xy: 687, 9
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_2_2.png
+  rotate: false
+  xy: 376, 4
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_2_3.png
+  rotate: false
+  xy: 472, 5
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_3_2.png
+  rotate: false
+  xy: 567, 8
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3793_7_3.png
+  rotate: false
+  xy: 598, 9
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_0_0.png
+  rotate: false
+  xy: 280, 4
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_0_1.png
+  rotate: false
+  xy: 142, 5
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_0_3.png
+  rotate: false
+  xy: 440, 5
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_1_0.png
+  rotate: false
+  xy: 714, 8
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_1_1.png
+  rotate: false
+  xy: 766, 9
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_1_3.png
+  rotate: false
+  xy: 660, 9
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_2_0.png
+  rotate: false
+  xy: 312, 4
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_2_1.png
+  rotate: false
+  xy: 408, 5
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_7_2.png
+  rotate: false
+  xy: 536, 8
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+trousers_U_webskirt_h_wlk_lg_3794_7_3.png
+  rotate: false
+  xy: 629, 9
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1

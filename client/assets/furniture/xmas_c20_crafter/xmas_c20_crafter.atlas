@@ -1,0 +1,104 @@
+
+xmas_c20_crafter.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_0.png
+  rotate: false
+  xy: 325, 41
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_1.png
+  rotate: false
+  xy: 83, 33
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_10.png
+  rotate: false
+  xy: 882, 49
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_11.png
+  rotate: false
+  xy: 724, 47
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_2.png
+  rotate: false
+  xy: 644, 47
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_3.png
+  rotate: false
+  xy: 485, 45
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_4.png
+  rotate: false
+  xy: 245, 39
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_5.png
+  rotate: false
+  xy: 2, 32
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_6.png
+  rotate: false
+  xy: 564, 47
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_7.png
+  rotate: false
+  xy: 803, 46
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_8.png
+  rotate: false
+  xy: 405, 41
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_a_4_9.png
+  rotate: false
+  xy: 164, 34
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_64_sd_4_0.png
+  rotate: false
+  xy: 2, 3
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+xmas_c20_crafter_xmas_c20_crafter_icon_a.png
+  rotate: false
+  xy: 164, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

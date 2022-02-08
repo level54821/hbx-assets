@@ -1,0 +1,83 @@
+
+messy_c21_wonkychair.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+messy_c21_wonkychair_messy_c21_wonkychair_64_a_0_0.png
+  rotate: false
+  xy: 72, 54
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_a_0_2.png
+  rotate: false
+  xy: 87, 130
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_a_4_0.png
+  rotate: false
+  xy: 52, 168
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_a_4_1.png
+  rotate: false
+  xy: 2, 78
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_a_4_2.png
+  rotate: false
+  xy: 2, 167
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_b_0_0.png
+  rotate: false
+  xy: 52, 92
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_b_0_2.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_b_4_0.png
+  rotate: false
+  xy: 102, 221
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_64_sd_0_0.png
+  rotate: false
+  xy: 72, 23
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+messy_c21_wonkychair_messy_c21_wonkychair_icon_a.png
+  rotate: false
+  xy: 102, 224
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

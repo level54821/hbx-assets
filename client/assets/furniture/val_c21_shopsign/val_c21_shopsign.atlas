@@ -1,0 +1,27 @@
+
+val_c21_shopsign.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c21_shopsign_val_c21_shopsign_64_a_0_0.png
+  rotate: false
+  xy: 2, 55
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+val_c21_shopsign_val_c21_shopsign_64_sd_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+val_c21_shopsign_val_c21_shopsign_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

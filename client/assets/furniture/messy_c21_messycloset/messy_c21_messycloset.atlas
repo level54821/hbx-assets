@@ -1,0 +1,34 @@
+
+messy_c21_messycloset.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+messy_c21_messycloset_messy_c21_messycloset_64_a_0_0.png
+  rotate: false
+  xy: 74, 36
+  size: 70, 128
+  orig: 70, 128
+  offset: 0, 0
+  index: -1
+messy_c21_messycloset_messy_c21_messycloset_64_a_0_1.png
+  rotate: false
+  xy: 2, 36
+  size: 70, 128
+  orig: 70, 128
+  offset: 0, 0
+  index: -1
+messy_c21_messycloset_messy_c21_messycloset_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+messy_c21_messycloset_messy_c21_messycloset_icon_a.png
+  rotate: false
+  xy: 146, 135
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

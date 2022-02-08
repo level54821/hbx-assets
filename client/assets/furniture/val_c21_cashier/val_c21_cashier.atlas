@@ -1,0 +1,48 @@
+
+val_c21_cashier.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c21_cashier_val_c21_cashier_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+val_c21_cashier_val_c21_cashier_64_a_4_0.png
+  rotate: false
+  xy: 190, 142
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+val_c21_cashier_val_c21_cashier_64_b_0_0.png
+  rotate: false
+  xy: 2, 97
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+val_c21_cashier_val_c21_cashier_64_b_4_0.png
+  rotate: false
+  xy: 96, 97
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+val_c21_cashier_val_c21_cashier_64_sd_0_0.png
+  rotate: false
+  xy: 72, 45
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+val_c21_cashier_val_c21_cashier_icon_a.png
+  rotate: false
+  xy: 72, 14
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

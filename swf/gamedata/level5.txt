@@ -1,0 +1,90 @@
+﻿purse.seasonal.currency=HBX
+quests.Harbeon.name=Habbex
+navigator.title=Habbex Hotel
+maintenance.shutdown=Habbex entro en mantenimiento, regresamos en unos minutos.
+catalog.title=Loja ~ Habbex Hotel
+widgets.chatinput.mode.remind.noobie=Escribe aquí para hablar en Habbex
+widgets.chatinput.default=Escribe aquí para hablar en Habbex
+inventory.title=Inventario
+purse.clubdays.zero.amount.text=∞
+mannequin.widget.back=Voltar
+help.cfh.reason.sex_and_pii=Conteudo sexual 
+help.cfh.reason.trolling= Trolando alguem
+help.cfh.reason.interruption= Bloqueando passagem
+help.cfh.reason.room= Habbex ayuda
+help.cfh.reason.help= Ayuda
+help.main2.Habblekway.button= Ayuda y soporte
+navigator.searchcode.title.eventcategory__19=Fiestas y musica
+navigator.searchcode.title.eventcategory__20=Role-Play
+navigator.searchcode.title.eventcategory__21=Negocios
+navigator.searchcode.title.eventcategory__22=Jogos
+navigator.searchcode.title.eventcategory__23=Debates e discussões
+navigator.searchcode.title.eventcategory__24=Grandes aberturas
+navigator.searchcode.title.eventcategory__25=amigos
+navigator.searchcode.title.eventcategory__26=Postos de trabalho
+navigator.searchcode.title.eventcategory__27=Eventos do grupo
+
+
+badge_name_PET01=O rei da selva
+badge_desc_PET01=Sou eu, o temido leão!
+badge_name_PET16=Macaquinho
+badge_desc_PET16=Eu adoro devorar bananas!
+badge_name_PET15=Tartaruga
+badge_desc_PET15=Eu venci o coelho na corrida!
+badge_name_PET14=Leão Feroz
+badge_desc_PET14=O vermelho é apenas uma alergia!
+badge_name_PET12=Dragão
+badge_desc_PET12=Vou queimar você! Onde escolhe?
+badge_name_PET10=Tartaruga Escura
+badge_desc_PET10=Eu venci o coelho escuro na corrida!
+badge_name_PET07=Pintinho
+badge_desc_PET07=E o pintinho PIU e o pintinho PIU!
+badge_name_PET05=Sapo
+badge_desc_PET05=Oi, eu sou um sapo.
+badge_name_PET03=Aranha
+badge_desc_PET03=Eu subi na parede, mas de tão burra, escorreguei...
+badge_name_PET02=Rinoceronte
+badge_desc_PET02=Eu era inimigo mortal do Homem Aranha!
+badge_name_PIG01=Porco
+badge_desc_PIG01=Sou porco mas tomo banho
+badge_name_NT164=Palhaço
+badge_desc_NT164=Em busca da felicidade no sangue!
+badge_name_BRP=Brasileiro
+badge_desc_BRP=Aqui a bunda vale mais que a mente, infelizmente esse é o Brasil.
+badge_name_BR909=Beyoncé
+badge_desc_BR909=Para pessoas habilidosas como a diva. Seja Yoncé.
+badge_name_BR149=Justin Bieber!
+badge_desc_BR149=Baby baby baby ooh...
+badge_name_UK120=Justin Bieber!
+badge_desc_UK120=Baby baby baby ooh...
+
+badge_name_BR422=Tapa pirikita Lady Gaga
+badge_desc_BR422=De tão famosa usa o mundo pra tapa a pirikita
+badge_name_FR842=Quiz Filmes de Terror
+badge_desc_FR842=Eu respondi todas as perguntas corretamente! Junho/2016
+badge_name_HS072=Cinema no Habbex
+badge_desc_HS072=Eu construi o melhor cinema do Habbex Hotel! Maio/2016
+badge_name_HK1=Temporaria
+badge_desc_HK1=Meu Hobbie é Brilhar!
+badge_name_HK2=Habbex Hotel
+badge_desc_HK2=O bumbum é de granada, mas o hotel é Habbex!
+badge_name_PIX1=Desing Habbex
+badge_desc_PIX1=Pixel artísta Habbex
+badge_name_IT868=Construtores ao trabalho
+badge_desc_IT868=Construo eventos para o Habbex!
+
+
+
+<-apartir daqui nova atualização dos emblemas->
+badge_desc_ANON= Sou anônimous e você ?
+badge_name_ANON= Anônimous company
+badge_desc_HAB03= quem é você ?
+badge_name_HAB03= Repórter do Habbex
+badge_desc_AJDT= Ajudo os usuários com muita dedicação
+badge_name_AJDT= Ajudando do Habbex
+badge_desc_ES459= Olha o presente que te dei linda
+badge_name_ES459= O presente mais espetacular
+badge_desc_QF1= esse cara nossa tenho pavor
+badge_name_QF1=  Slenderman ou quem ?
+
+

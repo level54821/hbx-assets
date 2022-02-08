@@ -1,0 +1,48 @@
+
+hween_c20_warpedsofa.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_warpedsofa_hween_c20_warpedsofa_64_a_2_0.png
+  rotate: false
+  xy: 148, 22
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+hween_c20_warpedsofa_hween_c20_warpedsofa_64_a_6_0.png
+  rotate: false
+  xy: 225, 38
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+hween_c20_warpedsofa_hween_c20_warpedsofa_64_b_2_0.png
+  rotate: false
+  xy: 75, 2
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+hween_c20_warpedsofa_hween_c20_warpedsofa_64_b_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+hween_c20_warpedsofa_hween_c20_warpedsofa_64_sd_2_0.png
+  rotate: false
+  xy: 281, 92
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+hween_c20_warpedsofa_hween_c20_warpedsofa_icon_a.png
+  rotate: false
+  xy: 281, 60
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

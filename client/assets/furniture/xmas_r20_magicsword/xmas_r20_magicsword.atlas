@@ -1,0 +1,258 @@
+
+xmas_r20_magicsword.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_r20_magicsword_xmas_r20_magicsword_64_a_0_0.png
+  rotate: false
+  xy: 149, 173
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_0.png
+  rotate: false
+  xy: 44, 4
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_1.png
+  rotate: false
+  xy: 65, 9
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_2.png
+  rotate: false
+  xy: 86, 9
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_3.png
+  rotate: false
+  xy: 164, 49
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_4.png
+  rotate: false
+  xy: 141, 154
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_5.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_6.png
+  rotate: false
+  xy: 120, 158
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_b_0_7.png
+  rotate: false
+  xy: 23, 4
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_0.png
+  rotate: false
+  xy: 179, 70
+  size: 15, 70
+  orig: 15, 70
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_1.png
+  rotate: false
+  xy: 141, 68
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_10.png
+  rotate: false
+  xy: 23, 56
+  size: 19, 93
+  orig: 19, 93
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_11.png
+  rotate: false
+  xy: 2, 21
+  size: 19, 128
+  orig: 19, 128
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_12.png
+  rotate: false
+  xy: 162, 156
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_13.png
+  rotate: false
+  xy: 65, 61
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_14.png
+  rotate: false
+  xy: 84, 61
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_15.png
+  rotate: false
+  xy: 103, 61
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_2.png
+  rotate: false
+  xy: 203, 142
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_3.png
+  rotate: false
+  xy: 122, 68
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_4.png
+  rotate: false
+  xy: 160, 68
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_5.png
+  rotate: false
+  xy: 2, 151
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_6.png
+  rotate: false
+  xy: 66, 177
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_7.png
+  rotate: false
+  xy: 109, 177
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_8.png
+  rotate: false
+  xy: 222, 145
+  size: 17, 73
+  orig: 17, 73
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_c_0_9.png
+  rotate: false
+  xy: 44, 71
+  size: 19, 78
+  orig: 19, 78
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_d_0_0.png
+  rotate: false
+  xy: 66, 135
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_0.png
+  rotate: false
+  xy: 23, 23
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_1.png
+  rotate: false
+  xy: 65, 28
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_2.png
+  rotate: false
+  xy: 122, 35
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_3.png
+  rotate: false
+  xy: 196, 43
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_4.png
+  rotate: false
+  xy: 196, 109
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_5.png
+  rotate: false
+  xy: 196, 76
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_6.png
+  rotate: false
+  xy: 107, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_e_0_7.png
+  rotate: false
+  xy: 149, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_64_sd_0_0.png
+  rotate: false
+  xy: 149, 216
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+xmas_r20_magicsword_xmas_r20_magicsword_icon_a.png
+  rotate: false
+  xy: 216, 220
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+plushie_c20_bluebear3.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_bluebear3_plushie_c20_bluebear3_64_a_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+plushie_c20_bluebear3_plushie_c20_bluebear3_64_sd_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+plushie_c20_bluebear3_plushie_c20_bluebear3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1

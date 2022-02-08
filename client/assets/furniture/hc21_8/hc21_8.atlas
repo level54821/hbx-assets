@@ -1,0 +1,237 @@
+
+hc21_8.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc21_8_hc21_8_64_a_2_0.png
+  rotate: false
+  xy: 797, 140
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_b_2_0.png
+  rotate: false
+  xy: 145, 118
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_c_2_0.png
+  rotate: false
+  xy: 297, 117
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_d_2_0.png
+  rotate: false
+  xy: 2, 104
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_e_2_0.png
+  rotate: false
+  xy: 883, 142
+  size: 69, 111
+  orig: 69, 111
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_f_2_0.png
+  rotate: false
+  xy: 404, 88
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_f_2_1.png
+  rotate: false
+  xy: 843, 96
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_f_2_2.png
+  rotate: false
+  xy: 530, 104
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_f_2_3.png
+  rotate: false
+  xy: 130, 20
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_f_2_4.png
+  rotate: false
+  xy: 954, 170
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_g_2_0.png
+  rotate: false
+  xy: 450, 65
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_g_2_1.png
+  rotate: false
+  xy: 884, 99
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_g_2_2.png
+  rotate: false
+  xy: 295, 54
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_g_2_3.png
+  rotate: false
+  xy: 221, 36
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_g_2_4.png
+  rotate: false
+  xy: 177, 34
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_h_2_0.png
+  rotate: false
+  xy: 1001, 233
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_h_2_1.png
+  rotate: false
+  xy: 575, 131
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_h_2_2.png
+  rotate: false
+  xy: 265, 61
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_h_2_3.png
+  rotate: false
+  xy: 337, 40
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_h_2_4.png
+  rotate: false
+  xy: 371, 38
+  size: 31, 77
+  orig: 31, 77
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_i_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_j_2_2.png
+  rotate: false
+  xy: 404, 41
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_j_2_3.png
+  rotate: false
+  xy: 954, 141
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_j_2_4.png
+  rotate: false
+  xy: 797, 101
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_j_2_5.png
+  rotate: false
+  xy: 484, 120
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_j_2_6.png
+  rotate: false
+  xy: 433, 120
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_k_2_1.png
+  rotate: false
+  xy: 603, 108
+  size: 95, 145
+  orig: 95, 145
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_k_2_2.png
+  rotate: false
+  xy: 700, 108
+  size: 95, 145
+  orig: 95, 145
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_l_2_0.png
+  rotate: false
+  xy: 444, 93
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_l_2_1.png
+  rotate: false
+  xy: 954, 114
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_l_2_2.png
+  rotate: false
+  xy: 404, 63
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_64_sd_2_0.png
+  rotate: false
+  xy: 433, 168
+  size: 168, 85
+  orig: 168, 85
+  offset: 0, 0
+  index: -1
+hc21_8_hc21_8_icon_a.png
+  rotate: false
+  xy: 922, 110
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

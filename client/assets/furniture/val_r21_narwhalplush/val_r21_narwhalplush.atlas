@@ -1,0 +1,27 @@
+
+val_r21_narwhalplush.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_r21_narwhalplush_val_r21_narwhalplush_64_a_0_0.png
+  rotate: false
+  xy: 2, 27
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+val_r21_narwhalplush_val_r21_narwhalplush_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+val_r21_narwhalplush_val_r21_narwhalplush_icon_a.png
+  rotate: false
+  xy: 52, 41
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+acc_waist_U_beartail.png
+size: 64,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_waist_U_beartail_h_lay_wa_3958_2_0.png
+  rotate: false
+  xy: 43, 4
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+acc_waist_U_beartail_h_std_wa_3958_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_beartail_h_std_wa_3958_1_0.png
+  rotate: false
+  xy: 13, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_beartail_h_std_wa_3958_2_0.png
+  rotate: false
+  xy: 35, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_beartail_h_std_wa_3958_7_0.png
+  rotate: false
+  xy: 24, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1

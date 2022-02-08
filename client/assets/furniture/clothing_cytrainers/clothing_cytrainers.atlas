@@ -1,0 +1,20 @@
+
+clothing_cytrainers.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_cytrainers_clothing_cytrainers_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+clothing_cytrainers_clothing_cytrainers_icon_a.png
+  rotate: false
+  xy: 52, 9
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

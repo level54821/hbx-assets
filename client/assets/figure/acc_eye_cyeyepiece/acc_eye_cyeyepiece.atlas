@@ -1,0 +1,104 @@
+
+acc_eye_cyeyepiece.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_eye_cyeyepiece_h_lay_ea_3815_2_0.png
+  rotate: false
+  xy: 2, 16
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_lsp_ea_3814_2_0.png
+  rotate: false
+  xy: 112, 23
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_spk_ea_3814_1_0.png
+  rotate: false
+  xy: 49, 20
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_spk_ea_3815_0_0.png
+  rotate: false
+  xy: 125, 27
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_spk_ea_3815_1_0.png
+  rotate: false
+  xy: 35, 3
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_spk_ea_3815_2_0.png
+  rotate: false
+  xy: 27, 17
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_spk_ea_3815_3_0.png
+  rotate: false
+  xy: 85, 19
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_spk_ea_3815_7_0.png
+  rotate: false
+  xy: 42, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_std_ea_3814_0_0.png
+  rotate: false
+  xy: 35, 8
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_std_ea_3814_1_0.png
+  rotate: false
+  xy: 99, 20
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_std_ea_3814_2_0.png
+  rotate: false
+  xy: 16, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_std_ea_3814_3_0.png
+  rotate: false
+  xy: 26, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_std_ea_3815_1_0.png
+  rotate: false
+  xy: 68, 22
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+acc_eye_cyeyepiece_h_std_ea_3815_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+xmas_c20_stonearch.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_stonearch_xmas_c20_stonearch_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 110
+  orig: 67, 110
+  offset: 0, 0
+  index: -1
+xmas_c20_stonearch_xmas_c20_stonearch_64_a_0_1.png
+  rotate: false
+  xy: 71, 10
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+xmas_c20_stonearch_xmas_c20_stonearch_64_b_0_0.png
+  rotate: false
+  xy: 2, 114
+  size: 93, 138
+  orig: 93, 138
+  offset: 0, 0
+  index: -1
+xmas_c20_stonearch_xmas_c20_stonearch_64_b_0_1.png
+  rotate: false
+  xy: 97, 119
+  size: 93, 133
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+xmas_c20_stonearch_xmas_c20_stonearch_64_sd_0_0.png
+  rotate: false
+  xy: 137, 63
+  size: 109, 54
+  orig: 109, 54
+  offset: 0, 0
+  index: -1
+xmas_c20_stonearch_xmas_c20_stonearch_icon_a.png
+  rotate: false
+  xy: 192, 222
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

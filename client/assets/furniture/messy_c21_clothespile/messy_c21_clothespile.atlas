@@ -1,0 +1,41 @@
+
+messy_c21_clothespile.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+messy_c21_clothespile_messy_c21_clothespile_64_a_0_0.png
+  rotate: false
+  xy: 58, 28
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+messy_c21_clothespile_messy_c21_clothespile_64_a_0_1.png
+  rotate: false
+  xy: 120, 29
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+messy_c21_clothespile_messy_c21_clothespile_64_a_0_2.png
+  rotate: false
+  xy: 2, 19
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+messy_c21_clothespile_messy_c21_clothespile_64_sd_0_0.png
+  rotate: false
+  xy: 58, 2
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+messy_c21_clothespile_messy_c21_clothespile_icon_a.png
+  rotate: false
+  xy: 180, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

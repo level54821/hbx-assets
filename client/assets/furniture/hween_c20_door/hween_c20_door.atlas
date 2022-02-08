@@ -1,0 +1,69 @@
+
+hween_c20_door.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_door_hween_c20_door_64_a_2_0.png
+  rotate: false
+  xy: 2, 123
+  size: 28, 118
+  orig: 28, 118
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_b_2_0.png
+  rotate: false
+  xy: 2, 243
+  size: 29, 128
+  orig: 29, 128
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_c_2_0.png
+  rotate: false
+  xy: 33, 253
+  size: 22, 118
+  orig: 22, 118
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_c_2_1.png
+  rotate: false
+  xy: 27, 85
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_c_2_2.png
+  rotate: false
+  xy: 27, 9
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_c_2_3.png
+  rotate: false
+  xy: 27, 47
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_64_e_2_1.png
+  rotate: false
+  xy: 2, 373
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1
+hween_c20_door_hween_c20_door_icon_a.png
+  rotate: false
+  xy: 32, 210
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1

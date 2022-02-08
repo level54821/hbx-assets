@@ -1,0 +1,76 @@
+
+ads_711c.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_711c_ads_711c_64_a_2_0.png
+  rotate: false
+  xy: 182, 55
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_a_2_1.png
+  rotate: false
+  xy: 167, 87
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_a_4_0.png
+  rotate: false
+  xy: 215, 95
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_a_4_1.png
+  rotate: false
+  xy: 118, 85
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_b_2_0.png
+  rotate: false
+  xy: 2, 65
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_c_2_0.png
+  rotate: false
+  xy: 64, 66
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_64_sd_0_0.png
+  rotate: false
+  xy: 118, 65
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_icon_a.png
+  rotate: false
+  xy: 208, 57
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ads_711c_ads_711c_icon_b.png
+  rotate: false
+  xy: 215, 76
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

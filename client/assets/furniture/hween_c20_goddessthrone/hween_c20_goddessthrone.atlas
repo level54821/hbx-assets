@@ -1,0 +1,76 @@
+
+hween_c20_goddessthrone.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_a_2_0.png
+  rotate: false
+  xy: 536, 15
+  size: 67, 109
+  orig: 67, 109
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_0.png
+  rotate: false
+  xy: 388, 47
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_1.png
+  rotate: false
+  xy: 465, 47
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_2.png
+  rotate: false
+  xy: 605, 55
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_3.png
+  rotate: false
+  xy: 290, 48
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_4.png
+  rotate: false
+  xy: 173, 41
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_5.png
+  rotate: false
+  xy: 2, 2
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_b_2_6.png
+  rotate: false
+  xy: 88, 9
+  size: 83, 115
+  orig: 83, 115
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_64_c_2_0.png
+  rotate: false
+  xy: 680, 72
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+hween_c20_goddessthrone_hween_c20_goddessthrone_icon_a.png
+  rotate: false
+  xy: 173, 9
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

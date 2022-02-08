@@ -1,0 +1,1371 @@
+
+croco.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+croco_croco_64_a_0_0.png
+  rotate: false
+  xy: 246, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_100.png
+  rotate: false
+  xy: 887, 29
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_1000.png
+  rotate: false
+  xy: 203, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_1301.png
+  rotate: false
+  xy: 329, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_1303.png
+  rotate: false
+  xy: 421, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_201.png
+  rotate: false
+  xy: 294, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_300.png
+  rotate: false
+  xy: 234, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_502.png
+  rotate: false
+  xy: 100, 27
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_503.png
+  rotate: false
+  xy: 743, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_600.png
+  rotate: false
+  xy: 101, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_800.png
+  rotate: false
+  xy: 176, 36
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_900.png
+  rotate: false
+  xy: 39, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_0_901.png
+  rotate: false
+  xy: 453, 35
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_0.png
+  rotate: false
+  xy: 1157, 39
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_100.png
+  rotate: false
+  xy: 1445, 33
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_1000.png
+  rotate: false
+  xy: 1545, 39
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_1301.png
+  rotate: false
+  xy: 580, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_1303.png
+  rotate: false
+  xy: 611, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_201.png
+  rotate: false
+  xy: 1264, 36
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_300.png
+  rotate: false
+  xy: 1037, 38
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_502.png
+  rotate: false
+  xy: 380, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_503.png
+  rotate: false
+  xy: 276, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_600.png
+  rotate: false
+  xy: 642, 43
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_800.png
+  rotate: false
+  xy: 515, 39
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_900.png
+  rotate: false
+  xy: 1519, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_1_901.png
+  rotate: false
+  xy: 1493, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_0.png
+  rotate: false
+  xy: 362, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_100.png
+  rotate: false
+  xy: 1380, 31
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_1000.png
+  rotate: false
+  xy: 351, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_1301.png
+  rotate: false
+  xy: 37, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_1303.png
+  rotate: false
+  xy: 213, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_201.png
+  rotate: false
+  xy: 176, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_300.png
+  rotate: false
+  xy: 264, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_502.png
+  rotate: false
+  xy: 713, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_503.png
+  rotate: false
+  xy: 70, 26
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_600.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_700.png
+  rotate: false
+  xy: 392, 32
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_701.png
+  rotate: false
+  xy: 321, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_800.png
+  rotate: false
+  xy: 2, 29
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_900.png
+  rotate: false
+  xy: 773, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_2_901.png
+  rotate: false
+  xy: 802, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_0.png
+  rotate: false
+  xy: 1357, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_100.png
+  rotate: false
+  xy: 1239, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_1000.png
+  rotate: false
+  xy: 1010, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_1301.png
+  rotate: false
+  xy: 914, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_1303.png
+  rotate: false
+  xy: 938, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_201.png
+  rotate: false
+  xy: 1424, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_300.png
+  rotate: false
+  xy: 1334, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_502.png
+  rotate: false
+  xy: 468, 10
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_503.png
+  rotate: false
+  xy: 153, 27
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_600.png
+  rotate: false
+  xy: 1185, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_800.png
+  rotate: false
+  xy: 304, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_900.png
+  rotate: false
+  xy: 859, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_3_901.png
+  rotate: false
+  xy: 831, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_0.png
+  rotate: false
+  xy: 1311, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_100.png
+  rotate: false
+  xy: 484, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_1000.png
+  rotate: false
+  xy: 549, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_1301.png
+  rotate: false
+  xy: 962, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_1303.png
+  rotate: false
+  xy: 986, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_201.png
+  rotate: false
+  xy: 1403, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_300.png
+  rotate: false
+  xy: 1288, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_502.png
+  rotate: false
+  xy: 130, 27
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_503.png
+  rotate: false
+  xy: 445, 10
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_600.png
+  rotate: false
+  xy: 70, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_800.png
+  rotate: false
+  xy: 1212, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_900.png
+  rotate: false
+  xy: 1127, 39
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_a_7_901.png
+  rotate: false
+  xy: 1097, 39
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_0.png
+  rotate: false
+  xy: 1543, 21
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_100.png
+  rotate: false
+  xy: 1646, 46
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_1100.png
+  rotate: false
+  xy: 1491, 23
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_1101.png
+  rotate: false
+  xy: 1465, 24
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_1200.png
+  rotate: false
+  xy: 1782, 46
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_1201.png
+  rotate: false
+  xy: 1808, 46
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2000.png
+  rotate: false
+  xy: 1912, 45
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2100.png
+  rotate: false
+  xy: 1886, 45
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2200.png
+  rotate: false
+  xy: 1517, 23
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2300.png
+  rotate: false
+  xy: 1834, 45
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2400.png
+  rotate: false
+  xy: 1860, 45
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2500.png
+  rotate: false
+  xy: 1730, 46
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2600.png
+  rotate: false
+  xy: 1756, 46
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2700.png
+  rotate: false
+  xy: 1646, 28
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2800.png
+  rotate: false
+  xy: 1938, 45
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_2900.png
+  rotate: false
+  xy: 1703, 46
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_0_300.png
+  rotate: false
+  xy: 695, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_100.png
+  rotate: false
+  xy: 1676, 46
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_1100.png
+  rotate: false
+  xy: 1870, 7
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_1101.png
+  rotate: false
+  xy: 1890, 8
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_1200.png
+  rotate: false
+  xy: 1910, 10
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_1201.png
+  rotate: false
+  xy: 1931, 10
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2000.png
+  rotate: false
+  xy: 1876, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2100.png
+  rotate: false
+  xy: 1855, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2200.png
+  rotate: false
+  xy: 641, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2300.png
+  rotate: false
+  xy: 1813, 7
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2400.png
+  rotate: false
+  xy: 1834, 26
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2500.png
+  rotate: false
+  xy: 1939, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2600.png
+  rotate: false
+  xy: 1918, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2700.png
+  rotate: false
+  xy: 2004, 25
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2800.png
+  rotate: false
+  xy: 675, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_2900.png
+  rotate: false
+  xy: 1897, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_1_300.png
+  rotate: false
+  xy: 1983, 25
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_100.png
+  rotate: false
+  xy: 1465, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_1100.png
+  rotate: false
+  xy: 1571, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_1101.png
+  rotate: false
+  xy: 1596, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_1200.png
+  rotate: false
+  xy: 566, 18
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_1201.png
+  rotate: false
+  xy: 1697, 26
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2000.png
+  rotate: false
+  xy: 1964, 42
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2100.png
+  rotate: false
+  xy: 541, 18
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2200.png
+  rotate: false
+  xy: 1672, 26
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2300.png
+  rotate: false
+  xy: 1989, 42
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2400.png
+  rotate: false
+  xy: 2014, 42
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2500.png
+  rotate: false
+  xy: 591, 18
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2600.png
+  rotate: false
+  xy: 616, 18
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2700.png
+  rotate: false
+  xy: 1722, 25
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2800.png
+  rotate: false
+  xy: 516, 17
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_2900.png
+  rotate: false
+  xy: 491, 13
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_300.png
+  rotate: false
+  xy: 139, 2
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_400.png
+  rotate: false
+  xy: 421, 9
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_2_401.png
+  rotate: false
+  xy: 1621, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_100.png
+  rotate: false
+  xy: 1834, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_1100.png
+  rotate: false
+  xy: 740, 15
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_1101.png
+  rotate: false
+  xy: 1465, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_1200.png
+  rotate: false
+  xy: 855, 15
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_1201.png
+  rotate: false
+  xy: 838, 15
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2000.png
+  rotate: false
+  xy: 787, 15
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2100.png
+  rotate: false
+  xy: 1499, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2200.png
+  rotate: false
+  xy: 770, 15
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2300.png
+  rotate: false
+  xy: 821, 14
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2400.png
+  rotate: false
+  xy: 1952, 7
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2500.png
+  rotate: false
+  xy: 1516, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2600.png
+  rotate: false
+  xy: 804, 15
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2700.png
+  rotate: false
+  xy: 712, 16
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2800.png
+  rotate: false
+  xy: 1482, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_2900.png
+  rotate: false
+  xy: 2025, 20
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_3_300.png
+  rotate: false
+  xy: 408, 3
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_100.png
+  rotate: false
+  xy: 1851, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_1100.png
+  rotate: false
+  xy: 2025, 9
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_1101.png
+  rotate: false
+  xy: 1008, 15
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_1200.png
+  rotate: false
+  xy: 516, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_1201.png
+  rotate: false
+  xy: 682, 32
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2000.png
+  rotate: false
+  xy: 740, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2100.png
+  rotate: false
+  xy: 953, 18
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2200.png
+  rotate: false
+  xy: 934, 20
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2300.png
+  rotate: false
+  xy: 2006, 11
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2400.png
+  rotate: false
+  xy: 675, 19
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2500.png
+  rotate: false
+  xy: 1987, 11
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2600.png
+  rotate: false
+  xy: 656, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2700.png
+  rotate: false
+  xy: 637, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2800.png
+  rotate: false
+  xy: 710, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_2900.png
+  rotate: false
+  xy: 759, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_b_7_300.png
+  rotate: false
+  xy: 2039, 58
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_0.png
+  rotate: false
+  xy: 914, 20
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_2000.png
+  rotate: false
+  xy: 885, 18
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_2500.png
+  rotate: false
+  xy: 694, 19
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_2600.png
+  rotate: false
+  xy: 1969, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_2700.png
+  rotate: false
+  xy: 663, 32
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_300.png
+  rotate: false
+  xy: 1067, 39
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_3000.png
+  rotate: false
+  xy: 1037, 27
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_0_3001.png
+  rotate: false
+  xy: 991, 18
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_0.png
+  rotate: false
+  xy: 642, 32
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_2000.png
+  rotate: false
+  xy: 819, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_2500.png
+  rotate: false
+  xy: 778, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_2600.png
+  rotate: false
+  xy: 1445, 19
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_2700.png
+  rotate: false
+  xy: 1550, 4
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_300.png
+  rotate: false
+  xy: 1010, 25
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_3000.png
+  rotate: false
+  xy: 799, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_1_3001.png
+  rotate: false
+  xy: 839, 4
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_0.png
+  rotate: false
+  xy: 590, 6
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_2000.png
+  rotate: false
+  xy: 535, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_2500.png
+  rotate: false
+  xy: 614, 5
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_2600.png
+  rotate: false
+  xy: 1960, 29
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_2700.png
+  rotate: false
+  xy: 1533, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_300.png
+  rotate: false
+  xy: 1969, 17
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_3000.png
+  rotate: false
+  xy: 972, 18
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_2_3001.png
+  rotate: false
+  xy: 491, 2
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_0.png
+  rotate: false
+  xy: 1987, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_2000.png
+  rotate: false
+  xy: 1057, 28
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_2500.png
+  rotate: false
+  xy: 1068, 30
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_2600.png
+  rotate: false
+  xy: 1870, 2
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_2700.png
+  rotate: false
+  xy: 701, 34
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_300.png
+  rotate: false
+  xy: 1030, 29
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_3000.png
+  rotate: false
+  xy: 1998, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_3_3001.png
+  rotate: false
+  xy: 2008, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_0.png
+  rotate: false
+  xy: 553, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_2000.png
+  rotate: false
+  xy: 872, 21
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_2500.png
+  rotate: false
+  xy: 662, 15
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_2600.png
+  rotate: false
+  xy: 757, 18
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_2700.png
+  rotate: false
+  xy: 860, 4
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_300.png
+  rotate: false
+  xy: 729, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_3000.png
+  rotate: false
+  xy: 566, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+croco_croco_64_c_7_3001.png
+  rotate: false
+  xy: 578, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+croco_croco_64_d_0_2.png
+  rotate: false
+  xy: 1791, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_d_0_6.png
+  rotate: false
+  xy: 1769, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_d_0_7.png
+  rotate: false
+  xy: 1747, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+croco_croco_64_d_0_8.png
+  rotate: false
+  xy: 1813, 25
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+croco_croco_64_sd_0_0.png
+  rotate: false
+  xy: 677, 45
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

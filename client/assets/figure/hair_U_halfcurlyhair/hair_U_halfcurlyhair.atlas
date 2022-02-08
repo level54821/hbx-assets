@@ -1,0 +1,244 @@
+
+hair_U_halfcurlyhair.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_halfcurlyhair_h_lay_hr_4085_2_0.png
+  rotate: false
+  xy: 107, 51
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_lay_hr_4086_2_0.png
+  rotate: false
+  xy: 176, 21
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_lay_hrb_4086_2_0.png
+  rotate: false
+  xy: 206, 21
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_lsp_hrb_4085_2_0.png
+  rotate: false
+  xy: 72, 8
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4085_0_0.png
+  rotate: false
+  xy: 416, 85
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4085_1_0.png
+  rotate: false
+  xy: 2, 87
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4085_2_0.png
+  rotate: false
+  xy: 311, 88
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4085_3_0.png
+  rotate: false
+  xy: 80, 90
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4085_7_0.png
+  rotate: false
+  xy: 450, 86
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4086_0_0.png
+  rotate: false
+  xy: 483, 8
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4086_1_0.png
+  rotate: false
+  xy: 200, 90
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4086_2_0.png
+  rotate: false
+  xy: 287, 53
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4086_3_0.png
+  rotate: false
+  xy: 141, 57
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_spk_hr_4086_7_0.png
+  rotate: false
+  xy: 78, 48
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4085_0_0.png
+  rotate: false
+  xy: 348, 85
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4085_1_0.png
+  rotate: false
+  xy: 41, 87
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4085_2_0.png
+  rotate: false
+  xy: 41, 47
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4085_3_0.png
+  rotate: false
+  xy: 160, 90
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4085_7_0.png
+  rotate: false
+  xy: 39, 2
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4086_0_0.png
+  rotate: false
+  xy: 483, 48
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4086_1_0.png
+  rotate: false
+  xy: 237, 90
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4086_2_0.png
+  rotate: false
+  xy: 141, 22
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4086_3_0.png
+  rotate: false
+  xy: 178, 57
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hr_4086_7_0.png
+  rotate: false
+  xy: 236, 16
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4085_0_0.png
+  rotate: false
+  xy: 382, 85
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4085_1_0.png
+  rotate: false
+  xy: 2, 46
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4085_2_0.png
+  rotate: false
+  xy: 2, 6
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4085_3_0.png
+  rotate: false
+  xy: 120, 90
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4085_7_0.png
+  rotate: false
+  xy: 450, 44
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4086_0_0.png
+  rotate: false
+  xy: 483, 88
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4086_1_0.png
+  rotate: false
+  xy: 274, 90
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4086_2_0.png
+  rotate: false
+  xy: 252, 55
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4086_3_0.png
+  rotate: false
+  xy: 215, 57
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hair_U_halfcurlyhair_h_std_hrb_4086_7_0.png
+  rotate: false
+  xy: 265, 14
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1

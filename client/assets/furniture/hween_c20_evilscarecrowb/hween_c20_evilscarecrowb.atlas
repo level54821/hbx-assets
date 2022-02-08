@@ -1,0 +1,97 @@
+
+hween_c20_evilscarecrowb.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_0.png
+  rotate: false
+  xy: 406, 34
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_1.png
+  rotate: false
+  xy: 453, 34
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_10.png
+  rotate: false
+  xy: 2, 33
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_11.png
+  rotate: false
+  xy: 257, 37
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_2.png
+  rotate: false
+  xy: 497, 33
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_3.png
+  rotate: false
+  xy: 540, 30
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_4.png
+  rotate: false
+  xy: 360, 30
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_5.png
+  rotate: false
+  xy: 162, 30
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_6.png
+  rotate: false
+  xy: 311, 33
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_7.png
+  rotate: false
+  xy: 210, 30
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_8.png
+  rotate: false
+  xy: 111, 31
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_64_a_4_9.png
+  rotate: false
+  xy: 58, 31
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrowb_hween_c20_evilscarecrowb_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

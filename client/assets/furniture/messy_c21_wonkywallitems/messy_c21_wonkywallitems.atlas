@@ -1,0 +1,55 @@
+
+messy_c21_wonkywallitems.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_64_a_2_0.png
+  rotate: false
+  xy: 2, 20
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_64_b_2_0.png
+  rotate: false
+  xy: 98, 31
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_64_b_2_1.png
+  rotate: false
+  xy: 35, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_64_c_2_0.png
+  rotate: false
+  xy: 67, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_64_d_2_0.png
+  rotate: false
+  xy: 35, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_64_sd_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+messy_c21_wonkywallitems_messy_c21_wonkywallitems_icon_a.png
+  rotate: false
+  xy: 67, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

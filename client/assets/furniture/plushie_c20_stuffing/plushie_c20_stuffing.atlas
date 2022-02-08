@@ -1,0 +1,27 @@
+
+plushie_c20_stuffing.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_stuffing_plushie_c20_stuffing_64_a_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+plushie_c20_stuffing_plushie_c20_stuffing_64_sd_0_0.png
+  rotate: false
+  xy: 57, 32
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+plushie_c20_stuffing_plushie_c20_stuffing_icon_a.png
+  rotate: false
+  xy: 57, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

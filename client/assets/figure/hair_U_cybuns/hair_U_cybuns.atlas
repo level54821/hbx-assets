@@ -1,0 +1,258 @@
+
+hair_U_cybuns.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_cybuns_h_lay_hr_3813_2_0.png
+  rotate: false
+  xy: 2, 83
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_lay_hrb_3812_2_0.png
+  rotate: false
+  xy: 2, 194
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_lsp_hr_3812_2_0.png
+  rotate: false
+  xy: 98, 224
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_lsp_hrb_3813_2_0.png
+  rotate: false
+  xy: 2, 56
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3812_0_0.png
+  rotate: false
+  xy: 2, 164
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3812_1_0.png
+  rotate: false
+  xy: 56, 7
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3812_2_0.png
+  rotate: false
+  xy: 31, 34
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3812_3_0.png
+  rotate: false
+  xy: 31, 60
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3812_7_0.png
+  rotate: false
+  xy: 96, 137
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3813_0_0.png
+  rotate: false
+  xy: 34, 226
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3813_1_0.png
+  rotate: false
+  xy: 64, 60
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3813_2_0.png
+  rotate: false
+  xy: 96, 110
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3813_3_0.png
+  rotate: false
+  xy: 25, 12
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hr_3813_7_0.png
+  rotate: false
+  xy: 31, 87
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hrb_3812_0_0.png
+  rotate: false
+  xy: 98, 194
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hrb_3812_2_0.png
+  rotate: false
+  xy: 93, 57
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hrb_3812_7_0.png
+  rotate: false
+  xy: 64, 114
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hrb_3813_0_0.png
+  rotate: false
+  xy: 66, 226
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hrb_3813_2_0.png
+  rotate: false
+  xy: 64, 87
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_spk_hrb_3813_7_0.png
+  rotate: false
+  xy: 95, 83
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3812_0_0.png
+  rotate: false
+  xy: 96, 164
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3812_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3812_2_0.png
+  rotate: false
+  xy: 61, 34
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3812_3_0.png
+  rotate: false
+  xy: 31, 114
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3812_7_0.png
+  rotate: false
+  xy: 64, 168
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3813_0_0.png
+  rotate: false
+  xy: 2, 226
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3813_1_0.png
+  rotate: false
+  xy: 2, 110
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3813_2_0.png
+  rotate: false
+  xy: 65, 141
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3813_3_0.png
+  rotate: false
+  xy: 91, 13
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hr_3813_7_0.png
+  rotate: false
+  xy: 65, 197
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hrb_3812_1_0.png
+  rotate: false
+  xy: 2, 29
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hrb_3812_3_0.png
+  rotate: false
+  xy: 32, 141
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hrb_3812_7_0.png
+  rotate: false
+  xy: 32, 168
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hrb_3813_1_0.png
+  rotate: false
+  xy: 2, 137
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hrb_3813_3_0.png
+  rotate: false
+  xy: 91, 35
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+hair_U_cybuns_h_std_hrb_3813_7_0.png
+  rotate: false
+  xy: 32, 197
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,384 @@
+
+trousers_U_dino.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_dino_h_lay_lg_2765_2_0.png
+  rotate: false
+  xy: 79, 37
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_lay_lg_2766_2_0.png
+  rotate: false
+  xy: 37, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_sit_lg_2765_0_0.png
+  rotate: false
+  xy: 40, 38
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_sit_lg_2765_2_0.png
+  rotate: false
+  xy: 151, 39
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_sit_lg_2766_0_0.png
+  rotate: false
+  xy: 618, 28
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_sit_lg_2766_2_0.png
+  rotate: false
+  xy: 878, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2765_0_0.png
+  rotate: false
+  xy: 382, 34
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2765_1_0.png
+  rotate: false
+  xy: 618, 39
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2765_2_0.png
+  rotate: false
+  xy: 254, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2765_3_0.png
+  rotate: false
+  xy: 786, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2765_7_0.png
+  rotate: false
+  xy: 740, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2766_0_0.png
+  rotate: false
+  xy: 905, 25
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2766_1_0.png
+  rotate: false
+  xy: 878, 23
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2766_2_0.png
+  rotate: false
+  xy: 561, 43
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_std_lg_2766_7_0.png
+  rotate: false
+  xy: 928, 26
+  size: 3, 16
+  orig: 3, 16
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_0_0.png
+  rotate: false
+  xy: 411, 35
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_0_1.png
+  rotate: false
+  xy: 2, 7
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_0_2.png
+  rotate: false
+  xy: 441, 34
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_0_3.png
+  rotate: false
+  xy: 351, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_1_0.png
+  rotate: false
+  xy: 591, 39
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_1_1.png
+  rotate: false
+  xy: 187, 37
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_1_2.png
+  rotate: false
+  xy: 469, 37
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_1_3.png
+  rotate: false
+  xy: 115, 38
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_2_0.png
+  rotate: false
+  xy: 318, 35
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_2_1.png
+  rotate: false
+  xy: 221, 34
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_2_2.png
+  rotate: false
+  xy: 286, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_2_3.png
+  rotate: false
+  xy: 2, 37
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_3_0.png
+  rotate: false
+  xy: 855, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_3_1.png
+  rotate: false
+  xy: 669, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_3_2.png
+  rotate: false
+  xy: 763, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_3_3.png
+  rotate: false
+  xy: 644, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_7_0.png
+  rotate: false
+  xy: 694, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_7_1.png
+  rotate: false
+  xy: 717, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_7_2.png
+  rotate: false
+  xy: 809, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2765_7_3.png
+  rotate: false
+  xy: 832, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_0_0.png
+  rotate: false
+  xy: 60, 10
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_0_1.png
+  rotate: false
+  xy: 78, 9
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_0_2.png
+  rotate: false
+  xy: 1014, 46
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_0_3.png
+  rotate: false
+  xy: 917, 26
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_1_0.png
+  rotate: false
+  xy: 905, 44
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_1_1.png
+  rotate: false
+  xy: 960, 45
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_1_2.png
+  rotate: false
+  xy: 987, 45
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_1_3.png
+  rotate: false
+  xy: 591, 22
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_2_0.png
+  rotate: false
+  xy: 529, 42
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_2_1.png
+  rotate: false
+  xy: 497, 41
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_2_2.png
+  rotate: false
+  xy: 932, 45
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_2_3.png
+  rotate: false
+  xy: 561, 28
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_3_1.png
+  rotate: false
+  xy: 56, 28
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_3_2.png
+  rotate: false
+  xy: 40, 28
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_3_3.png
+  rotate: false
+  xy: 78, 27
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_7_0.png
+  rotate: false
+  xy: 85, 9
+  size: 4, 16
+  orig: 4, 16
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_7_1.png
+  rotate: false
+  xy: 71, 2
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_7_2.png
+  rotate: false
+  xy: 933, 28
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+trousers_U_dino_h_wlk_lg_2766_7_3.png
+  rotate: false
+  xy: 71, 19
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1

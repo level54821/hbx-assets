@@ -1,0 +1,594 @@
+
+shoes_U_cytrainers.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_cytrainers_h_lay_sh_3802_2_0.png
+  rotate: false
+  xy: 202, 2
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_lay_sh_3803_2_0.png
+  rotate: false
+  xy: 188, 2
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3801_0_0.png
+  rotate: false
+  xy: 222, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3801_2_0.png
+  rotate: false
+  xy: 250, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3801_2_0.png
+  rotate: false
+  xy: 273, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3802_0_0.png
+  rotate: false
+  xy: 36, 6
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3802_2_0.png
+  rotate: false
+  xy: 317, 2
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3803_0_0.png
+  rotate: false
+  xy: 213, 12
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_sit_sh_3803_2_0.png
+  rotate: false
+  xy: 497, 13
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3801_0_0.png
+  rotate: false
+  xy: 84, 2
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3801_1_0.png
+  rotate: false
+  xy: 381, 2
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3801_2_0.png
+  rotate: false
+  xy: 112, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3801_3_0.png
+  rotate: false
+  xy: 451, 23
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3801_7_0.png
+  rotate: false
+  xy: 428, 23
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3802_1_0.png
+  rotate: false
+  xy: 412, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3802_1_0.png
+  rotate: false
+  xy: 417, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3802_2_0.png
+  rotate: false
+  xy: 497, 22
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_1_0.png
+  rotate: false
+  xy: 464, 13
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_1_0.png
+  rotate: false
+  xy: 412, 9
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_2_0.png
+  rotate: false
+  xy: 69, 7
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 422, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 425, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 238, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 241, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 244, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 247, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 81, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 313, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 36, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 470, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 218, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 422, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 422, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 427, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 313, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 218, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 430, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 433, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 436, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_std_sh_3803_3_0.png
+  rotate: false
+  xy: 439, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_0_0.png
+  rotate: false
+  xy: 196, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_0_1.png
+  rotate: false
+  xy: 41, 17
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_0_2.png
+  rotate: false
+  xy: 138, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_0_3.png
+  rotate: false
+  xy: 170, 17
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_1_0.png
+  rotate: false
+  xy: 164, 4
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_1_1.png
+  rotate: false
+  xy: 84, 18
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_1_2.png
+  rotate: false
+  xy: 317, 11
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_1_3.png
+  rotate: false
+  xy: 127, 19
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_2_0.png
+  rotate: false
+  xy: 41, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_2_1.png
+  rotate: false
+  xy: 383, 13
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_2_2.png
+  rotate: false
+  xy: 296, 10
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_2_3.png
+  rotate: false
+  xy: 2, 12
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_3_0.png
+  rotate: false
+  xy: 422, 13
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_3_1.png
+  rotate: false
+  xy: 360, 2
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_3_2.png
+  rotate: false
+  xy: 443, 13
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_3_3.png
+  rotate: false
+  xy: 339, 2
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_7_0.png
+  rotate: false
+  xy: 339, 13
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_7_1.png
+  rotate: false
+  xy: 401, 14
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_7_2.png
+  rotate: false
+  xy: 474, 20
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3801_7_3.png
+  rotate: false
+  xy: 362, 13
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_0_0.png
+  rotate: false
+  xy: 30, 2
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_0_1.png
+  rotate: false
+  xy: 310, 25
+  size: 27, 5
+  orig: 27, 5
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_0_2.png
+  rotate: false
+  xy: 417, 9
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_0_3.png
+  rotate: false
+  xy: 238, 11
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_1_0.png
+  rotate: false
+  xy: 188, 11
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_1_0.png
+  rotate: false
+  xy: 30, 6
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_1_1.png
+  rotate: false
+  xy: 368, 26
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_1_3.png
+  rotate: false
+  xy: 250, 24
+  size: 28, 6
+  orig: 28, 6
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_2_0.png
+  rotate: false
+  xy: 296, 3
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_2_1.png
+  rotate: false
+  xy: 69, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_2_1.png
+  rotate: false
+  xy: 75, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3802_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_0_0.png
+  rotate: false
+  xy: 331, 2
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_0_1.png
+  rotate: false
+  xy: 339, 25
+  size: 27, 5
+  orig: 27, 5
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_0_2.png
+  rotate: false
+  xy: 422, 8
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_0_3.png
+  rotate: false
+  xy: 400, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_1_1.png
+  rotate: false
+  xy: 398, 26
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_1_2.png
+  rotate: false
+  xy: 238, 5
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_1_2.png
+  rotate: false
+  xy: 244, 5
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_1_3.png
+  rotate: false
+  xy: 280, 24
+  size: 28, 6
+  orig: 28, 6
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_2_0.png
+  rotate: false
+  xy: 196, 11
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_2_2.png
+  rotate: false
+  xy: 331, 6
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_2_2.png
+  rotate: false
+  xy: 464, 18
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cytrainers_h_wlk_sh_3803_2_3.png
+  rotate: false
+  xy: 222, 22
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1

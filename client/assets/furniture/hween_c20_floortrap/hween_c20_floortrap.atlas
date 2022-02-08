@@ -1,0 +1,62 @@
+
+hween_c20_floortrap.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_0.png
+  rotate: false
+  xy: 201, 23
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_1.png
+  rotate: false
+  xy: 261, 23
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_2.png
+  rotate: false
+  xy: 2, 20
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_3.png
+  rotate: false
+  xy: 320, 26
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_4.png
+  rotate: false
+  xy: 379, 26
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_5.png
+  rotate: false
+  xy: 66, 26
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_64_a_0_6.png
+  rotate: false
+  xy: 136, 26
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+hween_c20_floortrap_hween_c20_floortrap_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1

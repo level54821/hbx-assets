@@ -1,0 +1,146 @@
+
+plushie_r20_hammock.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_r20_hammock_plushie_r20_hammock_64_a_2_0.png
+  rotate: false
+  xy: 860, 355
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_a_2_1.png
+  rotate: false
+  xy: 764, 355
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_a_2_2.png
+  rotate: false
+  xy: 344, 81
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_a_2_3.png
+  rotate: false
+  xy: 668, 355
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_a_6_1.png
+  rotate: false
+  xy: 884, 280
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_a_6_3.png
+  rotate: false
+  xy: 788, 269
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 109, 216
+  orig: 109, 216
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_2_1.png
+  rotate: false
+  xy: 113, 5
+  size: 109, 216
+  orig: 109, 216
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_2_2.png
+  rotate: false
+  xy: 446, 279
+  size: 109, 216
+  orig: 109, 216
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_2_3.png
+  rotate: false
+  xy: 557, 279
+  size: 109, 216
+  orig: 109, 216
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_6_0.png
+  rotate: false
+  xy: 335, 223
+  size: 109, 272
+  orig: 109, 272
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_6_1.png
+  rotate: false
+  xy: 113, 223
+  size: 109, 272
+  orig: 109, 272
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_6_2.png
+  rotate: false
+  xy: 2, 223
+  size: 109, 272
+  orig: 109, 272
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_b_6_3.png
+  rotate: false
+  xy: 224, 223
+  size: 109, 272
+  orig: 109, 272
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_c_2_0.png
+  rotate: false
+  xy: 224, 18
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_d_2_0.png
+  rotate: false
+  xy: 668, 263
+  size: 118, 90
+  orig: 118, 90
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_d_6_0.png
+  rotate: false
+  xy: 224, 69
+  size: 118, 152
+  orig: 118, 152
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_64_sd_2_0.png
+  rotate: false
+  xy: 956, 465
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+plushie_r20_hammock_plushie_r20_hammock_icon_a.png
+  rotate: false
+  xy: 446, 247
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

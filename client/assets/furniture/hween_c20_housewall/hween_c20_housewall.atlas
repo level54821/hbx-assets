@@ -1,0 +1,125 @@
+
+hween_c20_housewall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_housewall_hween_c20_housewall_64_a_2_0.png
+  rotate: false
+  xy: 306, 84
+  size: 32, 144
+  orig: 32, 144
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_a_4_0.png
+  rotate: false
+  xy: 272, 84
+  size: 32, 144
+  orig: 32, 144
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_b_2_0.png
+  rotate: false
+  xy: 207, 68
+  size: 63, 160
+  orig: 63, 160
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_b_4_0.png
+  rotate: false
+  xy: 142, 68
+  size: 63, 160
+  orig: 63, 160
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_c_2_0.png
+  rotate: false
+  xy: 72, 66
+  size: 68, 162
+  orig: 68, 162
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_c_4_0.png
+  rotate: false
+  xy: 2, 66
+  size: 68, 162
+  orig: 68, 162
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_d_2_0.png
+  rotate: false
+  xy: 369, 104
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_d_2_1.png
+  rotate: false
+  xy: 104, 4
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_d_4_0.png
+  rotate: false
+  xy: 340, 104
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_d_4_1.png
+  rotate: false
+  xy: 163, 6
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_e_2_0.png
+  rotate: false
+  xy: 135, 2
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_e_2_1.png
+  rotate: false
+  xy: 397, 107
+  size: 25, 69
+  orig: 25, 69
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_e_4_0.png
+  rotate: false
+  xy: 194, 4
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_e_4_1.png
+  rotate: false
+  xy: 424, 107
+  size: 25, 69
+  orig: 25, 69
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_sd_2_0.png
+  rotate: false
+  xy: 340, 178
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_64_sd_4_0.png
+  rotate: false
+  xy: 2, 14
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+hween_c20_housewall_hween_c20_housewall_icon_a.png
+  rotate: false
+  xy: 442, 199
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

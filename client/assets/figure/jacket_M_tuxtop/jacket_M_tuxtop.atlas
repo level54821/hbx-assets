@@ -1,0 +1,1238 @@
+
+jacket_M_tuxtop.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_M_tuxtop_h_crr_lc_2302_0_0.png
+  rotate: false
+  xy: 856, 17
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2302_1_0.png
+  rotate: false
+  xy: 975, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2302_2_0.png
+  rotate: false
+  xy: 461, 28
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2302_3_0.png
+  rotate: false
+  xy: 179, 2
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2302_7_0.png
+  rotate: false
+  xy: 129, 2
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2303_2_0.png
+  rotate: false
+  xy: 739, 13
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2303_3_0.png
+  rotate: false
+  xy: 783, 16
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_lc_2303_7_0.png
+  rotate: false
+  xy: 579, 2
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_0_0.png
+  rotate: false
+  xy: 78, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_1_0.png
+  rotate: false
+  xy: 925, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_2_0.png
+  rotate: false
+  xy: 713, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_3_0.png
+  rotate: false
+  xy: 461, 2
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_4_0.png
+  rotate: false
+  xy: 597, 16
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_5_0.png
+  rotate: false
+  xy: 205, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_6_0.png
+  rotate: false
+  xy: 626, 16
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2302_7_0.png
+  rotate: false
+  xy: 120, 2
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_0_0.png
+  rotate: false
+  xy: 633, 17
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_1_0.png
+  rotate: false
+  xy: 750, 29
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_2_0.png
+  rotate: false
+  xy: 97, 2
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_3_0.png
+  rotate: false
+  xy: 647, 2
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_4_0.png
+  rotate: false
+  xy: 500, 26
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_5_0.png
+  rotate: false
+  xy: 474, 29
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_6_0.png
+  rotate: false
+  xy: 804, 23
+  size: 2, 14
+  orig: 2, 14
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_crr_rc_2303_7_0.png
+  rotate: false
+  xy: 883, 25
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_0_0.png
+  rotate: false
+  xy: 521, 43
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_1_0.png
+  rotate: false
+  xy: 474, 50
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_2_0.png
+  rotate: false
+  xy: 366, 46
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_3_0.png
+  rotate: false
+  xy: 942, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_4_0.png
+  rotate: false
+  xy: 369, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_5_0.png
+  rotate: false
+  xy: 421, 50
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_6_0.png
+  rotate: false
+  xy: 393, 50
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2302_7_0.png
+  rotate: false
+  xy: 728, 13
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_0_0.png
+  rotate: false
+  xy: 383, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_1_0.png
+  rotate: false
+  xy: 729, 31
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_2_0.png
+  rotate: false
+  xy: 510, 32
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_3_0.png
+  rotate: false
+  xy: 448, 3
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_4_0.png
+  rotate: false
+  xy: 597, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_5_0.png
+  rotate: false
+  xy: 340, 5
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_6_0.png
+  rotate: false
+  xy: 546, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_drk_rc_2303_7_0.png
+  rotate: false
+  xy: 531, 33
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_lay_cc_2302_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_lay_cc_2303_2_0.png
+  rotate: false
+  xy: 44, 37
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_lay_lc_2302_2_0.png
+  rotate: false
+  xy: 447, 51
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_lay_lc_2303_2_0.png
+  rotate: false
+  xy: 647, 25
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_lay_rc_2302_2_0.png
+  rotate: false
+  xy: 340, 43
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_lay_rc_2303_2_0.png
+  rotate: false
+  xy: 992, 50
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2302_0_0.png
+  rotate: false
+  xy: 108, 24
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2302_1_0.png
+  rotate: false
+  xy: 189, 27
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2302_2_0.png
+  rotate: false
+  xy: 78, 25
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2302_3_0.png
+  rotate: false
+  xy: 162, 28
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2302_7_0.png
+  rotate: false
+  xy: 135, 28
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2303_0_0.png
+  rotate: false
+  xy: 279, 35
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2303_1_0.png
+  rotate: false
+  xy: 633, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2303_2_0.png
+  rotate: false
+  xy: 233, 34
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2303_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_cc_2303_7_0.png
+  rotate: false
+  xy: 510, 26
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2302_0_0.png
+  rotate: false
+  xy: 797, 15
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2302_1_0.png
+  rotate: false
+  xy: 563, 10
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2302_2_0.png
+  rotate: false
+  xy: 676, 9
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2302_3_0.png
+  rotate: false
+  xy: 221, 2
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2302_7_0.png
+  rotate: false
+  xy: 398, 22
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2303_0_0.png
+  rotate: false
+  xy: 393, 46
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2303_2_0.png
+  rotate: false
+  xy: 816, 11
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2303_3_0.png
+  rotate: false
+  xy: 453, 22
+  size: 6, 27
+  orig: 6, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_lc_2303_7_0.png
+  rotate: false
+  xy: 573, 8
+  size: 4, 25
+  orig: 4, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2302_0_0.png
+  rotate: false
+  xy: 821, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2302_2_0.png
+  rotate: false
+  xy: 251, 4
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2302_3_0.png
+  rotate: false
+  xy: 292, 5
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2302_7_0.png
+  rotate: false
+  xy: 408, 22
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2303_0_0.png
+  rotate: false
+  xy: 765, 7
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2303_1_0.png
+  rotate: false
+  xy: 878, 17
+  size: 3, 18
+  orig: 3, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2303_2_0.png
+  rotate: false
+  xy: 480, 2
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_std_rc_2303_3_0.png
+  rotate: false
+  xy: 445, 22
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_0_0.png
+  rotate: false
+  xy: 667, 35
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_0_1.png
+  rotate: false
+  xy: 321, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_1_0.png
+  rotate: false
+  xy: 845, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_1_1.png
+  rotate: false
+  xy: 882, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_2_0.png
+  rotate: false
+  xy: 650, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_2_1.png
+  rotate: false
+  xy: 596, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_3_0.png
+  rotate: false
+  xy: 62, 8
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_3_1.png
+  rotate: false
+  xy: 559, 35
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_4_0.png
+  rotate: false
+  xy: 540, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_4_1.png
+  rotate: false
+  xy: 615, 37
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_5_0.png
+  rotate: false
+  xy: 44, 7
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_5_1.png
+  rotate: false
+  xy: 27, 4
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_6_0.png
+  rotate: false
+  xy: 257, 34
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_6_1.png
+  rotate: false
+  xy: 208, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_7_0.png
+  rotate: false
+  xy: 578, 36
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2302_7_1.png
+  rotate: false
+  xy: 301, 36
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_0_0.png
+  rotate: false
+  xy: 683, 14
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_0_1.png
+  rotate: false
+  xy: 413, 2
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_1_0.png
+  rotate: false
+  xy: 835, 13
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_2_0.png
+  rotate: false
+  xy: 1012, 39
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_2_1.png
+  rotate: false
+  xy: 894, 40
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_3_0.png
+  rotate: false
+  xy: 153, 2
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_3_1.png
+  rotate: false
+  xy: 138, 2
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_4_0.png
+  rotate: false
+  xy: 908, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_4_1.png
+  rotate: false
+  xy: 611, 18
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_5_0.png
+  rotate: false
+  xy: 764, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_5_1.png
+  rotate: false
+  xy: 794, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_6_0.png
+  rotate: false
+  xy: 747, 41
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_6_1.png
+  rotate: false
+  xy: 500, 43
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_7_0.png
+  rotate: false
+  xy: 398, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wav_lc_2303_7_1.png
+  rotate: false
+  xy: 959, 44
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_0_0.png
+  rotate: false
+  xy: 654, 2
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_0_1.png
+  rotate: false
+  xy: 361, 2
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_0_2.png
+  rotate: false
+  xy: 758, 5
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_0_3.png
+  rotate: false
+  xy: 489, 2
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_1_0.png
+  rotate: false
+  xy: 499, 2
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_1_1.png
+  rotate: false
+  xy: 729, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_1_3.png
+  rotate: false
+  xy: 804, 2
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_2_0.png
+  rotate: false
+  xy: 776, 16
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_2_1.png
+  rotate: false
+  xy: 489, 26
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_2_2.png
+  rotate: false
+  xy: 661, 2
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_2_3.png
+  rotate: false
+  xy: 608, 2
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_3_0.png
+  rotate: false
+  xy: 231, 2
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_3_1.png
+  rotate: false
+  xy: 302, 6
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_3_2.png
+  rotate: false
+  xy: 241, 2
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_3_3.png
+  rotate: false
+  xy: 369, 18
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_7_0.png
+  rotate: false
+  xy: 389, 18
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_7_1.png
+  rotate: false
+  xy: 340, 15
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_7_2.png
+  rotate: false
+  xy: 360, 15
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2302_7_3.png
+  rotate: false
+  xy: 312, 7
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_0_0.png
+  rotate: false
+  xy: 44, 2
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_0_1.png
+  rotate: false
+  xy: 668, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_0_2.png
+  rotate: false
+  xy: 673, 2
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_0_3.png
+  rotate: false
+  xy: 848, 17
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_1_0.png
+  rotate: false
+  xy: 822, 12
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_1_1.png
+  rotate: false
+  xy: 438, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_1_2.png
+  rotate: false
+  xy: 829, 12
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_1_3.png
+  rotate: false
+  xy: 585, 2
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_2_1.png
+  rotate: false
+  xy: 702, 15
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_2_2.png
+  rotate: false
+  xy: 873, 16
+  size: 3, 19
+  orig: 3, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_2_3.png
+  rotate: false
+  xy: 534, 27
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_3_1.png
+  rotate: false
+  xy: 589, 9
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_3_2.png
+  rotate: false
+  xy: 332, 7
+  size: 6, 27
+  orig: 6, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_3_3.png
+  rotate: false
+  xy: 471, 2
+  size: 7, 24
+  orig: 7, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_7_0.png
+  rotate: false
+  xy: 810, 9
+  size: 4, 22
+  orig: 4, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_7_1.png
+  rotate: false
+  xy: 842, 13
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_lc_2303_7_3.png
+  rotate: false
+  xy: 790, 15
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_0_0.png
+  rotate: false
+  xy: 857, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_0_1.png
+  rotate: false
+  xy: 869, 37
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_0_2.png
+  rotate: false
+  xy: 833, 35
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_0_3.png
+  rotate: false
+  xy: 189, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_1_0.png
+  rotate: false
+  xy: 509, 2
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_1_1.png
+  rotate: false
+  xy: 779, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_1_2.png
+  rotate: false
+  xy: 519, 2
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_2_0.png
+  rotate: false
+  xy: 808, 33
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_2_1.png
+  rotate: false
+  xy: 682, 35
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_2_3.png
+  rotate: false
+  xy: 697, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_3_0.png
+  rotate: false
+  xy: 262, 4
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_3_1.png
+  rotate: false
+  xy: 350, 15
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_3_2.png
+  rotate: false
+  xy: 282, 5
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_3_3.png
+  rotate: false
+  xy: 272, 4
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_7_0.png
+  rotate: false
+  xy: 546, 9
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_7_1.png
+  rotate: false
+  xy: 322, 7
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_7_2.png
+  rotate: false
+  xy: 436, 22
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2302_7_3.png
+  rotate: false
+  xy: 379, 18
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_0_0.png
+  rotate: false
+  xy: 720, 12
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_0_1.png
+  rotate: false
+  xy: 750, 5
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_0_3.png
+  rotate: false
+  xy: 108, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_1_0.png
+  rotate: false
+  xy: 695, 13
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_1_1.png
+  rotate: false
+  xy: 712, 15
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_1_3.png
+  rotate: false
+  xy: 427, 2
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_2_0.png
+  rotate: false
+  xy: 418, 22
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_2_1.png
+  rotate: false
+  xy: 167, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_2_2.png
+  rotate: false
+  xy: 427, 22
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_2_3.png
+  rotate: false
+  xy: 579, 11
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_3_0.png
+  rotate: false
+  xy: 538, 2
+  size: 6, 27
+  orig: 6, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_3_1.png
+  rotate: false
+  xy: 529, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_3_2.png
+  rotate: false
+  xy: 668, 8
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_3_3.png
+  rotate: false
+  xy: 555, 9
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_7_0.png
+  rotate: false
+  xy: 771, 8
+  size: 3, 23
+  orig: 3, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_7_1.png
+  rotate: false
+  xy: 868, 15
+  size: 3, 19
+  orig: 3, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_h_wlk_rc_2303_7_3.png
+  rotate: false
+  xy: 862, 17
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+jacket_M_tuxtop_sh_crr_lc_2303_0_0.png
+  rotate: false
+  xy: 366, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,398 @@
+
+trousers_U_patternjoggers.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_patternjoggers_h_lay_lg_4048_2_0.png
+  rotate: false
+  xy: 239, 39
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_lay_lg_4049_2_0.png
+  rotate: false
+  xy: 308, 41
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_sit_lg_4048_0_0.png
+  rotate: false
+  xy: 38, 41
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_sit_lg_4048_2_0.png
+  rotate: false
+  xy: 77, 38
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_sit_lg_4049_0_0.png
+  rotate: false
+  xy: 271, 45
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_sit_lg_4049_2_0.png
+  rotate: false
+  xy: 112, 12
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4048_0_0.png
+  rotate: false
+  xy: 394, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4048_1_0.png
+  rotate: false
+  xy: 496, 9
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4048_2_0.png
+  rotate: false
+  xy: 35, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4048_3_0.png
+  rotate: false
+  xy: 725, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4048_7_0.png
+  rotate: false
+  xy: 848, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4049_0_0.png
+  rotate: false
+  xy: 774, 36
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4049_1_0.png
+  rotate: false
+  xy: 553, 12
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4049_2_0.png
+  rotate: false
+  xy: 921, 37
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4049_3_0.png
+  rotate: false
+  xy: 337, 12
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_std_lg_4049_7_0.png
+  rotate: false
+  xy: 294, 16
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_0_0.png
+  rotate: false
+  xy: 549, 35
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_0_1.png
+  rotate: false
+  xy: 2, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_0_2.png
+  rotate: false
+  xy: 471, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_0_3.png
+  rotate: false
+  xy: 61, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_1_0.png
+  rotate: false
+  xy: 317, 16
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_1_1.png
+  rotate: false
+  xy: 145, 36
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_1_2.png
+  rotate: false
+  xy: 452, 8
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_1_3.png
+  rotate: false
+  xy: 177, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_2_0.png
+  rotate: false
+  xy: 523, 35
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_2_1.png
+  rotate: false
+  xy: 420, 32
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_2_2.png
+  rotate: false
+  xy: 497, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_2_3.png
+  rotate: false
+  xy: 112, 35
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_3_0.png
+  rotate: false
+  xy: 675, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_3_1.png
+  rotate: false
+  xy: 650, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_3_2.png
+  rotate: false
+  xy: 700, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_3_3.png
+  rotate: false
+  xy: 600, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_7_0.png
+  rotate: false
+  xy: 798, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_7_1.png
+  rotate: false
+  xy: 625, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_7_2.png
+  rotate: false
+  xy: 823, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4048_7_3.png
+  rotate: false
+  xy: 575, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_0_0.png
+  rotate: false
+  xy: 873, 37
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_0_2.png
+  rotate: false
+  xy: 750, 36
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_0_3.png
+  rotate: false
+  xy: 446, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_1_0.png
+  rotate: false
+  xy: 535, 12
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_1_1.png
+  rotate: false
+  xy: 337, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_1_2.png
+  rotate: false
+  xy: 516, 11
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_1_3.png
+  rotate: false
+  xy: 366, 38
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_2_0.png
+  rotate: false
+  xy: 945, 38
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_2_1.png
+  rotate: false
+  xy: 88, 9
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_2_2.png
+  rotate: false
+  xy: 897, 37
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_2_3.png
+  rotate: false
+  xy: 208, 38
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_3_0.png
+  rotate: false
+  xy: 271, 19
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_3_1.png
+  rotate: false
+  xy: 969, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_3_2.png
+  rotate: false
+  xy: 406, 6
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_3_3.png
+  rotate: false
+  xy: 360, 11
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_7_0.png
+  rotate: false
+  xy: 383, 9
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_7_1.png
+  rotate: false
+  xy: 992, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_7_2.png
+  rotate: false
+  xy: 473, 9
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_patternjoggers_h_wlk_lg_4049_7_3.png
+  rotate: false
+  xy: 429, 5
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1

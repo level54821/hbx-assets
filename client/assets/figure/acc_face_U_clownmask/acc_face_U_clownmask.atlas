@@ -1,0 +1,48 @@
+
+acc_face_U_clownmask.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_clownmask_h_lsp_fa_3795_2_0.png
+  rotate: false
+  xy: 107, 9
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+acc_face_U_clownmask_h_spk_fa_3795_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+acc_face_U_clownmask_h_std_fa_3795_1_0.png
+  rotate: false
+  xy: 38, 3
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+acc_face_U_clownmask_h_std_fa_3795_2_0.png
+  rotate: false
+  xy: 73, 4
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+acc_face_U_clownmask_h_std_fa_3795_3_0.png
+  rotate: false
+  xy: 145, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+acc_face_U_clownmask_h_std_fa_3795_7_0.png
+  rotate: false
+  xy: 176, 15
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

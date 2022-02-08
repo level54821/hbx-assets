@@ -1,0 +1,636 @@
+
+shirt_M_blockcroptop.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_blockcroptop_h_crr_ls_4121_0_0.png
+  rotate: false
+  xy: 803, 2
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_ls_4121_1_0.png
+  rotate: false
+  xy: 740, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_ls_4121_3_0.png
+  rotate: false
+  xy: 679, 13
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_ls_4121_4_0.png
+  rotate: false
+  xy: 460, 14
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_ls_4121_5_0.png
+  rotate: false
+  xy: 646, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_ls_4121_6_0.png
+  rotate: false
+  xy: 368, 14
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_ls_4121_7_0.png
+  rotate: false
+  xy: 773, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_0_0.png
+  rotate: false
+  xy: 448, 14
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_1_0.png
+  rotate: false
+  xy: 613, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_2_0.png
+  rotate: false
+  xy: 356, 14
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_3_0.png
+  rotate: false
+  xy: 505, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_4_0.png
+  rotate: false
+  xy: 856, 17
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_6_0.png
+  rotate: false
+  xy: 794, 2
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_crr_rs_4121_7_0.png
+  rotate: false
+  xy: 751, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_0_0.png
+  rotate: false
+  xy: 226, 19
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_1_0.png
+  rotate: false
+  xy: 304, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_2_0.png
+  rotate: false
+  xy: 562, 17
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_3_0.png
+  rotate: false
+  xy: 266, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_4_0.png
+  rotate: false
+  xy: 785, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_5_0.png
+  rotate: false
+  xy: 179, 16
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_6_0.png
+  rotate: false
+  xy: 242, 19
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_drk_rs_4121_7_0.png
+  rotate: false
+  xy: 494, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_lay_ch_4121_2_0.png
+  rotate: false
+  xy: 2, 7
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_lay_ls_4121_2_0.png
+  rotate: false
+  xy: 320, 4
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_lay_rs_4121_2_0.png
+  rotate: false
+  xy: 210, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ch_4121_0_0.png
+  rotate: false
+  xy: 93, 4
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ch_4121_1_0.png
+  rotate: false
+  xy: 147, 9
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ch_4121_2_0.png
+  rotate: false
+  xy: 66, 4
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ch_4121_3_0.png
+  rotate: false
+  xy: 38, 5
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ch_4121_7_0.png
+  rotate: false
+  xy: 120, 9
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ls_4121_0_0.png
+  rotate: false
+  xy: 863, 17
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ls_4121_1_0.png
+  rotate: false
+  xy: 774, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ls_4121_2_0.png
+  rotate: false
+  xy: 284, 19
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ls_4121_3_0.png
+  rotate: false
+  xy: 425, 13
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_ls_4121_7_0.png
+  rotate: false
+  xy: 635, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_rs_4121_0_0.png
+  rotate: false
+  xy: 436, 14
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_rs_4121_1_0.png
+  rotate: false
+  xy: 793, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_rs_4121_2_0.png
+  rotate: false
+  xy: 331, 13
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_rs_4121_3_0.png
+  rotate: false
+  xy: 483, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_std_rs_4121_7_0.png
+  rotate: false
+  xy: 624, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_0_0.png
+  rotate: false
+  xy: 575, 17
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_0_1.png
+  rotate: false
+  xy: 588, 17
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_1_0.png
+  rotate: false
+  xy: 601, 17
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_2_0.png
+  rotate: false
+  xy: 550, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_3_1.png
+  rotate: false
+  xy: 538, 15
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_4_0.png
+  rotate: false
+  xy: 194, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_4_1.png
+  rotate: false
+  xy: 209, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_5_0.png
+  rotate: false
+  xy: 258, 19
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_6_0.png
+  rotate: false
+  xy: 196, 16
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wav_ls_4121_7_1.png
+  rotate: false
+  xy: 226, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_0_0.png
+  rotate: false
+  xy: 870, 17
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_0_1.png
+  rotate: false
+  xy: 823, 15
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_0_2.png
+  rotate: false
+  xy: 877, 17
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_0_3.png
+  rotate: false
+  xy: 840, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_1_0.png
+  rotate: false
+  xy: 358, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_1_1.png
+  rotate: false
+  xy: 272, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_1_2.png
+  rotate: false
+  xy: 369, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_1_3.png
+  rotate: false
+  xy: 343, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_2_0.png
+  rotate: false
+  xy: 784, 16
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_2_1.png
+  rotate: false
+  xy: 814, 15
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_2_2.png
+  rotate: false
+  xy: 832, 16
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_2_3.png
+  rotate: false
+  xy: 849, 17
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_3_0.png
+  rotate: false
+  xy: 403, 13
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_3_1.png
+  rotate: false
+  xy: 380, 12
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_3_2.png
+  rotate: false
+  xy: 690, 13
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_3_3.png
+  rotate: false
+  xy: 720, 14
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_7_0.png
+  rotate: false
+  xy: 700, 12
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_7_1.png
+  rotate: false
+  xy: 710, 14
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_7_2.png
+  rotate: false
+  xy: 472, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_ls_4121_7_3.png
+  rotate: false
+  xy: 414, 13
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_0_0.png
+  rotate: false
+  xy: 253, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_0_1.png
+  rotate: false
+  xy: 279, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_0_2.png
+  rotate: false
+  xy: 343, 14
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_0_3.png
+  rotate: false
+  xy: 240, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_1_0.png
+  rotate: false
+  xy: 763, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_1_1.png
+  rotate: false
+  xy: 179, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_1_2.png
+  rotate: false
+  xy: 752, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_1_3.png
+  rotate: false
+  xy: 740, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_2_0.png
+  rotate: false
+  xy: 291, 12
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_2_1.png
+  rotate: false
+  xy: 304, 13
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_2_2.png
+  rotate: false
+  xy: 318, 13
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_2_3.png
+  rotate: false
+  xy: 166, 11
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_3_0.png
+  rotate: false
+  xy: 527, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_3_1.png
+  rotate: false
+  xy: 762, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_3_2.png
+  rotate: false
+  xy: 668, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_3_3.png
+  rotate: false
+  xy: 516, 14
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_7_0.png
+  rotate: false
+  xy: 392, 12
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_7_1.png
+  rotate: false
+  xy: 804, 15
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_7_2.png
+  rotate: false
+  xy: 657, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_blockcroptop_h_wlk_rs_4121_7_3.png
+  rotate: false
+  xy: 730, 14
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1

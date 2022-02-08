@@ -1,0 +1,811 @@
+
+shirt_M_sunsetdress.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_sunsetdress_h_crr_ls_4045_0_0.png
+  rotate: false
+  xy: 1169, 17
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4045_2_0.png
+  rotate: false
+  xy: 1771, 25
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4045_3_0.png
+  rotate: false
+  xy: 317, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4045_4_0.png
+  rotate: false
+  xy: 671, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4045_5_0.png
+  rotate: false
+  xy: 44, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4045_6_0.png
+  rotate: false
+  xy: 261, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4045_7_0.png
+  rotate: false
+  xy: 564, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_ls_4047_6_0.png
+  rotate: false
+  xy: 432, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_0_0.png
+  rotate: false
+  xy: 273, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_1_0.png
+  rotate: false
+  xy: 424, 5
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_2_0.png
+  rotate: false
+  xy: 661, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_3_0.png
+  rotate: false
+  xy: 1788, 52
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_4_0.png
+  rotate: false
+  xy: 450, 6
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_6_0.png
+  rotate: false
+  xy: 456, 7
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4045_7_0.png
+  rotate: false
+  xy: 571, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_crr_rs_4047_2_0.png
+  rotate: false
+  xy: 456, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_0_0.png
+  rotate: false
+  xy: 338, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_1_0.png
+  rotate: false
+  xy: 33, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_2_0.png
+  rotate: false
+  xy: 351, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_3_0.png
+  rotate: false
+  xy: 363, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_4_0.png
+  rotate: false
+  xy: 1771, 49
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_5_0.png
+  rotate: false
+  xy: 24, 9
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_6_0.png
+  rotate: false
+  xy: 405, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4045_7_0.png
+  rotate: false
+  xy: 13, 9
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4047_3_0.png
+  rotate: false
+  xy: 444, 6
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_drk_rs_4047_7_0.png
+  rotate: false
+  xy: 1818, 58
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_lay_ch_4045_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_lay_ch_4046_2_0.png
+  rotate: false
+  xy: 1186, 29
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_lay_ch_4047_2_0.png
+  rotate: false
+  xy: 61, 26
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_lay_ls_4045_2_0.png
+  rotate: false
+  xy: 1808, 58
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_lay_rs_4045_2_0.png
+  rotate: false
+  xy: 537, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_sit_ch_4045_0_0.png
+  rotate: false
+  xy: 1147, 25
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_sit_ch_4045_2_0.png
+  rotate: false
+  xy: 547, 13
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_sit_ch_4046_0_0.png
+  rotate: false
+  xy: 1696, 34
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_sit_ch_4046_2_0.png
+  rotate: false
+  xy: 1730, 24
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_sit_ch_4047_0_0.png
+  rotate: false
+  xy: 1593, 28
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_sit_ch_4047_2_0.png
+  rotate: false
+  xy: 1111, 15
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4045_0_0.png
+  rotate: false
+  xy: 115, 14
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4045_1_0.png
+  rotate: false
+  xy: 835, 15
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4045_2_0.png
+  rotate: false
+  xy: 159, 13
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4045_3_0.png
+  rotate: false
+  xy: 463, 12
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4045_7_0.png
+  rotate: false
+  xy: 421, 15
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4046_2_0.png
+  rotate: false
+  xy: 1338, 27
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4046_3_0.png
+  rotate: false
+  xy: 1449, 28
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4047_1_0.png
+  rotate: false
+  xy: 1035, 17
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4047_2_0.png
+  rotate: false
+  xy: 379, 15
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ch_4047_3_0.png
+  rotate: false
+  xy: 587, 14
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ls_4045_3_0.png
+  rotate: false
+  xy: 414, 3
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_ls_4047_3_0.png
+  rotate: false
+  xy: 435, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_rs_4045_0_0.png
+  rotate: false
+  xy: 505, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_rs_4045_2_0.png
+  rotate: false
+  xy: 527, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_std_rs_4045_3_0.png
+  rotate: false
+  xy: 328, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_0_0.png
+  rotate: false
+  xy: 43, 12
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_1_0.png
+  rotate: false
+  xy: 1760, 25
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_2_0.png
+  rotate: false
+  xy: 547, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_3_0.png
+  rotate: false
+  xy: 1760, 33
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_3_1.png
+  rotate: false
+  xy: 1769, 33
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_4_0.png
+  rotate: false
+  xy: 1780, 48
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_5_0.png
+  rotate: false
+  xy: 247, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_6_0.png
+  rotate: false
+  xy: 2, 9
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4045_7_0.png
+  rotate: false
+  xy: 1760, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wav_ls_4047_6_0.png
+  rotate: false
+  xy: 429, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_0_1.png
+  rotate: false
+  xy: 335, 15
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_1_3.png
+  rotate: false
+  xy: 955, 16
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_2_1.png
+  rotate: false
+  xy: 291, 14
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_2_2.png
+  rotate: false
+  xy: 203, 13
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_2_3.png
+  rotate: false
+  xy: 247, 14
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_3_1.png
+  rotate: false
+  xy: 505, 13
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4045_7_1.png
+  rotate: false
+  xy: 627, 16
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_0_1.png
+  rotate: false
+  xy: 1227, 28
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_0_2.png
+  rotate: false
+  xy: 1264, 27
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_1_0.png
+  rotate: false
+  xy: 1628, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_1_1.png
+  rotate: false
+  xy: 1662, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_2_0.png
+  rotate: false
+  xy: 1375, 28
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_2_1.png
+  rotate: false
+  xy: 1412, 28
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_2_3.png
+  rotate: false
+  xy: 1301, 27
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_3_3.png
+  rotate: false
+  xy: 1521, 29
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_7_2.png
+  rotate: false
+  xy: 1485, 29
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4046_7_3.png
+  rotate: false
+  xy: 1557, 30
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_0_0.png
+  rotate: false
+  xy: 711, 16
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_0_1.png
+  rotate: false
+  xy: 753, 17
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_1_1.png
+  rotate: false
+  xy: 1073, 18
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_2_1.png
+  rotate: false
+  xy: 669, 16
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_3_0.png
+  rotate: false
+  xy: 875, 14
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_3_1.png
+  rotate: false
+  xy: 915, 15
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_7_0.png
+  rotate: false
+  xy: 795, 17
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ch_4047_7_1.png
+  rotate: false
+  xy: 995, 18
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_0_1.png
+  rotate: false
+  xy: 1174, 17
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_1_1.png
+  rotate: false
+  xy: 1798, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_1_3.png
+  rotate: false
+  xy: 8, 3
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_2_0.png
+  rotate: false
+  xy: 54, 2
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_2_3.png
+  rotate: false
+  xy: 53, 12
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_3_1.png
+  rotate: false
+  xy: 385, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_3_2.png
+  rotate: false
+  xy: 395, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_3_3.png
+  rotate: false
+  xy: 375, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4045_7_1.png
+  rotate: false
+  xy: 578, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4047_3_0.png
+  rotate: false
+  xy: 1822, 59
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_ls_4047_3_3.png
+  rotate: false
+  xy: 1182, 20
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_0_0.png
+  rotate: false
+  xy: 516, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_0_1.png
+  rotate: false
+  xy: 306, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_0_2.png
+  rotate: false
+  xy: 295, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_0_3.png
+  rotate: false
+  xy: 284, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_1_1.png
+  rotate: false
+  xy: 1147, 16
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_1_2.png
+  rotate: false
+  xy: 434, 5
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_1_3.png
+  rotate: false
+  xy: 1159, 17
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_2_0.png
+  rotate: false
+  xy: 650, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_2_1.png
+  rotate: false
+  xy: 639, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_2_3.png
+  rotate: false
+  xy: 627, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_3_1.png
+  rotate: false
+  xy: 33, 12
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_3_3.png
+  rotate: false
+  xy: 681, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4045_7_0.png
+  rotate: false
+  xy: 557, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4047_1_2.png
+  rotate: false
+  xy: 424, 2
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4047_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4047_3_2.png
+  rotate: false
+  xy: 13, 3
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+shirt_M_sunsetdress_h_wlk_rs_4047_3_3.png
+  rotate: false
+  xy: 1178, 19
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1

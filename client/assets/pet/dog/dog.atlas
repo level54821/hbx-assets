@@ -1,0 +1,1364 @@
+
+dog.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dog_dog_64_a_0_0.png
+  rotate: false
+  xy: 293, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_100.png
+  rotate: false
+  xy: 836, 29
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_1000.png
+  rotate: false
+  xy: 262, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_1301.png
+  rotate: false
+  xy: 176, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_1303.png
+  rotate: false
+  xy: 439, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_201.png
+  rotate: false
+  xy: 353, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_300.png
+  rotate: false
+  xy: 310, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_502.png
+  rotate: false
+  xy: 100, 27
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_503.png
+  rotate: false
+  xy: 893, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_600.png
+  rotate: false
+  xy: 101, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_800.png
+  rotate: false
+  xy: 209, 36
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_900.png
+  rotate: false
+  xy: 39, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_0_901.png
+  rotate: false
+  xy: 746, 35
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_0.png
+  rotate: false
+  xy: 1450, 39
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_100.png
+  rotate: false
+  xy: 426, 2
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_1000.png
+  rotate: false
+  xy: 1505, 39
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_1301.png
+  rotate: false
+  xy: 684, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_1303.png
+  rotate: false
+  xy: 715, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_201.png
+  rotate: false
+  xy: 1970, 36
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_300.png
+  rotate: false
+  xy: 1190, 38
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_502.png
+  rotate: false
+  xy: 490, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_503.png
+  rotate: false
+  xy: 340, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_600.png
+  rotate: false
+  xy: 580, 43
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_800.png
+  rotate: false
+  xy: 139, 2
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_900.png
+  rotate: false
+  xy: 1531, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_1_901.png
+  rotate: false
+  xy: 1557, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_0.png
+  rotate: false
+  xy: 777, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_100.png
+  rotate: false
+  xy: 446, 2
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_1000.png
+  rotate: false
+  xy: 206, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_1301.png
+  rotate: false
+  xy: 37, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_1303.png
+  rotate: false
+  xy: 277, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_201.png
+  rotate: false
+  xy: 235, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_300.png
+  rotate: false
+  xy: 323, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_502.png
+  rotate: false
+  xy: 863, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_503.png
+  rotate: false
+  xy: 70, 26
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_600.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_700.png
+  rotate: false
+  xy: 807, 32
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_701.png
+  rotate: false
+  xy: 176, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_800.png
+  rotate: false
+  xy: 2, 29
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_900.png
+  rotate: false
+  xy: 952, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_2_901.png
+  rotate: false
+  xy: 923, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_0.png
+  rotate: false
+  xy: 403, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_100.png
+  rotate: false
+  xy: 1849, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_1000.png
+  rotate: false
+  xy: 1274, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_1301.png
+  rotate: false
+  xy: 1922, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_1303.png
+  rotate: false
+  xy: 1946, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_201.png
+  rotate: false
+  xy: 518, 2
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_300.png
+  rotate: false
+  xy: 380, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_502.png
+  rotate: false
+  xy: 1398, 21
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_503.png
+  rotate: false
+  xy: 130, 27
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_600.png
+  rotate: false
+  xy: 1247, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_800.png
+  rotate: false
+  xy: 368, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_900.png
+  rotate: false
+  xy: 981, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_3_901.png
+  rotate: false
+  xy: 1009, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_0.png
+  rotate: false
+  xy: 416, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_100.png
+  rotate: false
+  xy: 246, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_1000.png
+  rotate: false
+  xy: 1037, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_1301.png
+  rotate: false
+  xy: 1874, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_1303.png
+  rotate: false
+  xy: 1898, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_201.png
+  rotate: false
+  xy: 469, 2
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_300.png
+  rotate: false
+  xy: 393, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_502.png
+  rotate: false
+  xy: 153, 27
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_503.png
+  rotate: false
+  xy: 1481, 14
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_600.png
+  rotate: false
+  xy: 70, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_800.png
+  rotate: false
+  xy: 1220, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_900.png
+  rotate: false
+  xy: 1068, 39
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_a_7_901.png
+  rotate: false
+  xy: 1098, 39
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_0.png
+  rotate: false
+  xy: 1458, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_1100.png
+  rotate: false
+  xy: 1295, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_1101.png
+  rotate: false
+  xy: 608, 21
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_1200.png
+  rotate: false
+  xy: 651, 22
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_1201.png
+  rotate: false
+  xy: 1435, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2000.png
+  rotate: false
+  xy: 1179, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2100.png
+  rotate: false
+  xy: 1360, 44
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2200.png
+  rotate: false
+  xy: 1412, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2300.png
+  rotate: false
+  xy: 1798, 43
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2400.png
+  rotate: false
+  xy: 674, 19
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2500.png
+  rotate: false
+  xy: 539, 12
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2600.png
+  rotate: false
+  xy: 1888, 12
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2700.png
+  rotate: false
+  xy: 1326, 21
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2800.png
+  rotate: false
+  xy: 1036, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_2900.png
+  rotate: false
+  xy: 1388, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_0_300.png
+  rotate: false
+  xy: 1994, 35
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_0.png
+  rotate: false
+  xy: 1340, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_1100.png
+  rotate: false
+  xy: 1596, 18
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_1101.png
+  rotate: false
+  xy: 1573, 17
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_1200.png
+  rotate: false
+  xy: 1840, 16
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_1201.png
+  rotate: false
+  xy: 1364, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2000.png
+  rotate: false
+  xy: 1109, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2100.png
+  rotate: false
+  xy: 1745, 43
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2200.png
+  rotate: false
+  xy: 1316, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2300.png
+  rotate: false
+  xy: 1690, 44
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2400.png
+  rotate: false
+  xy: 1202, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2500.png
+  rotate: false
+  xy: 1864, 12
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2600.png
+  rotate: false
+  xy: 1271, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2700.png
+  rotate: false
+  xy: 863, 17
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2800.png
+  rotate: false
+  xy: 889, 16
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_2900.png
+  rotate: false
+  xy: 1970, 16
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_1_300.png
+  rotate: false
+  xy: 940, 12
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_0.png
+  rotate: false
+  xy: 1816, 20
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_1100.png
+  rotate: false
+  xy: 1527, 15
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_1101.png
+  rotate: false
+  xy: 988, 11
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_1200.png
+  rotate: false
+  xy: 964, 12
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_1201.png
+  rotate: false
+  xy: 1085, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2000.png
+  rotate: false
+  xy: 1642, 20
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2100.png
+  rotate: false
+  xy: 1301, 41
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2200.png
+  rotate: false
+  xy: 1351, 21
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2300.png
+  rotate: false
+  xy: 1422, 42
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2400.png
+  rotate: false
+  xy: 1618, 20
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2500.png
+  rotate: false
+  xy: 915, 13
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2600.png
+  rotate: false
+  xy: 1061, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2700.png
+  rotate: false
+  xy: 1772, 43
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2800.png
+  rotate: false
+  xy: 1664, 42
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_2900.png
+  rotate: false
+  xy: 1666, 20
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_300.png
+  rotate: false
+  xy: 1159, 40
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_400.png
+  rotate: false
+  xy: 1012, 11
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_2_401.png
+  rotate: false
+  xy: 2016, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_0.png
+  rotate: false
+  xy: 1248, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_1100.png
+  rotate: false
+  xy: 1824, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_1101.png
+  rotate: false
+  xy: 1478, 39
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_1200.png
+  rotate: false
+  xy: 1550, 16
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_1201.png
+  rotate: false
+  xy: 562, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2000.png
+  rotate: false
+  xy: 1504, 15
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2100.png
+  rotate: false
+  xy: 471, 41
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2200.png
+  rotate: false
+  xy: 1133, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2300.png
+  rotate: false
+  xy: 651, 42
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2400.png
+  rotate: false
+  xy: 2016, 16
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2500.png
+  rotate: false
+  xy: 1637, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2600.png
+  rotate: false
+  xy: 1225, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2700.png
+  rotate: false
+  xy: 1718, 43
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2800.png
+  rotate: false
+  xy: 1610, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_2900.png
+  rotate: false
+  xy: 1690, 21
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_3_300.png
+  rotate: false
+  xy: 545, 43
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_0.png
+  rotate: false
+  xy: 1736, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_1100.png
+  rotate: false
+  xy: 1442, 21
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_1101.png
+  rotate: false
+  xy: 1301, 23
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_1200.png
+  rotate: false
+  xy: 1375, 21
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_1201.png
+  rotate: false
+  xy: 1759, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2000.png
+  rotate: false
+  xy: 1713, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2100.png
+  rotate: false
+  xy: 508, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2200.png
+  rotate: false
+  xy: 1782, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2300.png
+  rotate: false
+  xy: 1128, 40
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2400.png
+  rotate: false
+  xy: 1156, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2500.png
+  rotate: false
+  xy: 1934, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2600.png
+  rotate: false
+  xy: 1911, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2700.png
+  rotate: false
+  xy: 1583, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2800.png
+  rotate: false
+  xy: 1331, 41
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_2900.png
+  rotate: false
+  xy: 585, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_b_7_300.png
+  rotate: false
+  xy: 1391, 46
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_0.png
+  rotate: false
+  xy: 1036, 23
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_2000.png
+  rotate: false
+  xy: 1481, 2
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_2500.png
+  rotate: false
+  xy: 1536, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_2600.png
+  rotate: false
+  xy: 1577, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_2700.png
+  rotate: false
+  xy: 555, 2
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_300.png
+  rotate: false
+  xy: 719, 27
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_3000.png
+  rotate: false
+  xy: 570, 2
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_0_3001.png
+  rotate: false
+  xy: 1564, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_0.png
+  rotate: false
+  xy: 585, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_2000.png
+  rotate: false
+  xy: 539, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_2500.png
+  rotate: false
+  xy: 1062, 26
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_2600.png
+  rotate: false
+  xy: 1981, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_2700.png
+  rotate: false
+  xy: 1091, 27
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_300.png
+  rotate: false
+  xy: 2004, 3
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_3000.png
+  rotate: false
+  xy: 733, 29
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_1_3001.png
+  rotate: false
+  xy: 490, 32
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_0.png
+  rotate: false
+  xy: 545, 32
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_2000.png
+  rotate: false
+  xy: 1504, 2
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_2500.png
+  rotate: false
+  xy: 1521, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_2600.png
+  rotate: false
+  xy: 1805, 26
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_2700.png
+  rotate: false
+  xy: 1077, 26
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_300.png
+  rotate: false
+  xy: 508, 32
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_3000.png
+  rotate: false
+  xy: 1957, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_2_3001.png
+  rotate: false
+  xy: 1465, 28
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_0.png
+  rotate: false
+  xy: 528, 35
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_2000.png
+  rotate: false
+  xy: 562, 12
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_2500.png
+  rotate: false
+  xy: 1957, 9
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_2600.png
+  rotate: false
+  xy: 1840, 36
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_2700.png
+  rotate: false
+  xy: 573, 12
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_300.png
+  rotate: false
+  xy: 209, 32
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_3000.png
+  rotate: false
+  xy: 1465, 21
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_3_3001.png
+  rotate: false
+  xy: 518, 35
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_0.png
+  rotate: false
+  xy: 1587, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_2000.png
+  rotate: false
+  xy: 1970, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_2500.png
+  rotate: false
+  xy: 1551, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_2600.png
+  rotate: false
+  xy: 1051, 23
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_2700.png
+  rotate: false
+  xy: 1992, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_300.png
+  rotate: false
+  xy: 1105, 26
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_3000.png
+  rotate: false
+  xy: 2016, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_c_7_3001.png
+  rotate: false
+  xy: 2028, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+dog_dog_64_d_0_1.png
+  rotate: false
+  xy: 629, 23
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_d_0_10.png
+  rotate: false
+  xy: 1994, 13
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_d_0_3.png
+  rotate: false
+  xy: 1421, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dog_dog_64_d_0_9.png
+  rotate: false
+  xy: 697, 17
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dog_dog_64_sd_0_0.png
+  rotate: false
+  xy: 615, 45
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+plushie_c20_rainbowbunny3.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_rainbowbunny3_plushie_c20_rainbowbunny3_64_a_0_0.png
+  rotate: false
+  xy: 2, 56
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+plushie_c20_rainbowbunny3_plushie_c20_rainbowbunny3_64_sd_0_0.png
+  rotate: false
+  xy: 2, 30
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+plushie_c20_rainbowbunny3_plushie_c20_rainbowbunny3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+xmas_c20_runerock.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_runerock_xmas_c20_runerock_64_a_0_0.png
+  rotate: false
+  xy: 2, 177
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_0.png
+  rotate: false
+  xy: 122, 181
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_1.png
+  rotate: false
+  xy: 116, 40
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_2.png
+  rotate: false
+  xy: 164, 181
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_3.png
+  rotate: false
+  xy: 72, 106
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_4.png
+  rotate: false
+  xy: 206, 194
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_5.png
+  rotate: false
+  xy: 116, 114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_6.png
+  rotate: false
+  xy: 2, 40
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_b_0_7.png
+  rotate: false
+  xy: 52, 180
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_1.png
+  rotate: false
+  xy: 158, 15
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_2.png
+  rotate: false
+  xy: 72, 10
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_3.png
+  rotate: false
+  xy: 72, 57
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_4.png
+  rotate: false
+  xy: 182, 114
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_5.png
+  rotate: false
+  xy: 158, 53
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_c_0_6.png
+  rotate: false
+  xy: 2, 107
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_64_sd_0_0.png
+  rotate: false
+  xy: 194, 26
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+xmas_c20_runerock_xmas_c20_runerock_icon_a.png
+  rotate: false
+  xy: 38, 8
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

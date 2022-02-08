@@ -1,0 +1,202 @@
+
+hat_U_unicornrainbow.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_unicornrainbow_h_lay_ha_3952_2_0.png
+  rotate: false
+  xy: 280, 23
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_lay_ha_3953_2_0.png
+  rotate: false
+  xy: 631, 20
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_lay_ha_3954_2_0.png
+  rotate: false
+  xy: 669, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_lsp_ha_3952_2_0.png
+  rotate: false
+  xy: 236, 23
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_lsp_ha_3954_2_0.png
+  rotate: false
+  xy: 631, 48
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3952_0_0.png
+  rotate: false
+  xy: 188, 24
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3952_1_0.png
+  rotate: false
+  xy: 91, 23
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3952_2_0.png
+  rotate: false
+  xy: 2, 13
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3952_3_0.png
+  rotate: false
+  xy: 395, 9
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3954_0_0.png
+  rotate: false
+  xy: 584, 24
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3954_1_0.png
+  rotate: false
+  xy: 481, 21
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3954_2_0.png
+  rotate: false
+  xy: 506, 21
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_spk_ha_3954_3_0.png
+  rotate: false
+  xy: 427, 12
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3952_0_0.png
+  rotate: false
+  xy: 140, 24
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3952_1_0.png
+  rotate: false
+  xy: 42, 23
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3952_2_0.png
+  rotate: false
+  xy: 323, 15
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3952_3_0.png
+  rotate: false
+  xy: 363, 12
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3952_7_0.png
+  rotate: false
+  xy: 451, 20
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3953_0_0.png
+  rotate: false
+  xy: 528, 28
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3953_1_0.png
+  rotate: false
+  xy: 556, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3953_2_0.png
+  rotate: false
+  xy: 671, 15
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3953_3_0.png
+  rotate: false
+  xy: 717, 50
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3953_7_0.png
+  rotate: false
+  xy: 692, 25
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3954_0_0.png
+  rotate: false
+  xy: 706, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3954_1_0.png
+  rotate: false
+  xy: 654, 14
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3954_2_0.png
+  rotate: false
+  xy: 607, 2
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3954_3_0.png
+  rotate: false
+  xy: 607, 31
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+hat_U_unicornrainbow_h_std_ha_3954_7_0.png
+  rotate: false
+  xy: 427, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1

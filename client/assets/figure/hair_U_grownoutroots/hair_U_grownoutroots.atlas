@@ -1,0 +1,349 @@
+
+hair_U_grownoutroots.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_grownoutroots_h_lay_hr_4082_2_0.png
+  rotate: false
+  xy: 40, 25
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_lay_hr_4083_2_0.png
+  rotate: false
+  xy: 743, 36
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_lay_hr_4084_2_0.png
+  rotate: false
+  xy: 99, 5
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_lay_hrb_4082_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_lay_hrb_4083_2_0.png
+  rotate: false
+  xy: 152, 3
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_lay_hrb_4084_2_0.png
+  rotate: false
+  xy: 135, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_lsp_hr_4082_2_0.png
+  rotate: false
+  xy: 78, 25
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4082_0_0.png
+  rotate: false
+  xy: 184, 22
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4082_1_0.png
+  rotate: false
+  xy: 413, 23
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4082_2_0.png
+  rotate: false
+  xy: 284, 24
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4082_3_0.png
+  rotate: false
+  xy: 538, 26
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4082_7_0.png
+  rotate: false
+  xy: 381, 25
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4083_0_0.png
+  rotate: false
+  xy: 76, 9
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4083_1_0.png
+  rotate: false
+  xy: 933, 53
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4083_2_0.png
+  rotate: false
+  xy: 861, 49
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4083_3_0.png
+  rotate: false
+  xy: 760, 32
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4083_7_0.png
+  rotate: false
+  xy: 995, 47
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4084_0_0.png
+  rotate: false
+  xy: 743, 45
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4084_2_0.png
+  rotate: false
+  xy: 625, 33
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4084_3_0.png
+  rotate: false
+  xy: 719, 36
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hr_4084_7_0.png
+  rotate: false
+  xy: 52, 7
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4082_1_0.png
+  rotate: false
+  xy: 475, 23
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4082_2_0.png
+  rotate: false
+  xy: 251, 24
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4082_3_0.png
+  rotate: false
+  xy: 570, 26
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4083_1_0.png
+  rotate: false
+  xy: 907, 53
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4083_3_0.png
+  rotate: false
+  xy: 178, 9
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4083_7_0.png
+  rotate: false
+  xy: 959, 47
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4084_1_0.png
+  rotate: false
+  xy: 116, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4084_3_0.png
+  rotate: false
+  xy: 671, 36
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_spk_hrb_4084_7_0.png
+  rotate: false
+  xy: 768, 45
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4082_0_0.png
+  rotate: false
+  xy: 116, 22
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4082_1_0.png
+  rotate: false
+  xy: 444, 23
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4082_2_0.png
+  rotate: false
+  xy: 218, 24
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4082_3_0.png
+  rotate: false
+  xy: 506, 26
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4082_7_0.png
+  rotate: false
+  xy: 349, 25
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4083_0_0.png
+  rotate: false
+  xy: 815, 47
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4083_1_0.png
+  rotate: false
+  xy: 152, 12
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4083_2_0.png
+  rotate: false
+  xy: 884, 49
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4083_3_0.png
+  rotate: false
+  xy: 194, 9
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4083_7_0.png
+  rotate: false
+  xy: 977, 47
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4084_0_0.png
+  rotate: false
+  xy: 27, 7
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4084_2_0.png
+  rotate: false
+  xy: 648, 33
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hr_4084_3_0.png
+  rotate: false
+  xy: 695, 36
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hrb_4082_0_0.png
+  rotate: false
+  xy: 150, 22
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hrb_4082_7_0.png
+  rotate: false
+  xy: 317, 25
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hrb_4083_0_0.png
+  rotate: false
+  xy: 792, 47
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hrb_4083_2_0.png
+  rotate: false
+  xy: 838, 49
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hrb_4084_0_0.png
+  rotate: false
+  xy: 2, 7
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+hair_U_grownoutroots_h_std_hrb_4084_2_0.png
+  rotate: false
+  xy: 602, 33
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

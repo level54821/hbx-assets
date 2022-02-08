@@ -1,0 +1,27 @@
+
+hween_c20_candyapple.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_candyapple_hween_c20_candyapple_64_a_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+hween_c20_candyapple_hween_c20_candyapple_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hween_c20_candyapple_hween_c20_candyapple_icon_a.png
+  rotate: false
+  xy: 27, 28
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

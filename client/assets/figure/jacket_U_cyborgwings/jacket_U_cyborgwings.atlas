@@ -1,0 +1,146 @@
+
+jacket_U_cyborgwings.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_cyborgwings_h_lay_cc_3824_2_0.png
+  rotate: false
+  xy: 2, 7
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_lay_cc_3825_2_0.png
+  rotate: false
+  xy: 2, 77
+  size: 200, 177
+  orig: 200, 177
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_lay_cc_3826_2_0.png
+  rotate: false
+  xy: 28, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3824_0_0.png
+  rotate: false
+  xy: 2, 29
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3824_1_0.png
+  rotate: false
+  xy: 204, 82
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3824_2_0.png
+  rotate: false
+  xy: 235, 224
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3824_3_0.png
+  rotate: false
+  xy: 148, 17
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3824_7_0.png
+  rotate: false
+  xy: 74, 37
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3825_0_0.png
+  rotate: false
+  xy: 204, 207
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3825_1_0.png
+  rotate: false
+  xy: 228, 85
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3825_2_0.png
+  rotate: false
+  xy: 205, 53
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3825_3_0.png
+  rotate: false
+  xy: 148, 48
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3825_7_0.png
+  rotate: false
+  xy: 37, 36
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3826_0_0.png
+  rotate: false
+  xy: 204, 161
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3826_1_0.png
+  rotate: false
+  xy: 189, 41
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3826_2_0.png
+  rotate: false
+  xy: 187, 16
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3826_3_0.png
+  rotate: false
+  xy: 111, 38
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_std_cc_3826_7_0.png
+  rotate: false
+  xy: 204, 124
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_wlk_lc_3824_0_1.png
+  rotate: false
+  xy: 228, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cyborgwings_h_wlk_lc_3826_3_2.png
+  rotate: false
+  xy: 235, 220
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+xmas_c20_woodenblocks.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_woodenblocks_xmas_c20_woodenblocks_64_a_0_0.png
+  rotate: false
+  xy: 61, 16
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenblocks_xmas_c20_woodenblocks_64_a_0_1.png
+  rotate: false
+  xy: 87, 16
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenblocks_xmas_c20_woodenblocks_64_a_0_2.png
+  rotate: false
+  xy: 113, 18
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenblocks_xmas_c20_woodenblocks_64_a_0_3.png
+  rotate: false
+  xy: 2, 30
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenblocks_xmas_c20_woodenblocks_64_sd_0_0.png
+  rotate: false
+  xy: 113, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenblocks_xmas_c20_woodenblocks_icon_a.png
+  rotate: false
+  xy: 139, 35
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1

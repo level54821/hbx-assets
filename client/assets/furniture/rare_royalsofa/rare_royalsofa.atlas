@@ -1,0 +1,76 @@
+
+rare_royalsofa.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_royalsofa_rare_royalsofa_64_a_2_0.png
+  rotate: false
+  xy: 133, 73
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_a_6_0.png
+  rotate: false
+  xy: 58, 5
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_b_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_b_6_0.png
+  rotate: false
+  xy: 102, 82
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_c_2_0.png
+  rotate: false
+  xy: 187, 94
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_c_6_0.png
+  rotate: false
+  xy: 187, 88
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_d_2_0.png
+  rotate: false
+  xy: 58, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_d_6_0.png
+  rotate: false
+  xy: 58, 11
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_64_sd_2_0.png
+  rotate: false
+  xy: 2, 77
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+rare_royalsofa_rare_royalsofa_icon_a.png
+  rotate: false
+  xy: 219, 98
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

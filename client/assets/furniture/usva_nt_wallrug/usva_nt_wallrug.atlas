@@ -1,0 +1,55 @@
+
+usva_nt_wallrug.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+usva_nt_wallrug_usva_nt_wallrug_64_a_2_0.png
+  rotate: false
+  xy: 71, 34
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+usva_nt_wallrug_usva_nt_wallrug_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+usva_nt_wallrug_usva_nt_wallrug_64_a_2_2.png
+  rotate: false
+  xy: 209, 34
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+usva_nt_wallrug_usva_nt_wallrug_64_a_4_0.png
+  rotate: false
+  xy: 278, 34
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+usva_nt_wallrug_usva_nt_wallrug_64_a_4_1.png
+  rotate: false
+  xy: 140, 34
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+usva_nt_wallrug_usva_nt_wallrug_64_a_4_2.png
+  rotate: false
+  xy: 347, 34
+  size: 67, 147
+  orig: 67, 147
+  offset: 0, 0
+  index: -1
+usva_nt_wallrug_usva_nt_wallrug_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

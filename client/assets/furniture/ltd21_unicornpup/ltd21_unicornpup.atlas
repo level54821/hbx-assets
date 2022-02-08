@@ -1,0 +1,181 @@
+
+ltd21_unicornpup.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_0.png
+  rotate: false
+  xy: 224, 62
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_1.png
+  rotate: false
+  xy: 432, 196
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_10.png
+  rotate: false
+  xy: 365, 196
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_11.png
+  rotate: false
+  xy: 298, 196
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_12.png
+  rotate: false
+  xy: 420, 78
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_13.png
+  rotate: false
+  xy: 354, 78
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_14.png
+  rotate: false
+  xy: 76, 108
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_15.png
+  rotate: false
+  xy: 76, 182
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_16.png
+  rotate: false
+  xy: 2, 34
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_17.png
+  rotate: false
+  xy: 2, 108
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_18.png
+  rotate: false
+  xy: 76, 34
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_19.png
+  rotate: false
+  xy: 2, 182
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_2.png
+  rotate: false
+  xy: 298, 136
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_20.png
+  rotate: false
+  xy: 150, 182
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_21.png
+  rotate: false
+  xy: 224, 184
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_22.png
+  rotate: false
+  xy: 150, 110
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_3.png
+  rotate: false
+  xy: 280, 2
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_4.png
+  rotate: false
+  xy: 214, 2
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_5.png
+  rotate: false
+  xy: 148, 2
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_6.png
+  rotate: false
+  xy: 430, 136
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_7.png
+  rotate: false
+  xy: 224, 122
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_8.png
+  rotate: false
+  xy: 364, 136
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_a_0_9.png
+  rotate: false
+  xy: 290, 76
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_64_sd_0_0.png
+  rotate: false
+  xy: 34, 5
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+ltd21_unicornpup_ltd21_unicornpup_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

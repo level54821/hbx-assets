@@ -1,0 +1,398 @@
+
+shoes_U_hermesshoes.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_hermesshoes_h_lay_sh_2989_2_0.png
+  rotate: false
+  xy: 346, 8
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_lay_sh_2989_2_0.png
+  rotate: false
+  xy: 374, 8
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_sit_sh_2989_0_0.png
+  rotate: false
+  xy: 902, 8
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_sit_sh_2990_0_0.png
+  rotate: false
+  xy: 172, 3
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_sit_sh_2990_2_0.png
+  rotate: false
+  xy: 28, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_sit_sh_2990_2_0.png
+  rotate: false
+  xy: 1008, 21
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2989_1_0.png
+  rotate: false
+  xy: 921, 22
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2989_2_0.png
+  rotate: false
+  xy: 402, 17
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2989_3_0.png
+  rotate: false
+  xy: 456, 20
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2989_7_0.png
+  rotate: false
+  xy: 777, 22
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_0_0.png
+  rotate: false
+  xy: 477, 3
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_0_0.png
+  rotate: false
+  xy: 503, 3
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_1_0.png
+  rotate: false
+  xy: 581, 10
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_2_0.png
+  rotate: false
+  xy: 161, 3
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_2_0.png
+  rotate: false
+  xy: 942, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_2_0.png
+  rotate: false
+  xy: 953, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_2_0.png
+  rotate: false
+  xy: 964, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_2_0.png
+  rotate: false
+  xy: 975, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_2_0.png
+  rotate: false
+  xy: 986, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_3_0.png
+  rotate: false
+  xy: 748, 23
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_std_sh_2990_7_0.png
+  rotate: false
+  xy: 804, 22
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_0_0.png
+  rotate: false
+  xy: 254, 15
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_0_0.png
+  rotate: false
+  xy: 285, 15
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_0_1.png
+  rotate: false
+  xy: 45, 18
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_0_2.png
+  rotate: false
+  xy: 316, 13
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_0_3.png
+  rotate: false
+  xy: 45, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_1_0.png
+  rotate: false
+  xy: 431, 17
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_1_1.png
+  rotate: false
+  xy: 136, 15
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_1_2.png
+  rotate: false
+  xy: 454, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_1_3.png
+  rotate: false
+  xy: 92, 18
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_2_0.png
+  rotate: false
+  xy: 71, 3
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_2_1.png
+  rotate: false
+  xy: 881, 17
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_2_2.png
+  rotate: false
+  xy: 857, 18
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_2_3.png
+  rotate: false
+  xy: 2, 13
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_3_0.png
+  rotate: false
+  xy: 619, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_3_1.png
+  rotate: false
+  xy: 402, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_3_2.png
+  rotate: false
+  xy: 135, 2
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_3_3.png
+  rotate: false
+  xy: 428, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_7_0.png
+  rotate: false
+  xy: 539, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_7_1.png
+  rotate: false
+  xy: 645, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_7_2.png
+  rotate: false
+  xy: 566, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2989_7_3.png
+  rotate: false
+  xy: 529, 6
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_0_1.png
+  rotate: false
+  xy: 179, 20
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_0_2.png
+  rotate: false
+  xy: 671, 13
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_1_0.png
+  rotate: false
+  xy: 997, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_1_1.png
+  rotate: false
+  xy: 221, 15
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_1_2.png
+  rotate: false
+  xy: 921, 7
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_1_3.png
+  rotate: false
+  xy: 103, 5
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_3_1.png
+  rotate: false
+  xy: 722, 20
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_3_2.png
+  rotate: false
+  xy: 831, 22
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_3_3.png
+  rotate: false
+  xy: 696, 20
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_7_0.png
+  rotate: false
+  xy: 512, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_7_1.png
+  rotate: false
+  xy: 593, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_7_2.png
+  rotate: false
+  xy: 485, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_hermesshoes_h_wlk_sh_2990_7_3.png
+  rotate: false
+  xy: 555, 6
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1

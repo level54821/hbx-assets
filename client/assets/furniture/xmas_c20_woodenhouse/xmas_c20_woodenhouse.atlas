@@ -1,0 +1,48 @@
+
+xmas_c20_woodenhouse.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_woodenhouse_xmas_c20_woodenhouse_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenhouse_xmas_c20_woodenhouse_64_a_0_1.png
+  rotate: false
+  xy: 152, 2
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenhouse_xmas_c20_woodenhouse_64_a_0_2.png
+  rotate: false
+  xy: 108, 7
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenhouse_xmas_c20_woodenhouse_64_a_0_3.png
+  rotate: false
+  xy: 52, 18
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenhouse_xmas_c20_woodenhouse_64_sd_0_0.png
+  rotate: false
+  xy: 52, 3
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+xmas_c20_woodenhouse_xmas_c20_woodenhouse_icon_a.png
+  rotate: false
+  xy: 180, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

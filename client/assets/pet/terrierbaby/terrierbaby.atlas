@@ -1,0 +1,328 @@
+
+terrierbaby.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+terrierbaby_terrierbaby_64_a_0_100.png
+  rotate: false
+  xy: 177, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_101.png
+  rotate: false
+  xy: 154, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_1200.png
+  rotate: false
+  xy: 790, 10
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_1201.png
+  rotate: false
+  xy: 813, 10
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_1401.png
+  rotate: false
+  xy: 223, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_1402.png
+  rotate: false
+  xy: 200, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_1403.png
+  rotate: false
+  xy: 130, 5
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_0_200.png
+  rotate: false
+  xy: 246, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_1_100.png
+  rotate: false
+  xy: 337, 8
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_1_101.png
+  rotate: false
+  xy: 362, 8
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_1_1400.png
+  rotate: false
+  xy: 414, 9
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_1_1401.png
+  rotate: false
+  xy: 439, 9
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_1_1403.png
+  rotate: false
+  xy: 312, 8
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_1_200.png
+  rotate: false
+  xy: 464, 8
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_0.png
+  rotate: false
+  xy: 291, 4
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_100.png
+  rotate: false
+  xy: 677, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1000.png
+  rotate: false
+  xy: 58, 7
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_101.png
+  rotate: false
+  xy: 700, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1100.png
+  rotate: false
+  xy: 387, 10
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1200.png
+  rotate: false
+  xy: 537, 7
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1201.png
+  rotate: false
+  xy: 561, 7
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1300.png
+  rotate: false
+  xy: 513, 7
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1301.png
+  rotate: false
+  xy: 106, 6
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1303.png
+  rotate: false
+  xy: 269, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1400.png
+  rotate: false
+  xy: 585, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1401.png
+  rotate: false
+  xy: 82, 6
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1402.png
+  rotate: false
+  xy: 608, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_1403.png
+  rotate: false
+  xy: 746, 8
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_300.png
+  rotate: false
+  xy: 2, 7
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_301.png
+  rotate: false
+  xy: 31, 7
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_400.png
+  rotate: false
+  xy: 631, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_401.png
+  rotate: false
+  xy: 769, 7
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_500.png
+  rotate: false
+  xy: 836, 14
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_600.png
+  rotate: false
+  xy: 654, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_800.png
+  rotate: false
+  xy: 489, 8
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_2_900.png
+  rotate: false
+  xy: 723, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_3_100.png
+  rotate: false
+  xy: 973, 6
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_3_101.png
+  rotate: false
+  xy: 986, 6
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_3_1400.png
+  rotate: false
+  xy: 882, 6
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_3_1401.png
+  rotate: false
+  xy: 895, 5
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_3_1403.png
+  rotate: false
+  xy: 960, 5
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_7_100.png
+  rotate: false
+  xy: 908, 3
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_7_101.png
+  rotate: false
+  xy: 921, 2
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_7_701.png
+  rotate: false
+  xy: 947, 2
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_a_7_703.png
+  rotate: false
+  xy: 934, 2
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+terrierbaby_terrierbaby_64_sd_0_0.png
+  rotate: false
+  xy: 862, 19
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1

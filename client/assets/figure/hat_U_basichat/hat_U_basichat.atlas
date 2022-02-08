@@ -1,0 +1,90 @@
+
+hat_U_basichat.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_basichat_h_lay_ha_4031_2_0.png
+  rotate: false
+  xy: 340, 12
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_lsp_ha_4030_2_0.png
+  rotate: false
+  xy: 239, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4030_0_0.png
+  rotate: false
+  xy: 147, 12
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4030_1_0.png
+  rotate: false
+  xy: 110, 13
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4030_2_0.png
+  rotate: false
+  xy: 2, 10
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4030_3_0.png
+  rotate: false
+  xy: 211, 10
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4030_7_0.png
+  rotate: false
+  xy: 264, 13
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4031_0_0.png
+  rotate: false
+  xy: 37, 12
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4031_1_0.png
+  rotate: false
+  xy: 73, 13
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4031_2_0.png
+  rotate: false
+  xy: 318, 15
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4031_3_0.png
+  rotate: false
+  xy: 183, 10
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hat_U_basichat_h_spk_ha_4031_7_0.png
+  rotate: false
+  xy: 292, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1

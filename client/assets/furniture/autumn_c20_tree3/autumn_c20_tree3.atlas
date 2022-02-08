@@ -1,0 +1,27 @@
+
+autumn_c20_tree3.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+autumn_c20_tree3_autumn_c20_tree3_64_a_0_0.png
+  rotate: false
+  xy: 2, 64
+  size: 322, 618
+  orig: 322, 618
+  offset: 0, 0
+  index: -1
+autumn_c20_tree3_autumn_c20_tree3_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+autumn_c20_tree3_autumn_c20_tree3_icon_a.png
+  rotate: false
+  xy: 326, 652
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+bonusrare21_3.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bonusrare21_3_bonusrare21_3_64_a_0_0.png
+  rotate: false
+  xy: 2, 77
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+bonusrare21_3_bonusrare21_3_64_b_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+bonusrare21_3_bonusrare21_3_64_c_0_0.png
+  rotate: false
+  xy: 2, 125
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+bonusrare21_3_bonusrare21_3_64_sd_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+bonusrare21_3_bonusrare21_3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+bonusrare21_3_bonusrare21_3_icon_b.png
+  rotate: false
+  xy: 46, 176
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+bonusrare21_3_bonusrare21_3_icon_c.png
+  rotate: false
+  xy: 46, 154
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1

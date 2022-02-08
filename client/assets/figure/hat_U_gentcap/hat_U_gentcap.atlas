@@ -1,0 +1,90 @@
+
+hat_U_gentcap.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_gentcap_h_lay_ha_3154_2_0.png
+  rotate: false
+  xy: 2, 28
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_lay_ha_3155_2_0.png
+  rotate: false
+  xy: 110, 9
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_spk_ha_3154_2_0.png
+  rotate: false
+  xy: 75, 40
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_spk_ha_3154_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_spk_ha_3154_7_0.png
+  rotate: false
+  xy: 161, 41
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3154_0_0.png
+  rotate: false
+  xy: 36, 33
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3154_1_0.png
+  rotate: false
+  xy: 118, 42
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3155_0_0.png
+  rotate: false
+  xy: 40, 10
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3155_1_0.png
+  rotate: false
+  xy: 199, 33
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3155_2_0.png
+  rotate: false
+  xy: 199, 45
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3155_3_0.png
+  rotate: false
+  xy: 76, 20
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+hat_U_gentcap_h_std_ha_3155_7_0.png
+  rotate: false
+  xy: 76, 6
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1000 @@
+
+rhino.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rhino_rhino_64_a_0_100.png
+  rotate: false
+  xy: 1234, 83
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_1000.png
+  rotate: false
+  xy: 1917, 89
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_1301.png
+  rotate: false
+  xy: 2, 51
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_1303.png
+  rotate: false
+  xy: 1656, 87
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_200.png
+  rotate: false
+  xy: 1732, 85
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_300.png
+  rotate: false
+  xy: 1274, 80
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_501.png
+  rotate: false
+  xy: 1769, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_502.png
+  rotate: false
+  xy: 1806, 86
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_600.png
+  rotate: false
+  xy: 404, 93
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_800.png
+  rotate: false
+  xy: 1150, 90
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_900.png
+  rotate: false
+  xy: 1580, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_0_901.png
+  rotate: false
+  xy: 1695, 86
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_100.png
+  rotate: false
+  xy: 629, 85
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_1000.png
+  rotate: false
+  xy: 1843, 86
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_1301.png
+  rotate: false
+  xy: 934, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_1303.png
+  rotate: false
+  xy: 977, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_200.png
+  rotate: false
+  xy: 1020, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_300.png
+  rotate: false
+  xy: 1193, 83
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_501.png
+  rotate: false
+  xy: 891, 85
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_502.png
+  rotate: false
+  xy: 1063, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_600.png
+  rotate: false
+  xy: 353, 94
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_800.png
+  rotate: false
+  xy: 1106, 89
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_900.png
+  rotate: false
+  xy: 762, 85
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_1_901.png
+  rotate: false
+  xy: 719, 85
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_100.png
+  rotate: false
+  xy: 451, 88
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_1000.png
+  rotate: false
+  xy: 586, 81
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_1301.png
+  rotate: false
+  xy: 73, 82
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_1303.png
+  rotate: false
+  xy: 674, 85
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_200.png
+  rotate: false
+  xy: 121, 82
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_300.png
+  rotate: false
+  xy: 35, 3
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_501.png
+  rotate: false
+  xy: 541, 82
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_502.png
+  rotate: false
+  xy: 211, 81
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_600.png
+  rotate: false
+  xy: 301, 89
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_700.png
+  rotate: false
+  xy: 805, 85
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_701.png
+  rotate: false
+  xy: 848, 85
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_800.png
+  rotate: false
+  xy: 256, 82
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_900.png
+  rotate: false
+  xy: 496, 83
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_2_901.png
+  rotate: false
+  xy: 166, 81
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_100.png
+  rotate: false
+  xy: 1313, 77
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_1000.png
+  rotate: false
+  xy: 1988, 83
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_1301.png
+  rotate: false
+  xy: 1447, 76
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_1303.png
+  rotate: false
+  xy: 1414, 76
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_200.png
+  rotate: false
+  xy: 1480, 77
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_300.png
+  rotate: false
+  xy: 1954, 81
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_501.png
+  rotate: false
+  xy: 1513, 78
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_600.png
+  rotate: false
+  xy: 1617, 86
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_800.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_900.png
+  rotate: false
+  xy: 1381, 77
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_3_901.png
+  rotate: false
+  xy: 1348, 77
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_100.png
+  rotate: false
+  xy: 167, 36
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_1000.png
+  rotate: false
+  xy: 1880, 89
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_1301.png
+  rotate: false
+  xy: 136, 6
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_1303.png
+  rotate: false
+  xy: 105, 5
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_300.png
+  rotate: false
+  xy: 1546, 80
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_501.png
+  rotate: false
+  xy: 74, 4
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_502.png
+  rotate: false
+  xy: 260, 38
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_600.png
+  rotate: false
+  xy: 322, 52
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_800.png
+  rotate: false
+  xy: 291, 39
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_900.png
+  rotate: false
+  xy: 229, 36
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_a_7_901.png
+  rotate: false
+  xy: 198, 36
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_100.png
+  rotate: false
+  xy: 603, 45
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_1101.png
+  rotate: false
+  xy: 858, 49
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_1201.png
+  rotate: false
+  xy: 269, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2000.png
+  rotate: false
+  xy: 1144, 53
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2200.png
+  rotate: false
+  xy: 1030, 50
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2300.png
+  rotate: false
+  xy: 916, 49
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2400.png
+  rotate: false
+  xy: 748, 16
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2500.png
+  rotate: false
+  xy: 1529, 42
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2600.png
+  rotate: false
+  xy: 1557, 45
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2700.png
+  rotate: false
+  xy: 1501, 41
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2800.png
+  rotate: false
+  xy: 1116, 53
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_2900.png
+  rotate: false
+  xy: 332, 13
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_300.png
+  rotate: false
+  xy: 1262, 48
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_400.png
+  rotate: false
+  xy: 1088, 50
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_0_401.png
+  rotate: false
+  xy: 887, 49
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_100.png
+  rotate: false
+  xy: 1232, 50
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_1100.png
+  rotate: false
+  xy: 1352, 44
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_1101.png
+  rotate: false
+  xy: 1382, 44
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_1201.png
+  rotate: false
+  xy: 1442, 42
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2000.png
+  rotate: false
+  xy: 1202, 50
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2100.png
+  rotate: false
+  xy: 570, 48
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2200.png
+  rotate: false
+  xy: 1292, 44
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2300.png
+  rotate: false
+  xy: 1322, 44
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2400.png
+  rotate: false
+  xy: 447, 28
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2500.png
+  rotate: false
+  xy: 1586, 50
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2600.png
+  rotate: false
+  xy: 480, 21
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2700.png
+  rotate: false
+  xy: 1172, 50
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2800.png
+  rotate: false
+  xy: 828, 50
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_2900.png
+  rotate: false
+  xy: 1058, 52
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_300.png
+  rotate: false
+  xy: 1412, 43
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_400.png
+  rotate: false
+  xy: 360, 21
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_1_401.png
+  rotate: false
+  xy: 1002, 49
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_100.png
+  rotate: false
+  xy: 235, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_1100.png
+  rotate: false
+  xy: 664, 51
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_1101.png
+  rotate: false
+  xy: 631, 51
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_1200.png
+  rotate: false
+  xy: 356, 59
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_1201.png
+  rotate: false
+  xy: 167, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2000.png
+  rotate: false
+  xy: 390, 60
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2100.png
+  rotate: false
+  xy: 537, 49
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2200.png
+  rotate: false
+  xy: 201, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2300.png
+  rotate: false
+  xy: 1988, 49
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2400.png
+  rotate: false
+  xy: 109, 52
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2600.png
+  rotate: false
+  xy: 73, 51
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2700.png
+  rotate: false
+  xy: 697, 51
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2800.png
+  rotate: false
+  xy: 730, 51
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_2900.png
+  rotate: false
+  xy: 298, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_300.png
+  rotate: false
+  xy: 631, 19
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_400.png
+  rotate: false
+  xy: 763, 51
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_2_401.png
+  rotate: false
+  xy: 796, 50
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_1101.png
+  rotate: false
+  xy: 661, 18
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_1200.png
+  rotate: false
+  xy: 1472, 42
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2000.png
+  rotate: false
+  xy: 806, 17
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2100.png
+  rotate: false
+  xy: 973, 49
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2200.png
+  rotate: false
+  xy: 690, 18
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2300.png
+  rotate: false
+  xy: 2021, 94
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2400.png
+  rotate: false
+  xy: 447, 58
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2500.png
+  rotate: false
+  xy: 396, 27
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2800.png
+  rotate: false
+  xy: 777, 16
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_2900.png
+  rotate: false
+  xy: 944, 49
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_300.png
+  rotate: false
+  xy: 481, 51
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_3_400.png
+  rotate: false
+  xy: 719, 18
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_7_100.png
+  rotate: false
+  xy: 2021, 62
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_b_7_300.png
+  rotate: false
+  xy: 835, 17
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_0_300.png
+  rotate: false
+  xy: 389, 26
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_0_3001.png
+  rotate: false
+  xy: 322, 42
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_0_600.png
+  rotate: false
+  xy: 2039, 52
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_1_1000.png
+  rotate: false
+  xy: 389, 32
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_1_300.png
+  rotate: false
+  xy: 389, 50
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_1_3001.png
+  rotate: false
+  xy: 332, 4
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_1_600.png
+  rotate: false
+  xy: 389, 41
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_2_0.png
+  rotate: false
+  xy: 301, 82
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_2_300.png
+  rotate: false
+  xy: 515, 55
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_3_300.png
+  rotate: false
+  xy: 353, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_7_0.png
+  rotate: false
+  xy: 425, 37
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_7_300.png
+  rotate: false
+  xy: 2021, 50
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_7_3000.png
+  rotate: false
+  xy: 2030, 50
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_c_7_3001.png
+  rotate: false
+  xy: 863, 37
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_d_0_2.png
+  rotate: false
+  xy: 515, 61
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_d_0_6.png
+  rotate: false
+  xy: 425, 49
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_d_0_7.png
+  rotate: false
+  xy: 425, 71
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_d_0_8.png
+  rotate: false
+  xy: 146, 60
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+rhino_rhino_64_sd_0_0.png
+  rotate: false
+  xy: 360, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

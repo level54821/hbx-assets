@@ -1,0 +1,27 @@
+
+SID_c21_plush.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SID_c21_plush_SID_c21_plush_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+SID_c21_plush_SID_c21_plush_64_sd_0_0.png
+  rotate: false
+  xy: 71, 32
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+SID_c21_plush_SID_c21_plush_icon_a.png
+  rotate: false
+  xy: 39, 22
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

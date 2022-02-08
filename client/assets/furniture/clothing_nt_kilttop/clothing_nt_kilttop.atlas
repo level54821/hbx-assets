@@ -1,0 +1,20 @@
+
+clothing_nt_kilttop.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_nt_kilttop_clothing_nt_kilttop_64_a_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+clothing_nt_kilttop_clothing_nt_kilttop_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,594 @@
+
+shoes_U_nutrainer.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_nutrainer_h_lay_sh_4069_2_0.png
+  rotate: false
+  xy: 472, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 252, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 602, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 95, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 95, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 401, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 746, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4070_2_0.png
+  rotate: false
+  xy: 567, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_lay_sh_4071_2_0.png
+  rotate: false
+  xy: 394, 15
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_sit_sh_4069_0_0.png
+  rotate: false
+  xy: 516, 9
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_sit_sh_4069_2_0.png
+  rotate: false
+  xy: 495, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_sit_sh_4070_0_0.png
+  rotate: false
+  xy: 546, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_sit_sh_4071_0_0.png
+  rotate: false
+  xy: 702, 18
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_sit_sh_4071_2_0.png
+  rotate: false
+  xy: 558, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4069_0_0.png
+  rotate: false
+  xy: 256, 15
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4069_1_0.png
+  rotate: false
+  xy: 47, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4069_2_0.png
+  rotate: false
+  xy: 229, 13
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4069_3_0.png
+  rotate: false
+  xy: 256, 2
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4069_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4070_1_0.png
+  rotate: false
+  xy: 526, 2
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4070_1_0.png
+  rotate: false
+  xy: 741, 28
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4070_2_0.png
+  rotate: false
+  xy: 686, 22
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4070_3_0.png
+  rotate: false
+  xy: 69, 5
+  size: 17, 1
+  orig: 17, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4071_0_0.png
+  rotate: false
+  xy: 200, 2
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4071_1_0.png
+  rotate: false
+  xy: 516, 2
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4071_2_0.png
+  rotate: false
+  xy: 666, 20
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4071_3_0.png
+  rotate: false
+  xy: 511, 24
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_std_sh_4071_7_0.png
+  rotate: false
+  xy: 69, 2
+  size: 15, 1
+  orig: 15, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk__4070_1_10.png
+  rotate: false
+  xy: 511, 27
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_0_0.png
+  rotate: false
+  xy: 310, 17
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_0_1.png
+  rotate: false
+  xy: 2, 13
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_0_2.png
+  rotate: false
+  xy: 201, 13
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_0_3.png
+  rotate: false
+  xy: 284, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_1_0.png
+  rotate: false
+  xy: 334, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_1_1.png
+  rotate: false
+  xy: 88, 16
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_1_2.png
+  rotate: false
+  xy: 310, 2
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_1_3.png
+  rotate: false
+  xy: 45, 16
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_2_0.png
+  rotate: false
+  xy: 171, 14
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_2_1.png
+  rotate: false
+  xy: 357, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_2_2.png
+  rotate: false
+  xy: 338, 17
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_2_3.png
+  rotate: false
+  xy: 131, 14
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_3_0.png
+  rotate: false
+  xy: 177, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_3_1.png
+  rotate: false
+  xy: 533, 20
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_3_2.png
+  rotate: false
+  xy: 131, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_3_3.png
+  rotate: false
+  xy: 154, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_7_0.png
+  rotate: false
+  xy: 579, 20
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_7_1.png
+  rotate: false
+  xy: 624, 19
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_7_2.png
+  rotate: false
+  xy: 556, 20
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4069_7_3.png
+  rotate: false
+  xy: 602, 19
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_0_1.png
+  rotate: false
+  xy: 281, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_0_2.png
+  rotate: false
+  xy: 252, 9
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_0_2.png
+  rotate: false
+  xy: 252, 5
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_0_2.png
+  rotate: false
+  xy: 563, 12
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_0_3.png
+  rotate: false
+  xy: 714, 20
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_1_1.png
+  rotate: false
+  xy: 472, 24
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_1_3.png
+  rotate: false
+  xy: 445, 23
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_2_0.png
+  rotate: false
+  xy: 533, 11
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_2_1.png
+  rotate: false
+  xy: 359, 17
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_2_2.png
+  rotate: false
+  xy: 734, 20
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_2_3.png
+  rotate: false
+  xy: 103, 8
+  size: 26, 6
+  orig: 26, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_3_1.png
+  rotate: false
+  xy: 586, 16
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_3_2.png
+  rotate: false
+  xy: 88, 5
+  size: 5, 1
+  orig: 5, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_3_2.png
+  rotate: false
+  xy: 526, 6
+  size: 5, 1
+  orig: 5, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4070_3_3.png
+  rotate: false
+  xy: 686, 18
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_0_0.png
+  rotate: false
+  xy: 221, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_0_1.png
+  rotate: false
+  xy: 69, 8
+  size: 32, 6
+  orig: 32, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_0_2.png
+  rotate: false
+  xy: 646, 19
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_0_3.png
+  rotate: false
+  xy: 533, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_1_0.png
+  rotate: false
+  xy: 724, 20
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_1_1.png
+  rotate: false
+  xy: 359, 23
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_1_2.png
+  rotate: false
+  xy: 241, 3
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_1_3.png
+  rotate: false
+  xy: 389, 23
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_2_0.png
+  rotate: false
+  xy: 25, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_2_1.png
+  rotate: false
+  xy: 384, 15
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_2_2.png
+  rotate: false
+  xy: 499, 24
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_2_3.png
+  rotate: false
+  xy: 418, 22
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_3_0.png
+  rotate: false
+  xy: 605, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_3_0.png
+  rotate: false
+  xy: 98, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_3_1.png
+  rotate: false
+  xy: 86, 2
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_3_3.png
+  rotate: false
+  xy: 552, 12
+  size: 9, 2
+  orig: 9, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_7_0.png
+  rotate: false
+  xy: 569, 16
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_7_1.png
+  rotate: false
+  xy: 367, 19
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_7_2.png
+  rotate: false
+  xy: 724, 28
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+shoes_U_nutrainer_h_wlk_sh_4071_7_3.png
+  rotate: false
+  xy: 552, 16
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1

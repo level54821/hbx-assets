@@ -1,0 +1,20 @@
+
+pixelduck_wall.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixelduck_wall_pixelduck_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+pixelduck_wall_pixelduck_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

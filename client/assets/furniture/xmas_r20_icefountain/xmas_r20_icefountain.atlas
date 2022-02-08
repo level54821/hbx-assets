@@ -1,0 +1,132 @@
+
+xmas_r20_icefountain.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_r20_icefountain_xmas_r20_icefountain_64_a_0_0.png
+  rotate: false
+  xy: 86, 16
+  size: 82, 109
+  orig: 82, 109
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_0.png
+  rotate: false
+  xy: 369, 24
+  size: 38, 101
+  orig: 38, 101
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_1.png
+  rotate: false
+  xy: 289, 22
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_2.png
+  rotate: false
+  xy: 210, 20
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_3.png
+  rotate: false
+  xy: 249, 21
+  size: 38, 104
+  orig: 38, 104
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_4.png
+  rotate: false
+  xy: 170, 20
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_5.png
+  rotate: false
+  xy: 328, 24
+  size: 39, 101
+  orig: 39, 101
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_6.png
+  rotate: false
+  xy: 409, 27
+  size: 40, 98
+  orig: 40, 98
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_7.png
+  rotate: false
+  xy: 451, 29
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_b_0_8.png
+  rotate: false
+  xy: 494, 29
+  size: 38, 96
+  orig: 38, 96
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_c_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_e_0_0.png
+  rotate: false
+  xy: 170, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_e_0_1.png
+  rotate: false
+  xy: 86, 11
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_e_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_e_0_3.png
+  rotate: false
+  xy: 534, 69
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_e_0_4.png
+  rotate: false
+  xy: 566, 114
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_64_e_0_5.png
+  rotate: false
+  xy: 534, 78
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xmas_r20_icefountain_xmas_r20_icefountain_icon_a.png
+  rotate: false
+  xy: 534, 95
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

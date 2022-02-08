@@ -1,0 +1,209 @@
+
+xmas_c20_earthguy.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_0.png
+  rotate: false
+  xy: 563, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_1.png
+  rotate: false
+  xy: 609, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_10.png
+  rotate: false
+  xy: 821, 6
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_11.png
+  rotate: false
+  xy: 957, 51
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_12.png
+  rotate: false
+  xy: 149, 45
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_13.png
+  rotate: false
+  xy: 195, 44
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_14.png
+  rotate: false
+  xy: 655, 49
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_15.png
+  rotate: false
+  xy: 2, 45
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_16.png
+  rotate: false
+  xy: 52, 47
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_17.png
+  rotate: false
+  xy: 702, 62
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_18.png
+  rotate: false
+  xy: 2, 2
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_19.png
+  rotate: false
+  xy: 390, 3
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_2.png
+  rotate: false
+  xy: 471, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_20.png
+  rotate: false
+  xy: 309, 3
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_21.png
+  rotate: false
+  xy: 889, 84
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_22.png
+  rotate: false
+  xy: 466, 3
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_23.png
+  rotate: false
+  xy: 821, 84
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_24.png
+  rotate: false
+  xy: 241, 2
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_25.png
+  rotate: false
+  xy: 761, 66
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_26.png
+  rotate: false
+  xy: 102, 48
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_3.png
+  rotate: false
+  xy: 517, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_4.png
+  rotate: false
+  xy: 379, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_5.png
+  rotate: false
+  xy: 425, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_6.png
+  rotate: false
+  xy: 287, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_7.png
+  rotate: false
+  xy: 333, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_8.png
+  rotate: false
+  xy: 241, 47
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_a_0_9.png
+  rotate: false
+  xy: 867, 4
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_64_sd_0_0.png
+  rotate: false
+  xy: 534, 25
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+xmas_c20_earthguy_xmas_c20_earthguy_icon_a.png
+  rotate: false
+  xy: 1003, 96
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

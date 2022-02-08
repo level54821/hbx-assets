@@ -1,0 +1,398 @@
+
+shoes_F_bootie.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_F_bootie_h_sit_sh_2299_0_0.png
+  rotate: false
+  xy: 401, 7
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_sit_sh_2299_2_0.png
+  rotate: false
+  xy: 349, 10
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_sit_sh_2299_2_0.png
+  rotate: false
+  xy: 375, 10
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_sit_sh_2300_0_0.png
+  rotate: false
+  xy: 423, 9
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_sit_sh_2300_2_0.png
+  rotate: false
+  xy: 444, 12
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_sit_sh_2300_2_0.png
+  rotate: false
+  xy: 468, 12
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2299_0_0.png
+  rotate: false
+  xy: 321, 14
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2299_1_0.png
+  rotate: false
+  xy: 710, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2299_2_0.png
+  rotate: false
+  xy: 265, 13
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2299_3_0.png
+  rotate: false
+  xy: 570, 2
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2299_7_0.png
+  rotate: false
+  xy: 622, 16
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2300_0_0.png
+  rotate: false
+  xy: 596, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2300_1_0.png
+  rotate: false
+  xy: 874, 20
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2300_2_0.png
+  rotate: false
+  xy: 518, 15
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2300_3_0.png
+  rotate: false
+  xy: 316, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_std_sh_2300_7_0.png
+  rotate: false
+  xy: 620, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_0_0.png
+  rotate: false
+  xy: 209, 15
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_0_1.png
+  rotate: false
+  xy: 43, 16
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_0_2.png
+  rotate: false
+  xy: 237, 13
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_0_3.png
+  rotate: false
+  xy: 544, 15
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_1_0.png
+  rotate: false
+  xy: 695, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_1_1.png
+  rotate: false
+  xy: 87, 16
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_1_2.png
+  rotate: false
+  xy: 852, 15
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_1_3.png
+  rotate: false
+  xy: 128, 17
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_2_0.png
+  rotate: false
+  xy: 293, 14
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_2_1.png
+  rotate: false
+  xy: 795, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_2_2.png
+  rotate: false
+  xy: 718, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_2_3.png
+  rotate: false
+  xy: 2, 12
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_3_0.png
+  rotate: false
+  xy: 595, 2
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_3_1.png
+  rotate: false
+  xy: 764, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_3_2.png
+  rotate: false
+  xy: 643, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_3_3.png
+  rotate: false
+  xy: 741, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_7_0.png
+  rotate: false
+  xy: 647, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_7_1.png
+  rotate: false
+  xy: 811, 17
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_7_2.png
+  rotate: false
+  xy: 671, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2299_7_3.png
+  rotate: false
+  xy: 817, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_0_0.png
+  rotate: false
+  xy: 128, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_0_1.png
+  rotate: false
+  xy: 43, 2
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_0_2.png
+  rotate: false
+  xy: 492, 15
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_0_3.png
+  rotate: false
+  xy: 787, 17
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_1_0.png
+  rotate: false
+  xy: 194, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_1_1.png
+  rotate: false
+  xy: 85, 2
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_1_2.png
+  rotate: false
+  xy: 832, 17
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_1_3.png
+  rotate: false
+  xy: 154, 2
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_2_0.png
+  rotate: false
+  xy: 570, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_2_1.png
+  rotate: false
+  xy: 215, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_2_2.png
+  rotate: false
+  xy: 774, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_2_3.png
+  rotate: false
+  xy: 170, 15
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_3_0.png
+  rotate: false
+  xy: 293, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_3_1.png
+  rotate: false
+  xy: 732, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_3_2.png
+  rotate: false
+  xy: 530, 3
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_3_3.png
+  rotate: false
+  xy: 753, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_7_0.png
+  rotate: false
+  xy: 688, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_7_1.png
+  rotate: false
+  xy: 492, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_7_2.png
+  rotate: false
+  xy: 666, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_F_bootie_h_wlk_sh_2300_7_3.png
+  rotate: false
+  xy: 511, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1

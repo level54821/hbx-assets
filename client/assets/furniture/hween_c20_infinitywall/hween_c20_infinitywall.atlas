@@ -1,0 +1,195 @@
+
+hween_c20_infinitywall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_infinitywall_hween_c20_infinitywall_64_a_2_0.png
+  rotate: false
+  xy: 294, 108
+  size: 34, 145
+  orig: 34, 145
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_a_4_0.png
+  rotate: false
+  xy: 258, 108
+  size: 34, 145
+  orig: 34, 145
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_b_2_0.png
+  rotate: false
+  xy: 303, 9
+  size: 22, 97
+  orig: 22, 97
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_b_4_0.png
+  rotate: false
+  xy: 327, 9
+  size: 22, 97
+  orig: 22, 97
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_c_2_0.png
+  rotate: false
+  xy: 375, 20
+  size: 22, 97
+  orig: 22, 97
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_c_4_0.png
+  rotate: false
+  xy: 351, 20
+  size: 22, 97
+  orig: 22, 97
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_d_2_0.png
+  rotate: false
+  xy: 418, 25
+  size: 17, 94
+  orig: 17, 94
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_d_4_0.png
+  rotate: false
+  xy: 399, 25
+  size: 17, 94
+  orig: 17, 94
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_e_2_0.png
+  rotate: false
+  xy: 196, 113
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_e_4_0.png
+  rotate: false
+  xy: 134, 113
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_f_2_0.png
+  rotate: false
+  xy: 330, 119
+  size: 32, 134
+  orig: 32, 134
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_f_4_0.png
+  rotate: false
+  xy: 364, 119
+  size: 32, 134
+  orig: 32, 134
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_g_2_0.png
+  rotate: false
+  xy: 398, 121
+  size: 31, 132
+  orig: 31, 132
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_g_4_0.png
+  rotate: false
+  xy: 431, 121
+  size: 31, 132
+  orig: 31, 132
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_h_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_h_4_0.png
+  rotate: false
+  xy: 234, 70
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_i_2_0.png
+  rotate: false
+  xy: 71, 12
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_i_4_0.png
+  rotate: false
+  xy: 102, 64
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_j_2_0.png
+  rotate: false
+  xy: 2, 94
+  size: 64, 159
+  orig: 64, 159
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_j_4_0.png
+  rotate: false
+  xy: 68, 94
+  size: 64, 159
+  orig: 64, 159
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_k_2_0.png
+  rotate: false
+  xy: 464, 124
+  size: 22, 129
+  orig: 22, 129
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_k_4_0.png
+  rotate: false
+  xy: 488, 124
+  size: 22, 129
+  orig: 22, 129
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_l_2_0.png
+  rotate: false
+  xy: 480, 2
+  size: 14, 120
+  orig: 14, 120
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_l_4_0.png
+  rotate: false
+  xy: 464, 2
+  size: 14, 120
+  orig: 14, 120
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_sd_2_0.png
+  rotate: false
+  xy: 2, 42
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_64_sd_4_0.png
+  rotate: false
+  xy: 134, 61
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+hween_c20_infinitywall_hween_c20_infinitywall_icon_a.png
+  rotate: false
+  xy: 437, 89
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,29 @@
+﻿Mensagem do iBlue Hotel
+<span class="padding-top"><br></span><h2>Lista de Comandos para Mascotes</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span>
+
+<p class="bullet-item">·&nbsp;<b>iBlue</b>  - Volte ao Normal.</p>
+<p class="bullet-item">·&nbsp;<b>Cachorro</b>  - Transforme-se em um Cachorro.</p>
+<p class="bullet-item">·&nbsp;<b>Gato</b>  - Transforme-se em um Gato.</p>
+<p class="bullet-item">·&nbsp;<b>Terrier</b>  - Transforme-se em um Terrier.</p>
+<p class="bullet-item">·&nbsp;<b>Jacare</b>  - Transforme-se em um Jacaré.</p>
+<p class="bullet-item">·&nbsp;<b>Urso</b>  - Transforme-se em um Urso.</p>
+<p class="bullet-item">·&nbsp;<b>Porco</b>  - Transforme-se em um Porco.</p>
+<p class="bullet-item">·&nbsp;<b>Leao</b>  - Transforme-se em um Leão.</p>
+<p class="bullet-item">·&nbsp;<b>Rinoceronte</b>  - Transforme-se em um Rinoceronte.</p>
+<p class="bullet-item">·&nbsp;<b>Aranha</b>  - Transforme-se em uma Aranha.</p>
+<p class="bullet-item">·&nbsp;<b>Tartaruga</b>  - Transforme-se em uma Tartaruga.</p>
+<p class="bullet-item">·&nbsp;<b>Galinha</b>  - Transforme-se em uma Galinha.</p>
+<p class="bullet-item">·&nbsp;<b>Sapo</b>  - Transforme-se em um Sapo.</p>
+<p class="bullet-item">·&nbsp;<b>Dragao</b>  - Transforme-se em um Dragão.</p>
+<p class="bullet-item">·&nbsp;<b>Macaco</b>  - Transforme-se em um Macaco.</p>
+<p class="bullet-item">·&nbsp;<b>Coelho</b>  - Transforme-se em um Coelho.</p>
+<p class="bullet-item">·&nbsp;<b>Pombo</b>  - Transforme-se em um Pombo.</p>
+<p class="bullet-item">·&nbsp;<b>Demonio</b>  - Transforme-se em um Macaco do Mal.</p>
+<p class="bullet-item">·&nbsp;<b>Gnomo</b>  - Transforme-se em um Gnomo.</p>
+
+<span class="padding-top"><br></span><h2>Lista de Comandos para Mascotes Bebes</h2><span class="padding-bottom"><br></span>
+
+<p class="bullet-item">·&nbsp;<b>Gatinho</b>  - Transforme-se em um Filhote de Gato.</p>
+<p class="bullet-item">·&nbsp;<b>Porquinho</b>  - Transforme-se em um Filhote de Porco.</p>
+<p class="bullet-item">·&nbsp;<b>Cachorrinho</b>  - Transforme-se em um Filhote de Cachorro.</p>

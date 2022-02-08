@@ -1,0 +1,83 @@
+
+kinkysofa.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kinkysofa_kinkysofa_64_a_0_0.png
+  rotate: false
+  xy: 68, 39
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_a_2_0.png
+  rotate: false
+  xy: 254, 47
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_b_0_0.png
+  rotate: false
+  xy: 68, 47
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_b_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_c_0_0.png
+  rotate: false
+  xy: 320, 49
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_c_2_0.png
+  rotate: false
+  xy: 423, 83
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_d_0_0.png
+  rotate: false
+  xy: 380, 58
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_d_2_0.png
+  rotate: false
+  xy: 380, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_sd_0_0.png
+  rotate: false
+  xy: 68, 70
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_64_sd_2_0.png
+  rotate: false
+  xy: 161, 70
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+kinkysofa_kinkysofa_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

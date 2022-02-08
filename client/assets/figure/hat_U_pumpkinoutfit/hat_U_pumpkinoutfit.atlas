@@ -1,0 +1,27 @@
+
+hat_U_pumpkinoutfit.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_pumpkinoutfit_h_lay_ha_3787_2_0.png
+  rotate: false
+  xy: 54, 3
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+hat_U_pumpkinoutfit_h_spk_ha_3787_0_0.png
+  rotate: false
+  xy: 28, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+hat_U_pumpkinoutfit_h_spk_ha_3787_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

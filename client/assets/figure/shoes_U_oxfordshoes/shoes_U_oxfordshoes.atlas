@@ -1,0 +1,594 @@
+
+shoes_U_oxfordshoes.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_oxfordshoes_h_lay_sh_3992_2_0.png
+  rotate: false
+  xy: 510, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_lay_sh_3992_2_0.png
+  rotate: false
+  xy: 533, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_lay_sh_3993_2_0.png
+  rotate: false
+  xy: 587, 5
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_lay_sh_3993_2_0.png
+  rotate: false
+  xy: 606, 5
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_lay_sh_3994_2_0.png
+  rotate: false
+  xy: 956, 11
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_lay_sh_3994_2_0.png
+  rotate: false
+  xy: 1009, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_sit_sh_3992_0_0.png
+  rotate: false
+  xy: 556, 2
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_sit_sh_3993_0_0.png
+  rotate: false
+  xy: 572, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_sit_sh_3994_0_0.png
+  rotate: false
+  xy: 940, 9
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3992_0_0.png
+  rotate: false
+  xy: 378, 19
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3992_1_0.png
+  rotate: false
+  xy: 773, 20
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3992_2_0.png
+  rotate: false
+  xy: 217, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3992_3_0.png
+  rotate: false
+  xy: 462, 6
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3992_7_0.png
+  rotate: false
+  xy: 561, 23
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3993_0_0.png
+  rotate: false
+  xy: 510, 23
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3993_1_0.png
+  rotate: false
+  xy: 485, 6
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3993_2_0.png
+  rotate: false
+  xy: 327, 12
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3993_3_0.png
+  rotate: false
+  xy: 659, 21
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3993_7_0.png
+  rotate: false
+  xy: 967, 26
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3994_0_0.png
+  rotate: false
+  xy: 485, 11
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3994_1_0.png
+  rotate: false
+  xy: 462, 2
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3994_2_0.png
+  rotate: false
+  xy: 878, 19
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3994_3_0.png
+  rotate: false
+  xy: 990, 24
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_std_sh_3994_7_0.png
+  rotate: false
+  xy: 480, 2
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_0_0.png
+  rotate: false
+  xy: 406, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_0_1.png
+  rotate: false
+  xy: 87, 16
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_0_2.png
+  rotate: false
+  xy: 171, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_0_3.png
+  rotate: false
+  xy: 244, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_1_0.png
+  rotate: false
+  xy: 486, 19
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_1_1.png
+  rotate: false
+  xy: 174, 18
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_1_2.png
+  rotate: false
+  xy: 303, 9
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_1_3.png
+  rotate: false
+  xy: 43, 17
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_2_0.png
+  rotate: false
+  xy: 65, 2
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_2_1.png
+  rotate: false
+  xy: 198, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_2_2.png
+  rotate: false
+  xy: 43, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_2_3.png
+  rotate: false
+  xy: 2, 13
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_3_0.png
+  rotate: false
+  xy: 857, 19
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_3_1.png
+  rotate: false
+  xy: 420, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_3_2.png
+  rotate: false
+  xy: 836, 18
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_3_3.png
+  rotate: false
+  xy: 441, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_7_0.png
+  rotate: false
+  xy: 705, 21
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_7_1.png
+  rotate: false
+  xy: 728, 20
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_7_2.png
+  rotate: false
+  xy: 351, 2
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3992_7_3.png
+  rotate: false
+  xy: 682, 21
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_0_0.png
+  rotate: false
+  xy: 584, 24
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_0_1.png
+  rotate: false
+  xy: 217, 19
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_0_2.png
+  rotate: false
+  xy: 433, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_0_3.png
+  rotate: false
+  xy: 460, 19
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_1_0.png
+  rotate: false
+  xy: 327, 2
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_1_1.png
+  rotate: false
+  xy: 260, 20
+  size: 41, 10
+  orig: 41, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_1_2.png
+  rotate: false
+  xy: 354, 12
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_1_3.png
+  rotate: false
+  xy: 130, 19
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_2_0.png
+  rotate: false
+  xy: 270, 9
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_2_1.png
+  rotate: false
+  xy: 921, 12
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_2_2.png
+  rotate: false
+  xy: 751, 20
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_2_3.png
+  rotate: false
+  xy: 130, 2
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_3_0.png
+  rotate: false
+  xy: 794, 19
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_3_1.png
+  rotate: false
+  xy: 378, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_3_2.png
+  rotate: false
+  xy: 815, 18
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_3_3.png
+  rotate: false
+  xy: 399, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_7_0.png
+  rotate: false
+  xy: 944, 24
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_7_1.png
+  rotate: false
+  xy: 538, 23
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_7_2.png
+  rotate: false
+  xy: 294, 2
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3993_7_3.png
+  rotate: false
+  xy: 921, 24
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_0_0.png
+  rotate: false
+  xy: 270, 2
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 9
+  orig: 37, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_0_2.png
+  rotate: false
+  xy: 635, 21
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_0_3.png
+  rotate: false
+  xy: 899, 21
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_1_0.png
+  rotate: false
+  xy: 967, 18
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_1_1.png
+  rotate: false
+  xy: 341, 22
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_1_2.png
+  rotate: false
+  xy: 899, 16
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_1_3.png
+  rotate: false
+  xy: 303, 22
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_2_0.png
+  rotate: false
+  xy: 611, 24
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_2_1.png
+  rotate: false
+  xy: 673, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_2_2.png
+  rotate: false
+  xy: 625, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_2_3.png
+  rotate: false
+  xy: 96, 3
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_3_0.png
+  rotate: false
+  xy: 675, 15
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_3_1.png
+  rotate: false
+  xy: 657, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_3_2.png
+  rotate: false
+  xy: 625, 12
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_3_3.png
+  rotate: false
+  xy: 641, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_7_0.png
+  rotate: false
+  xy: 658, 12
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_7_1.png
+  rotate: false
+  xy: 967, 11
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_7_2.png
+  rotate: false
+  xy: 691, 16
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+shoes_U_oxfordshoes_h_wlk_sh_3994_7_3.png
+  rotate: false
+  xy: 641, 12
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1

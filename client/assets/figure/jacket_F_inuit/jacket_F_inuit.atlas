@@ -1,0 +1,1112 @@
+
+jacket_F_inuit.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_F_inuit_h_crr_lc_3931_0_0.png
+  rotate: false
+  xy: 909, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_1_0.png
+  rotate: false
+  xy: 348, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_2_0.png
+  rotate: false
+  xy: 882, 40
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_3_0.png
+  rotate: false
+  xy: 481, 3
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_4_0.png
+  rotate: false
+  xy: 422, 22
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_5_0.png
+  rotate: false
+  xy: 235, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_6_0.png
+  rotate: false
+  xy: 454, 2
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3931_7_0.png
+  rotate: false
+  xy: 793, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3932_1_0.png
+  rotate: false
+  xy: 523, 17
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3932_2_0.png
+  rotate: false
+  xy: 527, 31
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3932_3_0.png
+  rotate: false
+  xy: 883, 31
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3932_4_0.png
+  rotate: false
+  xy: 523, 7
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_lc_3932_6_0.png
+  rotate: false
+  xy: 892, 30
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_0_0.png
+  rotate: false
+  xy: 249, 2
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_1_0.png
+  rotate: false
+  xy: 362, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_2_0.png
+  rotate: false
+  xy: 266, 2
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_3_0.png
+  rotate: false
+  xy: 722, 39
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_4_0.png
+  rotate: false
+  xy: 872, 40
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_6_0.png
+  rotate: false
+  xy: 900, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3931_7_0.png
+  rotate: false
+  xy: 769, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_0_0.png
+  rotate: false
+  xy: 547, 20
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_1_0.png
+  rotate: false
+  xy: 540, 5
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_2_0.png
+  rotate: false
+  xy: 804, 31
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_3_0.png
+  rotate: false
+  xy: 911, 33
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_4_0.png
+  rotate: false
+  xy: 538, 31
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_5_0.png
+  rotate: false
+  xy: 540, 18
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_crr_rc_3932_6_0.png
+  rotate: false
+  xy: 31, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_0_0.png
+  rotate: false
+  xy: 506, 49
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_1_0.png
+  rotate: false
+  xy: 482, 51
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_3_0.png
+  rotate: false
+  xy: 529, 41
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_4_0.png
+  rotate: false
+  xy: 403, 24
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_5_0.png
+  rotate: false
+  xy: 457, 51
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_6_0.png
+  rotate: false
+  xy: 534, 7
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3931_7_0.png
+  rotate: false
+  xy: 938, 47
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3932_0_0.png
+  rotate: false
+  xy: 562, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3932_1_0.png
+  rotate: false
+  xy: 793, 32
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3932_2_0.png
+  rotate: false
+  xy: 960, 40
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3932_3_0.png
+  rotate: false
+  xy: 920, 35
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3932_4_0.png
+  rotate: false
+  xy: 841, 34
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_drk_rc_3932_5_0.png
+  rotate: false
+  xy: 872, 31
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_lay_cc_3931_2_0.png
+  rotate: false
+  xy: 67, 34
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_lay_cc_3932_2_0.png
+  rotate: false
+  xy: 111, 33
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_lay_lc_3931_2_0.png
+  rotate: false
+  xy: 433, 50
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_lay_lc_3932_2_0.png
+  rotate: false
+  xy: 900, 27
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_lay_rc_3931_2_0.png
+  rotate: false
+  xy: 505, 30
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_lay_rc_3932_2_0.png
+  rotate: false
+  xy: 530, 19
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_sit_cc_3931_0_0.png
+  rotate: false
+  xy: 184, 24
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_sit_cc_3931_2_0.png
+  rotate: false
+  xy: 2, 20
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_sit_cc_3932_0_0.png
+  rotate: false
+  xy: 960, 49
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_sit_cc_3932_2_0.png
+  rotate: false
+  xy: 380, 23
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3931_0_0.png
+  rotate: false
+  xy: 302, 28
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3931_1_0.png
+  rotate: false
+  xy: 331, 28
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3931_2_0.png
+  rotate: false
+  xy: 152, 25
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3931_3_0.png
+  rotate: false
+  xy: 243, 28
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3931_7_0.png
+  rotate: false
+  xy: 273, 28
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3932_0_0.png
+  rotate: false
+  xy: 403, 49
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3932_1_0.png
+  rotate: false
+  xy: 356, 26
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3932_2_0.png
+  rotate: false
+  xy: 34, 23
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3932_3_0.png
+  rotate: false
+  xy: 214, 26
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_cc_3932_7_0.png
+  rotate: false
+  xy: 67, 24
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_lc_3931_3_0.png
+  rotate: false
+  xy: 493, 24
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_lc_3931_7_0.png
+  rotate: false
+  xy: 674, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_lc_3932_1_0.png
+  rotate: false
+  xy: 122, 25
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_lc_3932_7_0.png
+  rotate: false
+  xy: 634, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3931_0_0.png
+  rotate: false
+  xy: 282, 2
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3931_1_0.png
+  rotate: false
+  xy: 376, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3931_2_0.png
+  rotate: false
+  xy: 649, 39
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3931_3_0.png
+  rotate: false
+  xy: 469, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3931_7_0.png
+  rotate: false
+  xy: 324, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3932_0_0.png
+  rotate: false
+  xy: 983, 47
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_std_rc_3932_7_0.png
+  rotate: false
+  xy: 586, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_0_0.png
+  rotate: false
+  xy: 190, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_0_1.png
+  rotate: false
+  xy: 173, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_1_0.png
+  rotate: false
+  xy: 607, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_1_1.png
+  rotate: false
+  xy: 562, 39
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_2_0.png
+  rotate: false
+  xy: 475, 28
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_2_1.png
+  rotate: false
+  xy: 77, 2
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_3_0.png
+  rotate: false
+  xy: 218, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_3_1.png
+  rotate: false
+  xy: 116, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_4_0.png
+  rotate: false
+  xy: 97, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_4_1.png
+  rotate: false
+  xy: 457, 28
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_5_0.png
+  rotate: false
+  xy: 438, 27
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_5_1.png
+  rotate: false
+  xy: 505, 7
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_6_0.png
+  rotate: false
+  xy: 56, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_6_1.png
+  rotate: false
+  xy: 34, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_7_0.png
+  rotate: false
+  xy: 154, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3931_7_1.png
+  rotate: false
+  xy: 135, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_0_0.png
+  rotate: false
+  xy: 970, 40
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_0_1.png
+  rotate: false
+  xy: 1006, 40
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_1_0.png
+  rotate: false
+  xy: 758, 32
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_2_0.png
+  rotate: false
+  xy: 610, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_2_1.png
+  rotate: false
+  xy: 622, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_3_0.png
+  rotate: false
+  xy: 746, 32
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_3_1.png
+  rotate: false
+  xy: 769, 32
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_4_0.png
+  rotate: false
+  xy: 781, 32
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_4_1.png
+  rotate: false
+  xy: 826, 27
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_5_0.png
+  rotate: false
+  xy: 852, 34
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_6_0.png
+  rotate: false
+  xy: 815, 28
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_6_1.png
+  rotate: false
+  xy: 734, 32
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_7_0.png
+  rotate: false
+  xy: 646, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wav_lc_3932_7_1.png
+  rotate: false
+  xy: 95, 25
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_0_0.png
+  rotate: false
+  xy: 918, 44
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_0_1.png
+  rotate: false
+  xy: 862, 42
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_0_2.png
+  rotate: false
+  xy: 928, 44
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_1_0.png
+  rotate: false
+  xy: 389, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_1_1.png
+  rotate: false
+  xy: 817, 43
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_1_3.png
+  rotate: false
+  xy: 892, 41
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_2_0.png
+  rotate: false
+  xy: 842, 42
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_2_1.png
+  rotate: false
+  xy: 758, 40
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_2_2.png
+  rotate: false
+  xy: 852, 42
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_2_3.png
+  rotate: false
+  xy: 951, 45
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_3_0.png
+  rotate: false
+  xy: 686, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_3_1.png
+  rotate: false
+  xy: 746, 40
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_3_2.png
+  rotate: false
+  xy: 698, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_3_3.png
+  rotate: false
+  xy: 805, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_7_1.png
+  rotate: false
+  xy: 206, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_7_2.png
+  rotate: false
+  xy: 662, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3931_7_3.png
+  rotate: false
+  xy: 710, 39
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_0_2.png
+  rotate: false
+  xy: 863, 34
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_0_3.png
+  rotate: false
+  xy: 950, 38
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_1_1.png
+  rotate: false
+  xy: 1009, 47
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_2_0.png
+  rotate: false
+  xy: 547, 12
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_2_1.png
+  rotate: false
+  xy: 900, 33
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_2_2.png
+  rotate: false
+  xy: 547, 5
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_3_3.png
+  rotate: false
+  xy: 817, 36
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_7_1.png
+  rotate: false
+  xy: 994, 40
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_lc_3932_7_3.png
+  rotate: false
+  xy: 598, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_0_0.png
+  rotate: false
+  xy: 297, 2
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_0_1.png
+  rotate: false
+  xy: 438, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_0_3.png
+  rotate: false
+  xy: 546, 41
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_1_1.png
+  rotate: false
+  xy: 402, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_1_3.png
+  rotate: false
+  xy: 419, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_2_0.png
+  rotate: false
+  xy: 621, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_2_1.png
+  rotate: false
+  xy: 577, 39
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_2_2.png
+  rotate: false
+  xy: 635, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_2_3.png
+  rotate: false
+  xy: 592, 39
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_3_0.png
+  rotate: false
+  xy: 336, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_3_1.png
+  rotate: false
+  xy: 493, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_3_3.png
+  rotate: false
+  xy: 781, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_7_0.png
+  rotate: false
+  xy: 312, 2
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_7_1.png
+  rotate: false
+  xy: 734, 40
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3931_7_3.png
+  rotate: false
+  xy: 830, 43
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_0_0.png
+  rotate: false
+  xy: 970, 48
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_0_1.png
+  rotate: false
+  xy: 983, 55
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_0_3.png
+  rotate: false
+  xy: 970, 55
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_1_1.png
+  rotate: false
+  xy: 829, 35
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_1_2.png
+  rotate: false
+  xy: 996, 47
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_1_3.png
+  rotate: false
+  xy: 1009, 55
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_2_0.png
+  rotate: false
+  xy: 549, 33
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_2_1.png
+  rotate: false
+  xy: 108, 25
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_2_2.png
+  rotate: false
+  xy: 135, 25
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_2_3.png
+  rotate: false
+  xy: 996, 55
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_3_0.png
+  rotate: false
+  xy: 982, 40
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_3_1.png
+  rotate: false
+  xy: 938, 40
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_3_3.png
+  rotate: false
+  xy: 574, 31
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_7_0.png
+  rotate: false
+  xy: 710, 32
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+jacket_F_inuit_h_wlk_rc_3932_7_3.png
+  rotate: false
+  xy: 722, 32
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+hair_U_mermaid.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_mermaid_h_lay_hr_2890_2_0.png
+  rotate: false
+  xy: 605, 26
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_lay_hr_2891_2_0.png
+  rotate: false
+  xy: 58, 25
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_lay_hrb_2890_2_0.png
+  rotate: false
+  xy: 644, 26
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_lay_hrb_2891_2_0.png
+  rotate: false
+  xy: 44, 17
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2890_0_0.png
+  rotate: false
+  xy: 683, 27
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2890_1_0.png
+  rotate: false
+  xy: 832, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2890_2_0.png
+  rotate: false
+  xy: 480, 27
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2890_3_0.png
+  rotate: false
+  xy: 52, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2890_7_0.png
+  rotate: false
+  xy: 250, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2891_0_0.png
+  rotate: false
+  xy: 958, 56
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2891_1_0.png
+  rotate: false
+  xy: 37, 15
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2891_2_0.png
+  rotate: false
+  xy: 21, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2891_3_0.png
+  rotate: false
+  xy: 32, 24
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hr_2891_7_0.png
+  rotate: false
+  xy: 928, 55
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2890_0_0.png
+  rotate: false
+  xy: 722, 27
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2890_1_0.png
+  rotate: false
+  xy: 800, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2890_2_0.png
+  rotate: false
+  xy: 437, 27
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2890_3_0.png
+  rotate: false
+  xy: 2, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2890_7_0.png
+  rotate: false
+  xy: 202, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2891_1_0.png
+  rotate: false
+  xy: 928, 33
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2891_3_0.png
+  rotate: false
+  xy: 2, 15
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_spk_hrb_2891_7_0.png
+  rotate: false
+  xy: 2, 23
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2890_0_0.png
+  rotate: false
+  xy: 761, 27
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2890_1_0.png
+  rotate: false
+  xy: 864, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2890_2_0.png
+  rotate: false
+  xy: 523, 27
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2890_3_0.png
+  rotate: false
+  xy: 102, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2890_7_0.png
+  rotate: false
+  xy: 298, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2891_1_0.png
+  rotate: false
+  xy: 947, 46
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hr_2891_2_0.png
+  rotate: false
+  xy: 928, 42
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2890_0_0.png
+  rotate: false
+  xy: 566, 27
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2890_1_0.png
+  rotate: false
+  xy: 896, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2890_2_0.png
+  rotate: false
+  xy: 394, 27
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2890_3_0.png
+  rotate: false
+  xy: 152, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2890_7_0.png
+  rotate: false
+  xy: 346, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2891_0_0.png
+  rotate: false
+  xy: 28, 15
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hair_U_mermaid_h_std_hrb_2891_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1

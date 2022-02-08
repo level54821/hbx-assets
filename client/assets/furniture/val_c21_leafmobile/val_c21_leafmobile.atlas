@@ -1,0 +1,27 @@
+
+val_c21_leafmobile.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c21_leafmobile_val_c21_leafmobile_64_a_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 34, 123
+  orig: 34, 123
+  offset: 0, 0
+  index: -1
+val_c21_leafmobile_val_c21_leafmobile_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+val_c21_leafmobile_val_c21_leafmobile_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

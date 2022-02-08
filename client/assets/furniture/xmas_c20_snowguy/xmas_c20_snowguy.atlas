@@ -1,0 +1,160 @@
+
+xmas_c20_snowguy.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_0.png
+  rotate: false
+  xy: 207, 34
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_1.png
+  rotate: false
+  xy: 286, 182
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_10.png
+  rotate: false
+  xy: 2, 34
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_11.png
+  rotate: false
+  xy: 343, 34
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_12.png
+  rotate: false
+  xy: 216, 108
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_13.png
+  rotate: false
+  xy: 71, 34
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_14.png
+  rotate: false
+  xy: 148, 108
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_15.png
+  rotate: false
+  xy: 80, 108
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_16.png
+  rotate: false
+  xy: 150, 182
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_17.png
+  rotate: false
+  xy: 139, 34
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_18.png
+  rotate: false
+  xy: 352, 109
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_19.png
+  rotate: false
+  xy: 218, 182
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_2.png
+  rotate: false
+  xy: 354, 182
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_3.png
+  rotate: false
+  xy: 284, 108
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_4.png
+  rotate: false
+  xy: 275, 34
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_5.png
+  rotate: false
+  xy: 420, 108
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_6.png
+  rotate: false
+  xy: 422, 182
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_7.png
+  rotate: false
+  xy: 80, 182
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_8.png
+  rotate: false
+  xy: 2, 108
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_a_0_9.png
+  rotate: false
+  xy: 2, 182
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_64_sd_0_0.png
+  rotate: false
+  xy: 33, 3
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+xmas_c20_snowguy_xmas_c20_snowguy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+hair_U_curls2.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_curls2_h_lay_hrb_3334_2_0.png
+  rotate: false
+  xy: 547, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_lay_hrb_3335_2_0.png
+  rotate: false
+  xy: 677, 8
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_lsp_hr_3334_2_0.png
+  rotate: false
+  xy: 580, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_lsp_hr_3335_2_0.png
+  rotate: false
+  xy: 646, 8
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3334_0_0.png
+  rotate: false
+  xy: 39, 3
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3334_1_0.png
+  rotate: false
+  xy: 265, 35
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3334_2_0.png
+  rotate: false
+  xy: 76, 4
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3334_3_0.png
+  rotate: false
+  xy: 115, 36
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3334_7_0.png
+  rotate: false
+  xy: 477, 33
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3335_0_0.png
+  rotate: false
+  xy: 337, 35
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3335_1_0.png
+  rotate: false
+  xy: 863, 39
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3335_2_0.png
+  rotate: false
+  xy: 613, 37
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3335_3_0.png
+  rotate: false
+  xy: 757, 39
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hr_3335_7_0.png
+  rotate: false
+  xy: 613, 8
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hrb_3334_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hrb_3335_0_0.png
+  rotate: false
+  xy: 372, 35
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_spk_hrb_3335_2_0.png
+  rotate: false
+  xy: 649, 37
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3334_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3334_1_0.png
+  rotate: false
+  xy: 301, 35
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3334_2_0.png
+  rotate: false
+  xy: 39, 34
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3334_3_0.png
+  rotate: false
+  xy: 191, 36
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3334_7_0.png
+  rotate: false
+  xy: 512, 33
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3335_0_0.png
+  rotate: false
+  xy: 407, 35
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3335_1_0.png
+  rotate: false
+  xy: 897, 39
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3335_2_0.png
+  rotate: false
+  xy: 685, 37
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3335_3_0.png
+  rotate: false
+  xy: 793, 39
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hr_3335_7_0.png
+  rotate: false
+  xy: 964, 35
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3334_1_0.png
+  rotate: false
+  xy: 229, 35
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3334_2_0.png
+  rotate: false
+  xy: 77, 34
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3334_3_0.png
+  rotate: false
+  xy: 153, 36
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3334_7_0.png
+  rotate: false
+  xy: 442, 33
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3335_1_0.png
+  rotate: false
+  xy: 829, 39
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3335_3_0.png
+  rotate: false
+  xy: 721, 39
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+hair_U_curls2_h_std_hrb_3335_7_0.png
+  rotate: false
+  xy: 931, 35
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1

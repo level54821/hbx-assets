@@ -1,0 +1,202 @@
+
+trousers_U_highwaisttrousers.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_highwaisttrousers_h_lay_lg_3995_2_0.png
+  rotate: false
+  xy: 108, 8
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_sit_lg_3995_0_0.png
+  rotate: false
+  xy: 36, 42
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_sit_lg_3995_2_0.png
+  rotate: false
+  xy: 75, 36
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_std_lg_3995_0_0.png
+  rotate: false
+  xy: 192, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_std_lg_3995_1_0.png
+  rotate: false
+  xy: 183, 3
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_std_lg_3995_2_0.png
+  rotate: false
+  xy: 245, 32
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_std_lg_3995_3_0.png
+  rotate: false
+  xy: 201, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_std_lg_3995_7_0.png
+  rotate: false
+  xy: 325, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_0_1.png
+  rotate: false
+  xy: 2, 33
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_0_2.png
+  rotate: false
+  xy: 138, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_0_3.png
+  rotate: false
+  xy: 165, 29
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_1_0.png
+  rotate: false
+  xy: 226, 4
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_1_1.png
+  rotate: false
+  xy: 271, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_1_2.png
+  rotate: false
+  xy: 164, 3
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_1_3.png
+  rotate: false
+  xy: 55, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_2_0.png
+  rotate: false
+  xy: 29, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_2_1.png
+  rotate: false
+  xy: 84, 4
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_2_2.png
+  rotate: false
+  xy: 219, 32
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_2_3.png
+  rotate: false
+  xy: 108, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_3_0.png
+  rotate: false
+  xy: 139, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_3_1.png
+  rotate: false
+  xy: 400, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_3_2.png
+  rotate: false
+  xy: 450, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_3_3.png
+  rotate: false
+  xy: 425, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_7_0.png
+  rotate: false
+  xy: 475, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_7_1.png
+  rotate: false
+  xy: 300, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_7_2.png
+  rotate: false
+  xy: 350, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_highwaisttrousers_h_wlk_lg_3995_7_3.png
+  rotate: false
+  xy: 375, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1

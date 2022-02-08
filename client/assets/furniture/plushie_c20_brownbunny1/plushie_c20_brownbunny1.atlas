@@ -1,0 +1,27 @@
+
+plushie_c20_brownbunny1.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_brownbunny1_plushie_c20_brownbunny1_64_a_0_0.png
+  rotate: false
+  xy: 2, 60
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+plushie_c20_brownbunny1_plushie_c20_brownbunny1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+plushie_c20_brownbunny1_plushie_c20_brownbunny1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

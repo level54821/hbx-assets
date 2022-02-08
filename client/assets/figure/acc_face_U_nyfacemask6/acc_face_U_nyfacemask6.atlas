@@ -1,0 +1,83 @@
+
+acc_face_U_nyfacemask6.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_nyfacemask6_h_lay_fa_3966_2_0.png
+  rotate: false
+  xy: 28, 15
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_lsp_fa_3966_2_0.png
+  rotate: false
+  xy: 2, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_spk_fa_3966_0_0.png
+  rotate: false
+  xy: 177, 16
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_spk_fa_3966_1_0.png
+  rotate: false
+  xy: 156, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_spk_fa_3966_2_0.png
+  rotate: false
+  xy: 79, 13
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_spk_fa_3966_3_0.png
+  rotate: false
+  xy: 104, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_spk_fa_3966_7_0.png
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_std_fa_3966_0_0.png
+  rotate: false
+  xy: 104, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_std_fa_3966_1_0.png
+  rotate: false
+  xy: 130, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_std_fa_3966_2_0.png
+  rotate: false
+  xy: 54, 14
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+acc_face_U_nyfacemask6_h_std_fa_3966_3_0.png
+  rotate: false
+  xy: 130, 17
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+hween_c20_octodemonb.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_0.png
+  rotate: false
+  xy: 422, 33
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_1.png
+  rotate: false
+  xy: 188, 32
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_2.png
+  rotate: false
+  xy: 126, 29
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_3.png
+  rotate: false
+  xy: 2, 27
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_4.png
+  rotate: false
+  xy: 64, 28
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_5.png
+  rotate: false
+  xy: 248, 33
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_6.png
+  rotate: false
+  xy: 308, 30
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_a_0_7.png
+  rotate: false
+  xy: 366, 30
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+hween_c20_octodemonb_hween_c20_octodemonb_icon_a.png
+  rotate: false
+  xy: 478, 93
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

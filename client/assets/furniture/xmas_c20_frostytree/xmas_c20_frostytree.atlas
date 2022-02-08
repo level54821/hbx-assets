@@ -1,0 +1,34 @@
+
+xmas_c20_frostytree.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_frostytree_xmas_c20_frostytree_64_a_0_0.png
+  rotate: false
+  xy: 2, 51
+  size: 95, 186
+  orig: 95, 186
+  offset: 0, 0
+  index: -1
+xmas_c20_frostytree_xmas_c20_frostytree_64_a_0_1.png
+  rotate: false
+  xy: 99, 51
+  size: 95, 186
+  orig: 95, 186
+  offset: 0, 0
+  index: -1
+xmas_c20_frostytree_xmas_c20_frostytree_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+xmas_c20_frostytree_xmas_c20_frostytree_icon_a.png
+  rotate: false
+  xy: 196, 207
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

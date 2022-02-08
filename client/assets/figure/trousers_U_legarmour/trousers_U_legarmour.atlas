@@ -1,0 +1,531 @@
+
+trousers_U_legarmour.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_legarmour_h_lay_lg_3028_2_0.png
+  rotate: false
+  xy: 2, 100
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_lay_lg_3029_2_0.png
+  rotate: false
+  xy: 50, 16
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_lay_lg_3030_2_0.png
+  rotate: false
+  xy: 107, 76
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_sit_lg_3028_0_0.png
+  rotate: false
+  xy: 71, 233
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_sit_lg_3028_2_0.png
+  rotate: false
+  xy: 2, 149
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_sit_lg_3029_0_0.png
+  rotate: false
+  xy: 116, 120
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_sit_lg_3030_0_0.png
+  rotate: false
+  xy: 71, 217
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_sit_lg_3030_2_0.png
+  rotate: false
+  xy: 107, 91
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3028_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3028_1_0.png
+  rotate: false
+  xy: 102, 154
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3028_2_0.png
+  rotate: false
+  xy: 26, 44
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3028_3_0.png
+  rotate: false
+  xy: 35, 149
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3028_7_0.png
+  rotate: false
+  xy: 56, 97
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3029_1_0.png
+  rotate: false
+  xy: 96, 210
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3029_2_0.png
+  rotate: false
+  xy: 20, 2
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3029_3_0.png
+  rotate: false
+  xy: 63, 10
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3029_7_0.png
+  rotate: false
+  xy: 52, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3030_0_0.png
+  rotate: false
+  xy: 75, 71
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3030_1_0.png
+  rotate: false
+  xy: 123, 181
+  size: 3, 21
+  orig: 3, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3030_2_0.png
+  rotate: false
+  xy: 102, 106
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3030_3_0.png
+  rotate: false
+  xy: 50, 27
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_std_lg_3030_7_0.png
+  rotate: false
+  xy: 65, 30
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_0_0.png
+  rotate: false
+  xy: 26, 72
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_0_1.png
+  rotate: false
+  xy: 2, 227
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_0_2.png
+  rotate: false
+  xy: 26, 16
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_0_3.png
+  rotate: false
+  xy: 2, 39
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_1_0.png
+  rotate: false
+  xy: 108, 232
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_1_1.png
+  rotate: false
+  xy: 2, 200
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_1_2.png
+  rotate: false
+  xy: 81, 143
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_1_3.png
+  rotate: false
+  xy: 38, 229
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_2_0.png
+  rotate: false
+  xy: 35, 200
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_2_1.png
+  rotate: false
+  xy: 2, 69
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_2_2.png
+  rotate: false
+  xy: 103, 204
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_2_3.png
+  rotate: false
+  xy: 2, 173
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_3_2.png
+  rotate: false
+  xy: 79, 119
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_3_3.png
+  rotate: false
+  xy: 56, 121
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_7_0.png
+  rotate: false
+  xy: 58, 145
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_7_1.png
+  rotate: false
+  xy: 35, 174
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_7_2.png
+  rotate: false
+  xy: 52, 73
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3028_7_3.png
+  rotate: false
+  xy: 33, 123
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_0_0.png
+  rotate: false
+  xy: 102, 100
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_0_1.png
+  rotate: false
+  xy: 107, 65
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_0_2.png
+  rotate: false
+  xy: 26, 11
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_0_3.png
+  rotate: false
+  xy: 96, 194
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_1_0.png
+  rotate: false
+  xy: 89, 64
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_1_1.png
+  rotate: false
+  xy: 107, 43
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_1_2.png
+  rotate: false
+  xy: 91, 24
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_1_3.png
+  rotate: false
+  xy: 107, 54
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_2_0.png
+  rotate: false
+  xy: 76, 24
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_2_1.png
+  rotate: false
+  xy: 58, 194
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_2_3.png
+  rotate: false
+  xy: 37, 10
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_3_0.png
+  rotate: false
+  xy: 56, 2
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_3_1.png
+  rotate: false
+  xy: 37, 2
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_7_0.png
+  rotate: false
+  xy: 75, 2
+  size: 1, 6
+  orig: 1, 6
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_7_2.png
+  rotate: false
+  xy: 99, 201
+  size: 1, 7
+  orig: 1, 7
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3029_7_3.png
+  rotate: false
+  xy: 96, 200
+  size: 1, 8
+  orig: 1, 8
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_0_0.png
+  rotate: false
+  xy: 58, 169
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_0_1.png
+  rotate: false
+  xy: 2, 124
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_0_2.png
+  rotate: false
+  xy: 102, 179
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_0_3.png
+  rotate: false
+  xy: 81, 168
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_1_0.png
+  rotate: false
+  xy: 65, 51
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_1_1.png
+  rotate: false
+  xy: 79, 96
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_1_2.png
+  rotate: false
+  xy: 120, 156
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_1_3.png
+  rotate: false
+  xy: 33, 100
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_2_0.png
+  rotate: false
+  xy: 50, 49
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_2_1.png
+  rotate: false
+  xy: 59, 202
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_2_2.png
+  rotate: false
+  xy: 102, 130
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_2_3.png
+  rotate: false
+  xy: 70, 194
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_3_0.png
+  rotate: false
+  xy: 76, 33
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_3_1.png
+  rotate: false
+  xy: 74, 52
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_7_0.png
+  rotate: false
+  xy: 96, 52
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_7_1.png
+  rotate: false
+  xy: 96, 73
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_7_2.png
+  rotate: false
+  xy: 91, 31
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+trousers_U_legarmour_h_wlk_lg_3030_7_3.png
+  rotate: false
+  xy: 116, 131
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1

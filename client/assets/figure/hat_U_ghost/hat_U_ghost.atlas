@@ -1,0 +1,90 @@
+
+hat_U_ghost.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_ghost_h_lay_ha_3783_2_0.png
+  rotate: false
+  xy: 2, 77
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_lsp_ha_3783_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_spk_ha_3783_0_0.png
+  rotate: false
+  xy: 397, 64
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_spk_ha_3783_1_0.png
+  rotate: false
+  xy: 296, 60
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_spk_ha_3783_2_0.png
+  rotate: false
+  xy: 333, 63
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_spk_ha_3783_3_0.png
+  rotate: false
+  xy: 165, 68
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_spk_ha_3783_7_0.png
+  rotate: false
+  xy: 67, 65
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_std_ha_3783_0_0.png
+  rotate: false
+  xy: 67, 2
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_std_ha_3783_1_0.png
+  rotate: false
+  xy: 259, 61
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_std_ha_3783_2_0.png
+  rotate: false
+  xy: 365, 64
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_std_ha_3783_3_0.png
+  rotate: false
+  xy: 212, 69
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+hat_U_ghost_h_std_ha_3783_7_0.png
+  rotate: false
+  xy: 116, 66
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1

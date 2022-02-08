@@ -1,0 +1,27 @@
+
+plushie_c20_fabric3.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_fabric3_plushie_c20_fabric3_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+plushie_c20_fabric3_plushie_c20_fabric3_64_sd_0_0.png
+  rotate: false
+  xy: 56, 11
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+plushie_c20_fabric3_plushie_c20_fabric3_icon_a.png
+  rotate: false
+  xy: 110, 11
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

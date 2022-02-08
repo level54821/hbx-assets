@@ -1,0 +1,97 @@
+
+hween_c20_vwall.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_vwall_hween_c20_vwall_64_a_2_0.png
+  rotate: false
+  xy: 542, 102
+  size: 32, 144
+  orig: 32, 144
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_a_4_0.png
+  rotate: false
+  xy: 576, 102
+  size: 32, 144
+  orig: 32, 144
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_b_2_0.png
+  rotate: false
+  xy: 475, 86
+  size: 65, 160
+  orig: 65, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_b_2_1.png
+  rotate: false
+  xy: 274, 86
+  size: 65, 160
+  orig: 65, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_b_4_0.png
+  rotate: false
+  xy: 341, 86
+  size: 65, 160
+  orig: 65, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_b_4_1.png
+  rotate: false
+  xy: 408, 86
+  size: 65, 160
+  orig: 65, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_c_2_0.png
+  rotate: false
+  xy: 138, 86
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_c_2_1.png
+  rotate: false
+  xy: 206, 86
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_c_4_0.png
+  rotate: false
+  xy: 2, 86
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_c_4_1.png
+  rotate: false
+  xy: 70, 86
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_sd_2_0.png
+  rotate: false
+  xy: 610, 196
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+hween_c20_vwall_hween_c20_vwall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

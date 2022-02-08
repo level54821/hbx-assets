@@ -1,0 +1,146 @@
+
+hair_U_middlepart.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_middlepart_h_lay_hrb_4023_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_lsp_hr_4023_2_0.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hr_4023_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hr_4023_1_0.png
+  rotate: false
+  xy: 222, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hr_4023_2_0.png
+  rotate: false
+  xy: 355, 13
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hr_4023_3_0.png
+  rotate: false
+  xy: 389, 39
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hr_4023_7_0.png
+  rotate: false
+  xy: 188, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hrb_4023_0_0.png
+  rotate: false
+  xy: 40, 31
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hrb_4023_1_0.png
+  rotate: false
+  xy: 289, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hrb_4023_2_0.png
+  rotate: false
+  xy: 289, 6
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hrb_4023_3_0.png
+  rotate: false
+  xy: 355, 39
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_spk_hrb_4023_7_0.png
+  rotate: false
+  xy: 154, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hr_4023_0_0.png
+  rotate: false
+  xy: 116, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hr_4023_1_0.png
+  rotate: false
+  xy: 322, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hr_4023_2_0.png
+  rotate: false
+  xy: 423, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hr_4023_3_0.png
+  rotate: false
+  xy: 388, 14
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hr_4023_7_0.png
+  rotate: false
+  xy: 255, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hrb_4023_0_0.png
+  rotate: false
+  xy: 78, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hrb_4023_1_0.png
+  rotate: false
+  xy: 322, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hair_U_middlepart_h_std_hrb_4023_7_0.png
+  rotate: false
+  xy: 255, 33
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1

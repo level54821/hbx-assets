@@ -1,0 +1,160 @@
+
+hween_c20_crookedtree.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_crookedtree_hween_c20_crookedtree_64_a_2_0.png
+  rotate: false
+  xy: 2, 72
+  size: 74, 176
+  orig: 74, 176
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_0.png
+  rotate: false
+  xy: 78, 148
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_1.png
+  rotate: false
+  xy: 25, 35
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_10.png
+  rotate: false
+  xy: 54, 53
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_14.png
+  rotate: false
+  xy: 78, 199
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_2.png
+  rotate: false
+  xy: 103, 221
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_3.png
+  rotate: false
+  xy: 78, 134
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_4.png
+  rotate: false
+  xy: 78, 182
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_5.png
+  rotate: false
+  xy: 2, 34
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_6.png
+  rotate: false
+  xy: 103, 235
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_7.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_8.png
+  rotate: false
+  xy: 78, 165
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_b_2_9.png
+  rotate: false
+  xy: 2, 17
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_0.png
+  rotate: false
+  xy: 95, 208
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_1.png
+  rotate: false
+  xy: 45, 39
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_2.png
+  rotate: false
+  xy: 78, 79
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_3.png
+  rotate: false
+  xy: 123, 235
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_4.png
+  rotate: false
+  xy: 78, 119
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_8.png
+  rotate: false
+  xy: 78, 105
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_c_2_9.png
+  rotate: false
+  xy: 78, 91
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_64_sd_2_0.png
+  rotate: false
+  xy: 2, 49
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+hween_c20_crookedtree_hween_c20_crookedtree_icon_a.png
+  rotate: false
+  xy: 78, 218
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c20_smallrunestones.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_smallrunestones_xmas_c20_smallrunestones_64_a_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+xmas_c20_smallrunestones_xmas_c20_smallrunestones_64_sd_0_0.png
+  rotate: false
+  xy: 38, 42
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+xmas_c20_smallrunestones_xmas_c20_smallrunestones_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

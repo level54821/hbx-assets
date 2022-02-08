@@ -1,0 +1,48 @@
+
+jacket_U_pumpkinoutfit.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_pumpkinoutfit_h_lay_cc_3791_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+jacket_U_pumpkinoutfit_h_std_cc_3791_0_0.png
+  rotate: false
+  xy: 146, 6
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+jacket_U_pumpkinoutfit_h_std_cc_3791_1_0.png
+  rotate: false
+  xy: 236, 7
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+jacket_U_pumpkinoutfit_h_std_cc_3791_2_0.png
+  rotate: false
+  xy: 191, 8
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+jacket_U_pumpkinoutfit_h_std_cc_3791_3_0.png
+  rotate: false
+  xy: 54, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+jacket_U_pumpkinoutfit_h_std_cc_3791_7_0.png
+  rotate: false
+  xy: 100, 5
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1

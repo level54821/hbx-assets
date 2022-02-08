@@ -1,0 +1,20 @@
+
+clothing_r21_flowerhair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r21_flowerhair_clothing_r21_flowerhair_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+clothing_r21_flowerhair_clothing_r21_flowerhair_icon_a.png
+  rotate: false
+  xy: 38, 19
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

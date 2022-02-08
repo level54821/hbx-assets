@@ -1,0 +1,41 @@
+
+xmas_c20_woodendog.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_woodendog_xmas_c20_woodendog_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+xmas_c20_woodendog_xmas_c20_woodendog_64_a_0_1.png
+  rotate: false
+  xy: 47, 3
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+xmas_c20_woodendog_xmas_c20_woodendog_64_a_0_2.png
+  rotate: false
+  xy: 92, 4
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+xmas_c20_woodendog_xmas_c20_woodendog_64_sd_0_0.png
+  rotate: false
+  xy: 137, 45
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c20_woodendog_xmas_c20_woodendog_icon_a.png
+  rotate: false
+  xy: 137, 13
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

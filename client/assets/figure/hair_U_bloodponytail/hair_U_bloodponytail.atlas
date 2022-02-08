@@ -1,0 +1,356 @@
+
+hair_U_bloodponytail.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_bloodponytail_h_lay_hr_3229_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_lay_hrb_3230_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_lay_hrb_3231_2_0.png
+  rotate: false
+  xy: 132, 148
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_lsp_hr_3230_2_0.png
+  rotate: false
+  xy: 155, 140
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_lsp_hr_3231_2_0.png
+  rotate: false
+  xy: 124, 5
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_lsp_hrb_3229_2_0.png
+  rotate: false
+  xy: 92, 179
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3229_0_0.png
+  rotate: false
+  xy: 45, 78
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3229_1_0.png
+  rotate: false
+  xy: 219, 217
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3229_2_0.png
+  rotate: false
+  xy: 136, 218
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3229_3_0.png
+  rotate: false
+  xy: 47, 179
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3229_7_0.png
+  rotate: false
+  xy: 2, 178
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3230_0_0.png
+  rotate: false
+  xy: 218, 128
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3230_1_0.png
+  rotate: false
+  xy: 22, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3230_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3230_3_0.png
+  rotate: false
+  xy: 22, 12
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3230_7_0.png
+  rotate: false
+  xy: 32, 12
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3231_0_0.png
+  rotate: false
+  xy: 122, 41
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3231_1_0.png
+  rotate: false
+  xy: 167, 119
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3231_2_0.png
+  rotate: false
+  xy: 88, 117
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3231_3_0.png
+  rotate: false
+  xy: 42, 13
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hr_3231_7_0.png
+  rotate: false
+  xy: 173, 183
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hrb_3230_1_0.png
+  rotate: false
+  xy: 38, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hrb_3230_2_0.png
+  rotate: false
+  xy: 198, 137
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hrb_3230_3_0.png
+  rotate: false
+  xy: 218, 138
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hrb_3231_1_0.png
+  rotate: false
+  xy: 167, 151
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hrb_3231_3_0.png
+  rotate: false
+  xy: 47, 148
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_spk_hrb_3231_7_0.png
+  rotate: false
+  xy: 45, 44
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3229_0_0.png
+  rotate: false
+  xy: 84, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3229_1_0.png
+  rotate: false
+  xy: 120, 78
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3229_2_0.png
+  rotate: false
+  xy: 2, 64
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3229_3_0.png
+  rotate: false
+  xy: 92, 218
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3229_7_0.png
+  rotate: false
+  xy: 47, 217
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3230_0_0.png
+  rotate: false
+  xy: 30, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3230_1_0.png
+  rotate: false
+  xy: 159, 130
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3230_2_0.png
+  rotate: false
+  xy: 12, 11
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3230_3_0.png
+  rotate: false
+  xy: 208, 138
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3230_7_0.png
+  rotate: false
+  xy: 198, 124
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3231_1_0.png
+  rotate: false
+  xy: 198, 151
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3231_2_0.png
+  rotate: false
+  xy: 214, 186
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3231_3_0.png
+  rotate: false
+  xy: 46, 117
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hr_3231_7_0.png
+  rotate: false
+  xy: 132, 184
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3229_0_0.png
+  rotate: false
+  xy: 179, 217
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3229_1_0.png
+  rotate: false
+  xy: 85, 78
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3229_2_0.png
+  rotate: false
+  xy: 2, 102
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3229_3_0.png
+  rotate: false
+  xy: 2, 140
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3229_7_0.png
+  rotate: false
+  xy: 2, 217
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3230_0_0.png
+  rotate: false
+  xy: 159, 120
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3230_7_0.png
+  rotate: false
+  xy: 208, 125
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3231_0_0.png
+  rotate: false
+  xy: 86, 41
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodponytail_h_std_hrb_3231_2_0.png
+  rotate: false
+  xy: 89, 148
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1

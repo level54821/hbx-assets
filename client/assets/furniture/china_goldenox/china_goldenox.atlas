@@ -1,0 +1,27 @@
+
+china_goldenox.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+china_goldenox_china_goldenox_64_a_0_0.png
+  rotate: false
+  xy: 2, 62
+  size: 52, 100
+  orig: 52, 100
+  offset: 0, 0
+  index: -1
+china_goldenox_china_goldenox_64_sd_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+china_goldenox_china_goldenox_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

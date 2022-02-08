@@ -1,0 +1,10 @@
+RewriteEngine On
+DirectoryIndex index.html index.cgi index.php
+
+RewriteRule ^notifications/fig/(.*).png$ notifications/user.php?fig=$1
+
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>

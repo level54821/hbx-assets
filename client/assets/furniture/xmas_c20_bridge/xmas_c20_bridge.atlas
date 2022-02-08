@@ -1,0 +1,83 @@
+
+xmas_c20_bridge.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_bridge_xmas_c20_bridge_64_a_4_0.png
+  rotate: false
+  xy: 84, 136
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_b_4_0.png
+  rotate: false
+  xy: 2, 124
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_c_4_0.png
+  rotate: false
+  xy: 58, 4
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_d_4_0.png
+  rotate: false
+  xy: 116, 222
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_e_4_0.png
+  rotate: false
+  xy: 2, 92
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_f_4_0.png
+  rotate: false
+  xy: 74, 61
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_g_4_0.png
+  rotate: false
+  xy: 84, 125
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_h_4_0.png
+  rotate: false
+  xy: 2, 51
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_i_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_64_sd_4_0.png
+  rotate: false
+  xy: 2, 176
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+xmas_c20_bridge_xmas_c20_bridge_icon_a.png
+  rotate: false
+  xy: 83, 101
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

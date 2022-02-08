@@ -1,0 +1,111 @@
+
+acc_chest_U_teddybpack.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_teddybpack_h_lay_ca_3949_2_0.png
+  rotate: false
+  xy: 205, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_lay_ca_3950_2_0.png
+  rotate: false
+  xy: 65, 28
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_lay_ca_3951_2_0.png
+  rotate: false
+  xy: 223, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3949_0_0.png
+  rotate: false
+  xy: 157, 22
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3949_1_0.png
+  rotate: false
+  xy: 205, 24
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3949_2_0.png
+  rotate: false
+  xy: 223, 27
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3949_7_0.png
+  rotate: false
+  xy: 132, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3950_0_0.png
+  rotate: false
+  xy: 2, 18
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3950_1_0.png
+  rotate: false
+  xy: 35, 25
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3950_2_0.png
+  rotate: false
+  xy: 98, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3950_3_0.png
+  rotate: false
+  xy: 35, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3950_7_0.png
+  rotate: false
+  xy: 181, 20
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3951_0_0.png
+  rotate: false
+  xy: 236, 57
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3951_1_0.png
+  rotate: false
+  xy: 61, 20
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+acc_chest_U_teddybpack_h_std_ca_3951_7_0.png
+  rotate: false
+  xy: 2, 13
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1

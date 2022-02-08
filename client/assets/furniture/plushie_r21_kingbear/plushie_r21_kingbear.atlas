@@ -1,0 +1,41 @@
+
+plushie_r21_kingbear.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_r21_kingbear_plushie_r21_kingbear_64_a_0_0.png
+  rotate: false
+  xy: 105, 54
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: -1
+plushie_r21_kingbear_plushie_r21_kingbear_64_a_0_1.png
+  rotate: false
+  xy: 2, 39
+  size: 101, 143
+  orig: 101, 143
+  offset: 0, 0
+  index: -1
+plushie_r21_kingbear_plushie_r21_kingbear_64_a_0_2.png
+  rotate: false
+  xy: 221, 39
+  size: 95, 143
+  orig: 95, 143
+  offset: 0, 0
+  index: -1
+plushie_r21_kingbear_plushie_r21_kingbear_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+plushie_r21_kingbear_plushie_r21_kingbear_icon_a.png
+  rotate: false
+  xy: 318, 152
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

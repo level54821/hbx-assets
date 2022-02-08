@@ -1,0 +1,27 @@
+
+val_r21_clock.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_r21_clock_val_r21_clock_64_a_0_0.png
+  rotate: false
+  xy: 2, 60
+  size: 49, 140
+  orig: 49, 140
+  offset: 0, 0
+  index: -1
+val_r21_clock_val_r21_clock_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+val_r21_clock_val_r21_clock_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

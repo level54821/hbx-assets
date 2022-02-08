@@ -1,0 +1,14 @@
+﻿Seja bem vindo(a) ao iBlue Hotel!
+<br>
+<img src="/public/imagens/faixa.png"/><br><br><br><br><br></span>
+<span class="padding-top"><br></span><p>Boas vindas ao IBlue Hotel, não se assuste com as atividades da roça, é bem provável que você já se acostumou com o barulho da cidade. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Só que no IBlue quem faz barulho são os animais e a ventania do interior.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Confira o que ta rolando nesse período de atividades: </h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>- Castelo de Diversos</b>
+<span class="padding-top"><br></span><p><b>- Labirintos com Prêmios</b>
+<span class="padding-top"><br></span><p><b>- Reality Show iBlue Rancho:</b>
+<span class="padding-top"><br></span><p><b>- Fuja dos Staffs</b>
+<span class="padding-top"><br></span><p><b>- Infobus</b>
+<span class="padding-top"><br></span><p><b>- Promoção Relâmpago</b>
+<span class="padding-top"><br></span><p><b>- iBlue que sabe, sabe</b>
+<span class="padding-top"><br></span><p><b>- Batalha da rádio (RAP)</b>

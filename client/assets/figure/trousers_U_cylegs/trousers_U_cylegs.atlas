@@ -1,0 +1,391 @@
+
+trousers_U_cylegs.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_cylegs_h_lay_lg_3804_2_0.png
+  rotate: false
+  xy: 224, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_lay_lg_3805_2_0.png
+  rotate: false
+  xy: 250, 24
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_sit_lg_3804_0_0.png
+  rotate: false
+  xy: 92, 41
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_sit_lg_3804_2_0.png
+  rotate: false
+  xy: 130, 40
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_sit_lg_3805_0_0.png
+  rotate: false
+  xy: 236, 11
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_sit_lg_3805_2_0.png
+  rotate: false
+  xy: 218, 11
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3804_0_0.png
+  rotate: false
+  xy: 75, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3804_1_0.png
+  rotate: false
+  xy: 164, 8
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3804_2_0.png
+  rotate: false
+  xy: 303, 33
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3804_3_0.png
+  rotate: false
+  xy: 465, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3804_7_0.png
+  rotate: false
+  xy: 122, 15
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3805_0_0.png
+  rotate: false
+  xy: 347, 25
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3805_1_0.png
+  rotate: false
+  xy: 231, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3805_2_0.png
+  rotate: false
+  xy: 437, 31
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3805_3_0.png
+  rotate: false
+  xy: 390, 30
+  size: 15, 1
+  orig: 15, 1
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_std_lg_3805_7_0.png
+  rotate: false
+  xy: 182, 2
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_0_0.png
+  rotate: false
+  xy: 255, 35
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_0_2.png
+  rotate: false
+  xy: 279, 33
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_1_0.png
+  rotate: false
+  xy: 182, 9
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_1_1.png
+  rotate: false
+  xy: 193, 35
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_1_2.png
+  rotate: false
+  xy: 145, 4
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_1_3.png
+  rotate: false
+  xy: 162, 35
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_2_0.png
+  rotate: false
+  xy: 68, 34
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_2_1.png
+  rotate: false
+  xy: 51, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_2_2.png
+  rotate: false
+  xy: 27, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_2_3.png
+  rotate: false
+  xy: 37, 34
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_3_0.png
+  rotate: false
+  xy: 419, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_3_1.png
+  rotate: false
+  xy: 327, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_3_2.png
+  rotate: false
+  xy: 442, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_3_3.png
+  rotate: false
+  xy: 350, 37
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_7_0.png
+  rotate: false
+  xy: 373, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_7_1.png
+  rotate: false
+  xy: 488, 39
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_7_2.png
+  rotate: false
+  xy: 396, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3804_7_3.png
+  rotate: false
+  xy: 99, 16
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_0_0.png
+  rotate: false
+  xy: 327, 26
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_0_1.png
+  rotate: false
+  xy: 224, 27
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_0_2.png
+  rotate: false
+  xy: 117, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_0_3.png
+  rotate: false
+  xy: 200, 23
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_1_0.png
+  rotate: false
+  xy: 449, 31
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_1_1.png
+  rotate: false
+  xy: 200, 9
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_1_2.png
+  rotate: false
+  xy: 242, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_1_3.png
+  rotate: false
+  xy: 99, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_2_0.png
+  rotate: false
+  xy: 424, 31
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_2_1.png
+  rotate: false
+  xy: 92, 38
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_2_2.png
+  rotate: false
+  xy: 407, 26
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_2_3.png
+  rotate: false
+  xy: 222, 22
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_3_0.png
+  rotate: false
+  xy: 390, 33
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_3_2.png
+  rotate: false
+  xy: 164, 4
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_3_3.png
+  rotate: false
+  xy: 407, 34
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_7_0.png
+  rotate: false
+  xy: 199, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_7_1.png
+  rotate: false
+  xy: 373, 30
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_7_2.png
+  rotate: false
+  xy: 215, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+trousers_U_cylegs_h_wlk_lg_3805_7_3.png
+  rotate: false
+  xy: 145, 32
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1

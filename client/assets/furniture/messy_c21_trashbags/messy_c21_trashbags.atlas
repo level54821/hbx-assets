@@ -1,0 +1,41 @@
+
+messy_c21_trashbags.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+messy_c21_trashbags_messy_c21_trashbags_64_a_0_0.png
+  rotate: false
+  xy: 100, 10
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+messy_c21_trashbags_messy_c21_trashbags_64_a_0_1.png
+  rotate: false
+  xy: 61, 10
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+messy_c21_trashbags_messy_c21_trashbags_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+messy_c21_trashbags_messy_c21_trashbags_64_sd_0_0.png
+  rotate: false
+  xy: 171, 35
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+messy_c21_trashbags_messy_c21_trashbags_icon_a.png
+  rotate: false
+  xy: 139, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

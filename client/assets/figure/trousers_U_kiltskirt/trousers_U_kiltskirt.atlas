@@ -1,0 +1,566 @@
+
+trousers_U_kiltskirt.png
+size: 2048,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_kiltskirt_h_lay_lg_3942_2_0.png
+  rotate: false
+  xy: 265, 12
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_lay_lg_3943_2_0.png
+  rotate: false
+  xy: 291, 12
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_lay_lg_3944_2_0.png
+  rotate: false
+  xy: 1536, 16
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_sit_lg_3942_0_0.png
+  rotate: false
+  xy: 2, 10
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_sit_lg_3942_2_0.png
+  rotate: false
+  xy: 68, 11
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_sit_lg_3943_0_0.png
+  rotate: false
+  xy: 35, 10
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_sit_lg_3943_2_0.png
+  rotate: false
+  xy: 98, 12
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_sit_lg_3944_0_0.png
+  rotate: false
+  xy: 236, 14
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_sit_lg_3944_2_0.png
+  rotate: false
+  xy: 875, 17
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3942_0_0.png
+  rotate: false
+  xy: 601, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3942_1_0.png
+  rotate: false
+  xy: 1651, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3942_2_0.png
+  rotate: false
+  xy: 367, 9
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3942_3_0.png
+  rotate: false
+  xy: 760, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3942_7_0.png
+  rotate: false
+  xy: 806, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3943_0_0.png
+  rotate: false
+  xy: 624, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3943_1_0.png
+  rotate: false
+  xy: 1669, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3943_2_0.png
+  rotate: false
+  xy: 391, 9
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3943_3_0.png
+  rotate: false
+  xy: 783, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3943_7_0.png
+  rotate: false
+  xy: 737, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3944_0_0.png
+  rotate: false
+  xy: 1348, 13
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3944_1_0.png
+  rotate: false
+  xy: 1719, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3944_2_0.png
+  rotate: false
+  xy: 693, 11
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3944_3_0.png
+  rotate: false
+  xy: 1494, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_std_lg_3944_7_0.png
+  rotate: false
+  xy: 1473, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_0_0.png
+  rotate: false
+  xy: 415, 11
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_0_1.png
+  rotate: false
+  xy: 128, 11
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_0_2.png
+  rotate: false
+  xy: 486, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_0_3.png
+  rotate: false
+  xy: 317, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_1_0.png
+  rotate: false
+  xy: 1575, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_1_1.png
+  rotate: false
+  xy: 1152, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_1_2.png
+  rotate: false
+  xy: 1594, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_1_3.png
+  rotate: false
+  xy: 1174, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_2_0.png
+  rotate: false
+  xy: 647, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_2_1.png
+  rotate: false
+  xy: 463, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_2_2.png
+  rotate: false
+  xy: 509, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_2_3.png
+  rotate: false
+  xy: 182, 12
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_3_3.png
+  rotate: false
+  xy: 945, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_7_0.png
+  rotate: false
+  xy: 922, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_7_1.png
+  rotate: false
+  xy: 991, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3942_7_2.png
+  rotate: false
+  xy: 968, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_0_0.png
+  rotate: false
+  xy: 439, 11
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_0_1.png
+  rotate: false
+  xy: 155, 11
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_0_2.png
+  rotate: false
+  xy: 578, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_0_3.png
+  rotate: false
+  xy: 342, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_1_0.png
+  rotate: false
+  xy: 1632, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_1_1.png
+  rotate: false
+  xy: 1218, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_1_2.png
+  rotate: false
+  xy: 1613, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_1_3.png
+  rotate: false
+  xy: 1196, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_2_0.png
+  rotate: false
+  xy: 670, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_2_1.png
+  rotate: false
+  xy: 555, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_2_2.png
+  rotate: false
+  xy: 532, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_2_3.png
+  rotate: false
+  xy: 209, 12
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_3_0.png
+  rotate: false
+  xy: 1037, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_3_1.png
+  rotate: false
+  xy: 1014, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_3_2.png
+  rotate: false
+  xy: 1129, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_3_3.png
+  rotate: false
+  xy: 1106, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_7_0.png
+  rotate: false
+  xy: 1083, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_7_1.png
+  rotate: false
+  xy: 1060, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_7_2.png
+  rotate: false
+  xy: 852, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3943_7_3.png
+  rotate: false
+  xy: 829, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_0_0.png
+  rotate: false
+  xy: 1306, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_0_1.png
+  rotate: false
+  xy: 1240, 15
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_0_2.png
+  rotate: false
+  xy: 1327, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_0_3.png
+  rotate: false
+  xy: 715, 13
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_1_0.png
+  rotate: false
+  xy: 1687, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_1_1.png
+  rotate: false
+  xy: 1703, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_1_2.png
+  rotate: false
+  xy: 1687, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_1_3.png
+  rotate: false
+  xy: 1703, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_2_0.png
+  rotate: false
+  xy: 1389, 14
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_2_1.png
+  rotate: false
+  xy: 1556, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_2_2.png
+  rotate: false
+  xy: 1369, 13
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_2_3.png
+  rotate: false
+  xy: 1262, 15
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_3_0.png
+  rotate: false
+  xy: 1409, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_3_1.png
+  rotate: false
+  xy: 901, 17
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_3_2.png
+  rotate: false
+  xy: 897, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_3_3.png
+  rotate: false
+  xy: 1452, 16
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_7_0.png
+  rotate: false
+  xy: 1284, 15
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_7_1.png
+  rotate: false
+  xy: 875, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_7_2.png
+  rotate: false
+  xy: 1430, 16
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+trousers_U_kiltskirt_h_wlk_lg_3944_7_3.png
+  rotate: false
+  xy: 1515, 16
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1

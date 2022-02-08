@@ -1,0 +1,104 @@
+
+xmas_c20_frozenstream.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_a_2_0.png
+  rotate: false
+  xy: 110, 22
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_a_2_1.png
+  rotate: false
+  xy: 541, 27
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_a_6_1.png
+  rotate: false
+  xy: 751, 20
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_b_2_0.png
+  rotate: false
+  xy: 401, 22
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_b_2_1.png
+  rotate: false
+  xy: 471, 22
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_b_2_2.png
+  rotate: false
+  xy: 258, 23
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_b_6_1.png
+  rotate: false
+  xy: 184, 22
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_b_6_2.png
+  rotate: false
+  xy: 330, 22
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_c_2_0.png
+  rotate: false
+  xy: 615, 23
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_c_2_1.png
+  rotate: false
+  xy: 683, 23
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_c_2_2.png
+  rotate: false
+  xy: 882, 23
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_c_6_2.png
+  rotate: false
+  xy: 814, 29
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_frozenstream_xmas_c20_frozenstream_icon_a.png
+  rotate: false
+  xy: 110, 4
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1

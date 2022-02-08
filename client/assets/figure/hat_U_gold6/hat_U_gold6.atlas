@@ -1,0 +1,48 @@
+
+hat_U_gold6.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_gold6_h_lay_ha_3974_2_0.png
+  rotate: false
+  xy: 190, 2
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+hat_U_gold6_h_spk_ha_3974_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+hat_U_gold6_h_spk_ha_3974_1_0.png
+  rotate: false
+  xy: 81, 5
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hat_U_gold6_h_spk_ha_3974_2_0.png
+  rotate: false
+  xy: 42, 5
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+hat_U_gold6_h_spk_ha_3974_3_0.png
+  rotate: false
+  xy: 154, 7
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hat_U_gold6_h_spk_ha_3974_7_0.png
+  rotate: false
+  xy: 118, 4
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1

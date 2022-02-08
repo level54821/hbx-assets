@@ -1,0 +1,27 @@
+
+plushie_c20_crackableB.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_crackableB_plushie_c20_crackableB_64_a_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+plushie_c20_crackableB_plushie_c20_crackableB_64_sd_0_0.png
+  rotate: false
+  xy: 41, 34
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+plushie_c20_crackableB_plushie_c20_crackableB_icon_a.png
+  rotate: false
+  xy: 41, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

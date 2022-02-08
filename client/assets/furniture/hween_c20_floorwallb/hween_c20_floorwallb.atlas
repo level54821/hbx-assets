@@ -1,0 +1,20 @@
+
+hween_c20_floorwallb.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_floorwallb_hween_c20_floorwallb_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 68, 178
+  orig: 68, 178
+  offset: 0, 0
+  index: -1
+hween_c20_floorwallb_hween_c20_floorwallb_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1

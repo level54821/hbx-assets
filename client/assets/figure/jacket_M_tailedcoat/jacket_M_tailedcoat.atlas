@@ -1,0 +1,678 @@
+
+jacket_M_tailedcoat.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_M_tailedcoat_h_crr_lc_3091_0_0.png
+  rotate: false
+  xy: 554, 16
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_1_0.png
+  rotate: false
+  xy: 218, 2
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_2_0.png
+  rotate: false
+  xy: 721, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_3_0.png
+  rotate: false
+  xy: 657, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_4_0.png
+  rotate: false
+  xy: 449, 36
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_5_0.png
+  rotate: false
+  xy: 237, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_6_0.png
+  rotate: false
+  xy: 539, 39
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_lc_3091_7_0.png
+  rotate: false
+  xy: 543, 16
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_0_0.png
+  rotate: false
+  xy: 503, 39
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_1_0.png
+  rotate: false
+  xy: 686, 42
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_2_0.png
+  rotate: false
+  xy: 408, 23
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_3_0.png
+  rotate: false
+  xy: 644, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_4_0.png
+  rotate: false
+  xy: 508, 16
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_5_0.png
+  rotate: false
+  xy: 256, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_6_0.png
+  rotate: false
+  xy: 564, 16
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_crr_rc_3091_7_0.png
+  rotate: false
+  xy: 532, 16
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_0_0.png
+  rotate: false
+  xy: 193, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_1_0.png
+  rotate: false
+  xy: 379, 49
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_2_0.png
+  rotate: false
+  xy: 104, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_3_0.png
+  rotate: false
+  xy: 467, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_4_0.png
+  rotate: false
+  xy: 944, 47
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_5_0.png
+  rotate: false
+  xy: 76, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_6_0.png
+  rotate: false
+  xy: 350, 47
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_drk_rc_3091_7_0.png
+  rotate: false
+  xy: 48, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_lay_cc_3091_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_lay_cc_3092_2_0.png
+  rotate: false
+  xy: 962, 52
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_lay_lc_3091_2_0.png
+  rotate: false
+  xy: 407, 51
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_lay_rc_3091_2_0.png
+  rotate: false
+  xy: 303, 36
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_sit_cc_3091_0_0.png
+  rotate: false
+  xy: 51, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_sit_cc_3091_2_0.png
+  rotate: false
+  xy: 112, 18
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_sit_cc_3092_1_0.png
+  rotate: false
+  xy: 213, 11
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_sit_lc_3091_2_0.png
+  rotate: false
+  xy: 498, 12
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_sit_rc_3091_0_0.png
+  rotate: false
+  xy: 748, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3091_0_0.png
+  rotate: false
+  xy: 168, 17
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3091_1_0.png
+  rotate: false
+  xy: 193, 22
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3091_2_0.png
+  rotate: false
+  xy: 82, 20
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3091_3_0.png
+  rotate: false
+  xy: 218, 24
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3091_7_0.png
+  rotate: false
+  xy: 141, 20
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3092_2_0.png
+  rotate: false
+  xy: 508, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3092_3_0.png
+  rotate: false
+  xy: 350, 9
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_cc_3092_7_0.png
+  rotate: false
+  xy: 48, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_lc_3091_0_0.png
+  rotate: false
+  xy: 448, 2
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_lc_3091_1_0.png
+  rotate: false
+  xy: 893, 39
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_lc_3091_3_0.png
+  rotate: false
+  xy: 836, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_rc_3091_1_0.png
+  rotate: false
+  xy: 906, 39
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_rc_3091_2_0.png
+  rotate: false
+  xy: 869, 37
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_rc_3091_3_0.png
+  rotate: false
+  xy: 847, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_std_rc_3091_7_0.png
+  rotate: false
+  xy: 458, 7
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_0_0.png
+  rotate: false
+  xy: 281, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_0_1.png
+  rotate: false
+  xy: 331, 9
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_1_0.png
+  rotate: false
+  xy: 557, 38
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_1_1.png
+  rotate: false
+  xy: 486, 38
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_2_0.png
+  rotate: false
+  xy: 670, 38
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_2_1.png
+  rotate: false
+  xy: 521, 39
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_3_0.png
+  rotate: false
+  xy: 264, 23
+  size: 15, 39
+  orig: 15, 39
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_3_1.png
+  rotate: false
+  xy: 245, 23
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_4_0.png
+  rotate: false
+  xy: 281, 34
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_4_1.png
+  rotate: false
+  xy: 312, 6
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_5_0.png
+  rotate: false
+  xy: 389, 21
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_5_1.png
+  rotate: false
+  xy: 371, 19
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_6_0.png
+  rotate: false
+  xy: 350, 20
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_6_1.png
+  rotate: false
+  xy: 326, 39
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_7_0.png
+  rotate: false
+  xy: 589, 34
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wav_lc_3091_7_1.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_0_1.png
+  rotate: false
+  xy: 574, 16
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_0_3.png
+  rotate: false
+  xy: 478, 10
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_1_1.png
+  rotate: false
+  xy: 213, 3
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_2_1.png
+  rotate: false
+  xy: 520, 16
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_2_3.png
+  rotate: false
+  xy: 129, 2
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_3_1.png
+  rotate: false
+  xy: 814, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_3_2.png
+  rotate: false
+  xy: 803, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_3_3.png
+  rotate: false
+  xy: 858, 37
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_4_1.png
+  rotate: false
+  xy: 20, 2
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_4_3.png
+  rotate: false
+  xy: 605, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_5_1.png
+  rotate: false
+  xy: 930, 41
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_6_1.png
+  rotate: false
+  xy: 735, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_7_1.png
+  rotate: false
+  xy: 468, 10
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_7_2.png
+  rotate: false
+  xy: 760, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_lc_3091_7_3.png
+  rotate: false
+  xy: 825, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_0_1.png
+  rotate: false
+  xy: 631, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_0_2.png
+  rotate: false
+  xy: 619, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_0_3.png
+  rotate: false
+  xy: 573, 38
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_1_1.png
+  rotate: false
+  xy: 62, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_1_2.png
+  rotate: false
+  xy: 918, 39
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_1_3.png
+  rotate: false
+  xy: 705, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_2_1.png
+  rotate: false
+  xy: 34, 2
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_2_2.png
+  rotate: false
+  xy: 437, 28
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_2_3.png
+  rotate: false
+  xy: 297, 3
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_3_1.png
+  rotate: false
+  xy: 437, 2
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_3_2.png
+  rotate: false
+  xy: 792, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_3_3.png
+  rotate: false
+  xy: 781, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_4_1.png
+  rotate: false
+  xy: 880, 39
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_4_3.png
+  rotate: false
+  xy: 980, 47
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_7_0.png
+  rotate: false
+  xy: 771, 35
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_7_1.png
+  rotate: false
+  xy: 427, 23
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_tailedcoat_h_wlk_rc_3091_7_3.png
+  rotate: false
+  xy: 488, 12
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1

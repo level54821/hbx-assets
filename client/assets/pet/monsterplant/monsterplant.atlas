@@ -1,0 +1,3569 @@
+
+monsterplant.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+monsterplant_monsterplant_32_f_3_2200.png
+  rotate: false
+  xy: 2761, 117
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_3_2200.png
+  rotate: false
+  xy: 3951, 116
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_3_2200.png
+  rotate: false
+  xy: 3951, 94
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_3_2200.png
+  rotate: false
+  xy: 3973, 121
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_3_2200.png
+  rotate: false
+  xy: 3973, 99
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_7_2300.png
+  rotate: false
+  xy: 3995, 99
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_7_2300.png
+  rotate: false
+  xy: 4017, 99
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_7_2300.png
+  rotate: false
+  xy: 4039, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_7_2300.png
+  rotate: false
+  xy: 4039, 84
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_32_f_7_2300.png
+  rotate: false
+  xy: 3947, 47
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_a_2_0.png
+  rotate: false
+  xy: 3662, 55
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_a_2_0_2.png
+  rotate: false
+  xy: 3615, 55
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_a_2_1900.png
+  rotate: false
+  xy: 1381, 45
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000.png
+  rotate: false
+  xy: 1815, 76
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_10.png
+  rotate: false
+  xy: 1509, 2
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_11.png
+  rotate: false
+  xy: 1892, 129
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_12.png
+  rotate: false
+  xy: 1762, 29
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_2.png
+  rotate: false
+  xy: 1797, 61
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_3.png
+  rotate: false
+  xy: 2549, 136
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_4.png
+  rotate: false
+  xy: 1593, 55
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_5.png
+  rotate: false
+  xy: 4014, 131
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_6.png
+  rotate: false
+  xy: 1855, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_7.png
+  rotate: false
+  xy: 3567, 83
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_8.png
+  rotate: false
+  xy: 866, 80
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1000_9.png
+  rotate: false
+  xy: 3870, 97
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_1.png
+  rotate: false
+  xy: 2894, 122
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_10.png
+  rotate: false
+  xy: 1964, 119
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_11.png
+  rotate: false
+  xy: 1890, 78
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_12.png
+  rotate: false
+  xy: 3343, 117
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_2.png
+  rotate: false
+  xy: 1887, 56
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_3.png
+  rotate: false
+  xy: 2951, 140
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_4.png
+  rotate: false
+  xy: 1566, 83
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_5.png
+  rotate: false
+  xy: 2893, 91
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_6.png
+  rotate: false
+  xy: 2947, 131
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_7.png
+  rotate: false
+  xy: 2918, 86
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_8.png
+  rotate: false
+  xy: 4086, 155
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_100_9.png
+  rotate: false
+  xy: 1876, 55
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_1.png
+  rotate: false
+  xy: 2746, 111
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_10.png
+  rotate: false
+  xy: 4086, 33
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_11.png
+  rotate: false
+  xy: 1901, 78
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_12.png
+  rotate: false
+  xy: 1897, 64
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_2.png
+  rotate: false
+  xy: 2945, 121
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_3.png
+  rotate: false
+  xy: 2944, 85
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_4.png
+  rotate: false
+  xy: 2943, 96
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_5.png
+  rotate: false
+  xy: 2420, 118
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_6.png
+  rotate: false
+  xy: 1998, 115
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_7.png
+  rotate: false
+  xy: 1985, 115
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_8.png
+  rotate: false
+  xy: 4085, 81
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_101_9.png
+  rotate: false
+  xy: 2931, 82
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_1.png
+  rotate: false
+  xy: 3885, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_10.png
+  rotate: false
+  xy: 1378, 2
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_11.png
+  rotate: false
+  xy: 3822, 28
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_12.png
+  rotate: false
+  xy: 1513, 94
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_2.png
+  rotate: false
+  xy: 1710, 31
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_3.png
+  rotate: false
+  xy: 1771, 61
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_4.png
+  rotate: false
+  xy: 1577, 96
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_5.png
+  rotate: false
+  xy: 656, 21
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_6.png
+  rotate: false
+  xy: 1646, 105
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_7.png
+  rotate: false
+  xy: 3721, 81
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_8.png
+  rotate: false
+  xy: 2989, 176
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1100_9.png
+  rotate: false
+  xy: 3116, 131
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200.png
+  rotate: false
+  xy: 1933, 128
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_10.png
+  rotate: false
+  xy: 3891, 189
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_11.png
+  rotate: false
+  xy: 3874, 142
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_12.png
+  rotate: false
+  xy: 3823, 70
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_2.png
+  rotate: false
+  xy: 1644, 134
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_3.png
+  rotate: false
+  xy: 1432, 129
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_4.png
+  rotate: false
+  xy: 2323, 125
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_5.png
+  rotate: false
+  xy: 1531, 54
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_6.png
+  rotate: false
+  xy: 1521, 133
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_7.png
+  rotate: false
+  xy: 525, 17
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_8.png
+  rotate: false
+  xy: 2720, 170
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1200_9.png
+  rotate: false
+  xy: 3129, 186
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1400_8.png
+  rotate: false
+  xy: 1933, 157
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1500_10.png
+  rotate: false
+  xy: 1112, 169
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1500_11.png
+  rotate: false
+  xy: 135, 9
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1500_12.png
+  rotate: false
+  xy: 811, 5
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700.png
+  rotate: false
+  xy: 3721, 170
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_10.png
+  rotate: false
+  xy: 1302, 171
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_11.png
+  rotate: false
+  xy: 590, 22
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_12.png
+  rotate: false
+  xy: 1070, 28
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_2.png
+  rotate: false
+  xy: 67, 2
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_3.png
+  rotate: false
+  xy: 3356, 133
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_4.png
+  rotate: false
+  xy: 681, 2
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_5.png
+  rotate: false
+  xy: 1260, 45
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_6.png
+  rotate: false
+  xy: 939, 19
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_7.png
+  rotate: false
+  xy: 2494, 180
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_8.png
+  rotate: false
+  xy: 2095, 159
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1700_9.png
+  rotate: false
+  xy: 1673, 175
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_1.png
+  rotate: false
+  xy: 2255, 124
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_10.png
+  rotate: false
+  xy: 1017, 165
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_11.png
+  rotate: false
+  xy: 1253, 110
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_12.png
+  rotate: false
+  xy: 987, 91
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_2.png
+  rotate: false
+  xy: 266, 5
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_3.png
+  rotate: false
+  xy: 1323, 45
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_4.png
+  rotate: false
+  xy: 2793, 173
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_5.png
+  rotate: false
+  xy: 876, 9
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_6.png
+  rotate: false
+  xy: 681, 79
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_7.png
+  rotate: false
+  xy: 2255, 174
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_8.png
+  rotate: false
+  xy: 2176, 155
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_1800_9.png
+  rotate: false
+  xy: 1489, 175
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_1.png
+  rotate: false
+  xy: 2873, 135
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_10.png
+  rotate: false
+  xy: 2920, 108
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_11.png
+  rotate: false
+  xy: 2931, 93
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_12.png
+  rotate: false
+  xy: 2802, 131
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_2.png
+  rotate: false
+  xy: 2822, 103
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_3.png
+  rotate: false
+  xy: 3039, 138
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_4.png
+  rotate: false
+  xy: 2874, 93
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_5.png
+  rotate: false
+  xy: 3502, 99
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_6.png
+  rotate: false
+  xy: 2918, 94
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_7.png
+  rotate: false
+  xy: 1886, 65
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_8.png
+  rotate: false
+  xy: 1692, 25
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_200_9.png
+  rotate: false
+  xy: 1458, 35
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201.png
+  rotate: false
+  xy: 2894, 133
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_10.png
+  rotate: false
+  xy: 4086, 104
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_11.png
+  rotate: false
+  xy: 4042, 69
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_12.png
+  rotate: false
+  xy: 1857, 106
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_2.png
+  rotate: false
+  xy: 2819, 131
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_3.png
+  rotate: false
+  xy: 1876, 108
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_4.png
+  rotate: false
+  xy: 2834, 95
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_5.png
+  rotate: false
+  xy: 1515, 35
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_6.png
+  rotate: false
+  xy: 2841, 159
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_7.png
+  rotate: false
+  xy: 1862, 65
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_8.png
+  rotate: false
+  xy: 3756, 50
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_201_9.png
+  rotate: false
+  xy: 1761, 96
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_1.png
+  rotate: false
+  xy: 3615, 175
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_12.png
+  rotate: false
+  xy: 1005, 23
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_2.png
+  rotate: false
+  xy: 201, 9
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_3.png
+  rotate: false
+  xy: 467, 15
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_4.png
+  rotate: false
+  xy: 617, 77
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_5.png
+  rotate: false
+  xy: 1135, 36
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_6.png
+  rotate: false
+  xy: 745, 6
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_7.png
+  rotate: false
+  xy: 2336, 179
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_8.png
+  rotate: false
+  xy: 1852, 157
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2500_9.png
+  rotate: false
+  xy: 525, 77
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_1.png
+  rotate: false
+  xy: 1260, 2
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_10.png
+  rotate: false
+  xy: 1207, 171
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_11.png
+  rotate: false
+  xy: 401, 21
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_2.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_3.png
+  rotate: false
+  xy: 3240, 127
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_4.png
+  rotate: false
+  xy: 747, 79
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_5.png
+  rotate: false
+  xy: 1198, 38
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_6.png
+  rotate: false
+  xy: 921, 90
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_7.png
+  rotate: false
+  xy: 2415, 180
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_8.png
+  rotate: false
+  xy: 2014, 159
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2700_9.png
+  rotate: false
+  xy: 1397, 175
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2800_12.png
+  rotate: false
+  xy: 1052, 96
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_2800_9.png
+  rotate: false
+  xy: 1581, 175
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300.png
+  rotate: false
+  xy: 978, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_10.png
+  rotate: false
+  xy: 1841, 102
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_11.png
+  rotate: false
+  xy: 1814, 40
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_12.png
+  rotate: false
+  xy: 4050, 47
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_2.png
+  rotate: false
+  xy: 3932, 43
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_3.png
+  rotate: false
+  xy: 2805, 105
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_4.png
+  rotate: false
+  xy: 1861, 35
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_5.png
+  rotate: false
+  xy: 1053, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_6.png
+  rotate: false
+  xy: 1898, 90
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_7.png
+  rotate: false
+  xy: 2659, 111
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_8.png
+  rotate: false
+  xy: 3414, 133
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_300_9.png
+  rotate: false
+  xy: 1680, 71
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301.png
+  rotate: false
+  xy: 444, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_10.png
+  rotate: false
+  xy: 3931, 12
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_11.png
+  rotate: false
+  xy: 590, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_12.png
+  rotate: false
+  xy: 1793, 96
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_2.png
+  rotate: false
+  xy: 1620, 55
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_3.png
+  rotate: false
+  xy: 2783, 121
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_4.png
+  rotate: false
+  xy: 656, 55
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_5.png
+  rotate: false
+  xy: 3995, 121
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_6.png
+  rotate: false
+  xy: 1877, 89
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_7.png
+  rotate: false
+  xy: 2630, 110
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_8.png
+  rotate: false
+  xy: 3465, 132
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_301_9.png
+  rotate: false
+  xy: 1568, 25
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400.png
+  rotate: false
+  xy: 1814, 98
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_10.png
+  rotate: false
+  xy: 1485, 2
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_11.png
+  rotate: false
+  xy: 1810, 142
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_12.png
+  rotate: false
+  xy: 1230, 6
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_2.png
+  rotate: false
+  xy: 3914, 34
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_3.png
+  rotate: false
+  xy: 3756, 25
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_4.png
+  rotate: false
+  xy: 1566, 55
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_5.png
+  rotate: false
+  xy: 4014, 159
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_6.png
+  rotate: false
+  xy: 1414, 102
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_7.png
+  rotate: false
+  xy: 396, 2
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_8.png
+  rotate: false
+  xy: 811, 74
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_400_9.png
+  rotate: false
+  xy: 3516, 88
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401.png
+  rotate: false
+  xy: 2492, 155
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_10.png
+  rotate: false
+  xy: 1459, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_11.png
+  rotate: false
+  xy: 1722, 146
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_12.png
+  rotate: false
+  xy: 1428, 2
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_2.png
+  rotate: false
+  xy: 1662, 69
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_3.png
+  rotate: false
+  xy: 1792, 35
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_4.png
+  rotate: false
+  xy: 3790, 185
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_5.png
+  rotate: false
+  xy: 1748, 67
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_6.png
+  rotate: false
+  xy: 2521, 155
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_7.png
+  rotate: false
+  xy: 1005, 2
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_8.png
+  rotate: false
+  xy: 4035, 173
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_401_9.png
+  rotate: false
+  xy: 4035, 128
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_1.png
+  rotate: false
+  xy: 3854, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_10.png
+  rotate: false
+  xy: 1328, 2
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_11.png
+  rotate: false
+  xy: 3776, 28
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_12.png
+  rotate: false
+  xy: 1476, 94
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_2.png
+  rotate: false
+  xy: 1636, 67
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_3.png
+  rotate: false
+  xy: 1736, 32
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_4.png
+  rotate: false
+  xy: 1198, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_5.png
+  rotate: false
+  xy: 1172, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_6.png
+  rotate: false
+  xy: 1533, 25
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_7.png
+  rotate: false
+  xy: 3615, 94
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_8.png
+  rotate: false
+  xy: 2924, 176
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_500_9.png
+  rotate: false
+  xy: 3054, 131
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_1.png
+  rotate: false
+  xy: 2433, 153
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_10.png
+  rotate: false
+  xy: 3962, 143
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_11.png
+  rotate: false
+  xy: 3567, 102
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_12.png
+  rotate: false
+  xy: 1683, 135
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_2.png
+  rotate: false
+  xy: 1550, 94
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_3.png
+  rotate: false
+  xy: 1465, 59
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_4.png
+  rotate: false
+  xy: 1496, 55
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_5.png
+  rotate: false
+  xy: 2407, 144
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_6.png
+  rotate: false
+  xy: 1609, 103
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_7.png
+  rotate: false
+  xy: 3615, 134
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_8.png
+  rotate: false
+  xy: 2857, 176
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_501_9.png
+  rotate: false
+  xy: 3178, 131
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_1.png
+  rotate: false
+  xy: 1438, 100
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_10.png
+  rotate: false
+  xy: 3819, 189
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_11.png
+  rotate: false
+  xy: 3821, 142
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_12.png
+  rotate: false
+  xy: 3776, 70
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_2.png
+  rotate: false
+  xy: 1605, 134
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_3.png
+  rotate: false
+  xy: 1388, 125
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_4.png
+  rotate: false
+  xy: 3684, 172
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_5.png
+  rotate: false
+  xy: 3927, 149
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_6.png
+  rotate: false
+  xy: 1476, 133
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_7.png
+  rotate: false
+  xy: 331, 6
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_8.png
+  rotate: false
+  xy: 2647, 170
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_600_9.png
+  rotate: false
+  xy: 3054, 186
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_1.png
+  rotate: false
+  xy: 1971, 125
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_10.png
+  rotate: false
+  xy: 3963, 187
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_11.png
+  rotate: false
+  xy: 3721, 121
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_12.png
+  rotate: false
+  xy: 3672, 122
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_2.png
+  rotate: false
+  xy: 1566, 132
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_3.png
+  rotate: false
+  xy: 3567, 146
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_4.png
+  rotate: false
+  xy: 3776, 119
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_5.png
+  rotate: false
+  xy: 1428, 59
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_6.png
+  rotate: false
+  xy: 3868, 26
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_7.png
+  rotate: false
+  xy: 1321, 110
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_8.png
+  rotate: false
+  xy: 2573, 170
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_601_9.png
+  rotate: false
+  xy: 3204, 186
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_1.png
+  rotate: false
+  xy: 1933, 117
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_10.png
+  rotate: false
+  xy: 3452, 100
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_11.png
+  rotate: false
+  xy: 2994, 134
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_12.png
+  rotate: false
+  xy: 2928, 108
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_2.png
+  rotate: false
+  xy: 3472, 97
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_3.png
+  rotate: false
+  xy: 3027, 136
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_4.png
+  rotate: false
+  xy: 3005, 134
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_5.png
+  rotate: false
+  xy: 2941, 108
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_6.png
+  rotate: false
+  xy: 2973, 137
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_7.png
+  rotate: false
+  xy: 3481, 95
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_8.png
+  rotate: false
+  xy: 4086, 119
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_700_9.png
+  rotate: false
+  xy: 3016, 135
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800.png
+  rotate: false
+  xy: 3481, 103
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_10.png
+  rotate: false
+  xy: 4061, 33
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_11.png
+  rotate: false
+  xy: 2903, 149
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_12.png
+  rotate: false
+  xy: 1844, 40
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_2.png
+  rotate: false
+  xy: 2983, 145
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_3.png
+  rotate: false
+  xy: 3039, 150
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_4.png
+  rotate: false
+  xy: 2855, 93
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_5.png
+  rotate: false
+  xy: 1863, 87
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_6.png
+  rotate: false
+  xy: 4083, 67
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_7.png
+  rotate: false
+  xy: 1875, 65
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_8.png
+  rotate: false
+  xy: 1674, 25
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_800_9.png
+  rotate: false
+  xy: 1428, 35
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900.png
+  rotate: false
+  xy: 4037, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_10.png
+  rotate: false
+  xy: 4013, 47
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_11.png
+  rotate: false
+  xy: 649, 2
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_12.png
+  rotate: false
+  xy: 4029, 47
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_2.png
+  rotate: false
+  xy: 3916, 8
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_3.png
+  rotate: false
+  xy: 2855, 107
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_4.png
+  rotate: false
+  xy: 3949, 15
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_5.png
+  rotate: false
+  xy: 1845, 60
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_6.png
+  rotate: false
+  xy: 2833, 132
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_7.png
+  rotate: false
+  xy: 2688, 111
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_8.png
+  rotate: false
+  xy: 3516, 133
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_b_2_900_9.png
+  rotate: false
+  xy: 1714, 67
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_1.png
+  rotate: false
+  xy: 1853, 25
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_10.png
+  rotate: false
+  xy: 3974, 85
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_11.png
+  rotate: false
+  xy: 3356, 112
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_12.png
+  rotate: false
+  xy: 2961, 146
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_2.png
+  rotate: false
+  xy: 939, 2
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_3.png
+  rotate: false
+  xy: 2360, 118
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_4.png
+  rotate: false
+  xy: 3948, 69
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_5.png
+  rotate: false
+  xy: 2433, 129
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_6.png
+  rotate: false
+  xy: 1577, 83
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_7.png
+  rotate: false
+  xy: 1155, 28
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_8.png
+  rotate: false
+  xy: 2761, 108
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_0_9.png
+  rotate: false
+  xy: 2833, 123
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_1.png
+  rotate: false
+  xy: 2571, 110
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_12.png
+  rotate: false
+  xy: 4043, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_2.png
+  rotate: false
+  xy: 1683, 117
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_3.png
+  rotate: false
+  xy: 1823, 25
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_4.png
+  rotate: false
+  xy: 4037, 32
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_5.png
+  rotate: false
+  xy: 2604, 157
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_6.png
+  rotate: false
+  xy: 2433, 140
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_7.png
+  rotate: false
+  xy: 3932, 34
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1400_8.png
+  rotate: false
+  xy: 3947, 35
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1500_10.png
+  rotate: false
+  xy: 2834, 108
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1500_12.png
+  rotate: false
+  xy: 3017, 145
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1500_7.png
+  rotate: false
+  xy: 1862, 55
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1500_8.png
+  rotate: false
+  xy: 3378, 111
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1500_9.png
+  rotate: false
+  xy: 2928, 121
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1600_12.png
+  rotate: false
+  xy: 4069, 33
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1600_7.png
+  rotate: false
+  xy: 1971, 117
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_10.png
+  rotate: false
+  xy: 3994, 15
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_11.png
+  rotate: false
+  xy: 2829, 150
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_12.png
+  rotate: false
+  xy: 2995, 145
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_2.png
+  rotate: false
+  xy: 1681, 100
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_5.png
+  rotate: false
+  xy: 3927, 138
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_7.png
+  rotate: false
+  xy: 1863, 79
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_8.png
+  rotate: false
+  xy: 2781, 139
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1700_9.png
+  rotate: false
+  xy: 2911, 122
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800.png
+  rotate: false
+  xy: 3931, 2
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_1.png
+  rotate: false
+  xy: 3437, 109
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_10.png
+  rotate: false
+  xy: 2872, 107
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_11.png
+  rotate: false
+  xy: 2960, 135
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_12.png
+  rotate: false
+  xy: 2569, 138
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_2.png
+  rotate: false
+  xy: 467, 2
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_3.png
+  rotate: false
+  xy: 2599, 139
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_4.png
+  rotate: false
+  xy: 4013, 31
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_5.png
+  rotate: false
+  xy: 2817, 159
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_6.png
+  rotate: false
+  xy: 2571, 121
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_7.png
+  rotate: false
+  xy: 2982, 135
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_8.png
+  rotate: false
+  xy: 3400, 108
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_1800_9.png
+  rotate: false
+  xy: 3459, 96
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2400_10.png
+  rotate: false
+  xy: 2880, 150
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2400_11.png
+  rotate: false
+  xy: 3298, 119
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2400_12.png
+  rotate: false
+  xy: 3972, 15
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_1.png
+  rotate: false
+  xy: 876, 2
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_10.png
+  rotate: false
+  xy: 4015, 15
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_11.png
+  rotate: false
+  xy: 2808, 150
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_12.png
+  rotate: false
+  xy: 2873, 122
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_2.png
+  rotate: false
+  xy: 1722, 112
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_3.png
+  rotate: false
+  xy: 2691, 139
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_4.png
+  rotate: false
+  xy: 3972, 69
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_5.png
+  rotate: false
+  xy: 1636, 55
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_6.png
+  rotate: false
+  xy: 557, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_7.png
+  rotate: false
+  xy: 2904, 88
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_8.png
+  rotate: false
+  xy: 2787, 150
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2500_9.png
+  rotate: false
+  xy: 2913, 131
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2700_3.png
+  rotate: false
+  xy: 3437, 119
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_1.png
+  rotate: false
+  xy: 3951, 85
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_10.png
+  rotate: false
+  xy: 2938, 149
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_11.png
+  rotate: false
+  xy: 4014, 121
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_12.png
+  rotate: false
+  xy: 3996, 69
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_2.png
+  rotate: false
+  xy: 1851, 139
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_3.png
+  rotate: false
+  xy: 3023, 162
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_4.png
+  rotate: false
+  xy: 4061, 83
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_5.png
+  rotate: false
+  xy: 3790, 170
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_6.png
+  rotate: false
+  xy: 525, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_7.png
+  rotate: false
+  xy: 1950, 118
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_8.png
+  rotate: false
+  xy: 2433, 117
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2701_9.png
+  rotate: false
+  xy: 2802, 121
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702.png
+  rotate: false
+  xy: 2933, 140
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_10.png
+  rotate: false
+  xy: 3459, 106
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_11.png
+  rotate: false
+  xy: 921, 80
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_12.png
+  rotate: false
+  xy: 4061, 113
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_2.png
+  rotate: false
+  xy: 1722, 128
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_3.png
+  rotate: false
+  xy: 1851, 125
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_4.png
+  rotate: false
+  xy: 2852, 137
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_5.png
+  rotate: false
+  xy: 2680, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_6.png
+  rotate: false
+  xy: 1680, 55
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_7.png
+  rotate: false
+  xy: 2904, 110
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_8.png
+  rotate: false
+  xy: 2857, 152
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2702_9.png
+  rotate: false
+  xy: 3422, 111
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703.png
+  rotate: false
+  xy: 1135, 28
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_10.png
+  rotate: false
+  xy: 2784, 107
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_11.png
+  rotate: false
+  xy: 2930, 131
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_12.png
+  rotate: false
+  xy: 506, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_2.png
+  rotate: false
+  xy: 1720, 96
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_4.png
+  rotate: false
+  xy: 2852, 123
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_5.png
+  rotate: false
+  xy: 3384, 122
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_6.png
+  rotate: false
+  xy: 2494, 124
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_7.png
+  rotate: false
+  xy: 1896, 56
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_8.png
+  rotate: false
+  xy: 2913, 140
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2703_9.png
+  rotate: false
+  xy: 3437, 101
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2800_1.png
+  rotate: false
+  xy: 2717, 112
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2800_10.png
+  rotate: false
+  xy: 2915, 149
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_c_2_2800_7.png
+  rotate: false
+  xy: 3422, 102
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700.png
+  rotate: false
+  xy: 3830, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_10.png
+  rotate: false
+  xy: 2904, 96
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_11.png
+  rotate: false
+  xy: 1921, 116
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_12.png
+  rotate: false
+  xy: 2893, 104
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_2.png
+  rotate: false
+  xy: 1639, 25
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_3.png
+  rotate: false
+  xy: 1829, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_4.png
+  rotate: false
+  xy: 2600, 110
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_5.png
+  rotate: false
+  xy: 4024, 82
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_6.png
+  rotate: false
+  xy: 1801, 120
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_8.png
+  rotate: false
+  xy: 2734, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1700_9.png
+  rotate: false
+  xy: 2956, 124
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_1800_12.png
+  rotate: false
+  xy: 3997, 31
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2500_12.png
+  rotate: false
+  xy: 4086, 137
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2700_10.png
+  rotate: false
+  xy: 1666, 55
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2700_11.png
+  rotate: false
+  xy: 3709, 81
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2700_12.png
+  rotate: false
+  xy: 1840, 124
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_1.png
+  rotate: false
+  xy: 3806, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_2.png
+  rotate: false
+  xy: 1604, 25
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_3.png
+  rotate: false
+  xy: 1388, 102
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_4.png
+  rotate: false
+  xy: 2464, 124
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_5.png
+  rotate: false
+  xy: 1877, 122
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_6.png
+  rotate: false
+  xy: 1762, 121
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_7.png
+  rotate: false
+  xy: 2821, 121
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_8.png
+  rotate: false
+  xy: 3921, 69
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_d_2_2800_9.png
+  rotate: false
+  xy: 1877, 78
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_2.png
+  rotate: false
+  xy: 4021, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_3.png
+  rotate: false
+  xy: 2942, 163
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_4.png
+  rotate: false
+  xy: 2793, 161
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_5.png
+  rotate: false
+  xy: 2522, 135
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_6.png
+  rotate: false
+  xy: 2653, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_7.png
+  rotate: false
+  xy: 2721, 139
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_8.png
+  rotate: false
+  xy: 1121, 2
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_0_9.png
+  rotate: false
+  xy: 2887, 164
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_1.png
+  rotate: false
+  xy: 4061, 99
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_10.png
+  rotate: false
+  xy: 3503, 224
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_11.png
+  rotate: false
+  xy: 3921, 120
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_12.png
+  rotate: false
+  xy: 1757, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_2.png
+  rotate: false
+  xy: 3999, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_3.png
+  rotate: false
+  xy: 2915, 163
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_4.png
+  rotate: false
+  xy: 4071, 43
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_5.png
+  rotate: false
+  xy: 1488, 35
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_6.png
+  rotate: false
+  xy: 2599, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_7.png
+  rotate: false
+  xy: 2390, 118
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_8.png
+  rotate: false
+  xy: 3818, 119
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1300_9.png
+  rotate: false
+  xy: 1792, 25
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_1.png
+  rotate: false
+  xy: 3463, 118
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_10.png
+  rotate: false
+  xy: 3615, 221
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_11.png
+  rotate: false
+  xy: 2492, 137
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_12.png
+  rotate: false
+  xy: 1721, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_2.png
+  rotate: false
+  xy: 3953, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_3.png
+  rotate: false
+  xy: 2522, 121
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_4.png
+  rotate: false
+  xy: 2407, 132
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_5.png
+  rotate: false
+  xy: 622, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_6.png
+  rotate: false
+  xy: 2465, 137
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_7.png
+  rotate: false
+  xy: 1815, 59
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_8.png
+  rotate: false
+  xy: 1070, 2
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1500_9.png
+  rotate: false
+  xy: 2573, 157
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_2.png
+  rotate: false
+  xy: 3976, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_3.png
+  rotate: false
+  xy: 2969, 163
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_4.png
+  rotate: false
+  xy: 4071, 55
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_5.png
+  rotate: false
+  xy: 2547, 161
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_6.png
+  rotate: false
+  xy: 2707, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_7.png
+  rotate: false
+  xy: 2666, 153
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_8.png
+  rotate: false
+  xy: 3870, 69
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1600_9.png
+  rotate: false
+  xy: 2660, 139
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700.png
+  rotate: false
+  xy: 4058, 69
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_1.png
+  rotate: false
+  xy: 3999, 85
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_10.png
+  rotate: false
+  xy: 3391, 192
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_11.png
+  rotate: false
+  xy: 2757, 152
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_12.png
+  rotate: false
+  xy: 1685, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_2.png
+  rotate: false
+  xy: 4020, 69
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_3.png
+  rotate: false
+  xy: 3721, 214
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_4.png
+  rotate: false
+  xy: 1892, 108
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_5.png
+  rotate: false
+  xy: 1609, 83
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_6.png
+  rotate: false
+  xy: 2626, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_7.png
+  rotate: false
+  xy: 2635, 153
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_8.png
+  rotate: false
+  xy: 3670, 94
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1700_9.png
+  rotate: false
+  xy: 2629, 139
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1800_10.png
+  rotate: false
+  xy: 3503, 192
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1800_11.png
+  rotate: false
+  xy: 3921, 102
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1800_12.png
+  rotate: false
+  xy: 1793, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1800_8.png
+  rotate: false
+  xy: 1765, 143
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_1800_9.png
+  rotate: false
+  xy: 3411, 122
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2400.png
+  rotate: false
+  xy: 3488, 118
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2400_7.png
+  rotate: false
+  xy: 2751, 139
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2400_9.png
+  rotate: false
+  xy: 1892, 120
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2500.png
+  rotate: false
+  xy: 3972, 33
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2500_10.png
+  rotate: false
+  xy: 3279, 224
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2500_11.png
+  rotate: false
+  xy: 2697, 152
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2500_12.png
+  rotate: false
+  xy: 1613, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2700_10.png
+  rotate: false
+  xy: 3391, 224
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2700_11.png
+  rotate: false
+  xy: 2727, 152
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2700_12.png
+  rotate: false
+  xy: 1649, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_10.png
+  rotate: false
+  xy: 3279, 192
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_11.png
+  rotate: false
+  xy: 3921, 85
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_12.png
+  rotate: false
+  xy: 1575, 2
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_2.png
+  rotate: false
+  xy: 3321, 118
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_3.png
+  rotate: false
+  xy: 2996, 162
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_7.png
+  rotate: false
+  xy: 2857, 166
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_e_2_2701_9.png
+  rotate: false
+  xy: 3356, 122
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_1_1600.png
+  rotate: false
+  xy: 3969, 47
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_1400.png
+  rotate: false
+  xy: 1842, 81
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2600.png
+  rotate: false
+  xy: 3776, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2601.png
+  rotate: false
+  xy: 3709, 35
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2602.png
+  rotate: false
+  xy: 1186, 103
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2603.png
+  rotate: false
+  xy: 1765, 170
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2604.png
+  rotate: false
+  xy: 924, 161
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2605.png
+  rotate: false
+  xy: 629, 156
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2606.png
+  rotate: false
+  xy: 726, 156
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2900.png
+  rotate: false
+  xy: 2464, 153
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2901.png
+  rotate: false
+  xy: 2360, 132
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2902.png
+  rotate: false
+  xy: 1117, 103
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2903.png
+  rotate: false
+  xy: 401, 76
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2904.png
+  rotate: false
+  xy: 135, 161
+  size: 131, 93
+  orig: 131, 93
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2905.png
+  rotate: false
+  xy: 2, 56
+  size: 131, 94
+  orig: 131, 94
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_2906.png
+  rotate: false
+  xy: 2, 152
+  size: 131, 102
+  orig: 131, 102
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3000.png
+  rotate: false
+  xy: 3298, 130
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3001.png
+  rotate: false
+  xy: 823, 162
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3002.png
+  rotate: false
+  xy: 525, 158
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3003.png
+  rotate: false
+  xy: 401, 162
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3004.png
+  rotate: false
+  xy: 268, 161
+  size: 131, 93
+  orig: 131, 93
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3005.png
+  rotate: false
+  xy: 135, 66
+  size: 131, 93
+  orig: 131, 93
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_2_3006.png
+  rotate: false
+  xy: 268, 66
+  size: 131, 93
+  orig: 131, 93
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_3_2000.png
+  rotate: false
+  xy: 3991, 47
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_f_3_2100.png
+  rotate: false
+  xy: 2549, 114
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monsterplant_monsterplant_64_sd_0_0.png
+  rotate: false
+  xy: 1533, 2
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1

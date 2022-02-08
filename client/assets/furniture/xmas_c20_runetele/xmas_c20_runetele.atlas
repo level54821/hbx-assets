@@ -1,0 +1,90 @@
+
+xmas_c20_runetele.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_runetele_xmas_c20_runetele_64_a_0_0.png
+  rotate: false
+  xy: 163, 51
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_a_0_1.png
+  rotate: false
+  xy: 163, 19
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_b_0_0.png
+  rotate: false
+  xy: 84, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_b_0_1.png
+  rotate: false
+  xy: 112, 49
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_b_0_2.png
+  rotate: false
+  xy: 112, 83
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_b_0_3.png
+  rotate: false
+  xy: 165, 83
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_c_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_c_0_2.png
+  rotate: false
+  xy: 44, 44
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_c_0_3.png
+  rotate: false
+  xy: 2, 43
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_c_0_4.png
+  rotate: false
+  xy: 84, 51
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_64_c_0_5.png
+  rotate: false
+  xy: 212, 12
+  size: 13, 69
+  orig: 13, 69
+  offset: 0, 0
+  index: -1
+xmas_c20_runetele_xmas_c20_runetele_icon_a.png
+  rotate: false
+  xy: 218, 89
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

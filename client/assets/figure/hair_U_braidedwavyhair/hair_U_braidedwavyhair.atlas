@@ -1,0 +1,300 @@
+
+hair_U_braidedwavyhair.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_braidedwavyhair_h_lay_hr_3935_2_0.png
+  rotate: false
+  xy: 173, 11
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lay_hr_3936_2_0.png
+  rotate: false
+  xy: 1546, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lsp_hr_3935_2_0.png
+  rotate: false
+  xy: 229, 11
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lsp_hr_3936_2_0.png
+  rotate: false
+  xy: 1575, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lsp_hr_3937_2_0.png
+  rotate: false
+  xy: 1271, 37
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lsp_hrb_3935_2_0.png
+  rotate: false
+  xy: 285, 11
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lsp_hrb_3936_2_0.png
+  rotate: false
+  xy: 1517, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_lsp_hrb_3937_2_0.png
+  rotate: false
+  xy: 1313, 37
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3935_0_0.png
+  rotate: false
+  xy: 819, 9
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3935_1_0.png
+  rotate: false
+  xy: 864, 8
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3935_2_0.png
+  rotate: false
+  xy: 595, 7
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3935_3_0.png
+  rotate: false
+  xy: 116, 9
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3935_7_0.png
+  rotate: false
+  xy: 449, 10
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3937_1_0.png
+  rotate: false
+  xy: 1386, 30
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3937_2_0.png
+  rotate: false
+  xy: 1494, 25
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3937_3_0.png
+  rotate: false
+  xy: 959, 25
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hr_3937_7_0.png
+  rotate: false
+  xy: 1107, 30
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3935_1_0.png
+  rotate: false
+  xy: 685, 8
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3935_3_0.png
+  rotate: false
+  xy: 59, 9
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3935_7_0.png
+  rotate: false
+  xy: 395, 10
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3937_0_0.png
+  rotate: false
+  xy: 1199, 20
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3937_1_0.png
+  rotate: false
+  xy: 1417, 30
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3937_2_0.png
+  rotate: false
+  xy: 1448, 25
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3937_3_0.png
+  rotate: false
+  xy: 1010, 25
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_spk_hrb_3937_7_0.png
+  rotate: false
+  xy: 1153, 30
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3935_0_0.png
+  rotate: false
+  xy: 774, 9
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3935_1_0.png
+  rotate: false
+  xy: 641, 8
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3935_2_0.png
+  rotate: false
+  xy: 549, 7
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3935_3_0.png
+  rotate: false
+  xy: 2, 9
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3935_7_0.png
+  rotate: false
+  xy: 341, 10
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3936_1_0.png
+  rotate: false
+  xy: 205, 2
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3936_3_0.png
+  rotate: false
+  xy: 231, 3
+  size: 37, 6
+  orig: 37, 6
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3936_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3937_0_0.png
+  rotate: false
+  xy: 1235, 20
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3937_1_0.png
+  rotate: false
+  xy: 1355, 30
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3937_2_0.png
+  rotate: false
+  xy: 1471, 25
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3937_3_0.png
+  rotate: false
+  xy: 908, 25
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hr_3937_7_0.png
+  rotate: false
+  xy: 1061, 30
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hrb_3935_0_0.png
+  rotate: false
+  xy: 729, 9
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hrb_3935_2_0.png
+  rotate: false
+  xy: 503, 7
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hrb_3936_0_0.png
+  rotate: false
+  xy: 908, 14
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+hair_U_braidedwavyhair_h_std_hrb_3936_2_0.png
+  rotate: false
+  xy: 173, 2
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1

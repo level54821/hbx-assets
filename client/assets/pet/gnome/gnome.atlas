@@ -1,0 +1,2022 @@
+
+gnome.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gnome_gnome_64_a_0_100.png
+  rotate: false
+  xy: 199, 19
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_101.png
+  rotate: false
+  xy: 92, 19
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_102.png
+  rotate: false
+  xy: 1013, 71
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_103.png
+  rotate: false
+  xy: 124, 68
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_500.png
+  rotate: false
+  xy: 2347, 83
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_701.png
+  rotate: false
+  xy: 1811, 75
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_702.png
+  rotate: false
+  xy: 411, 74
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_703.png
+  rotate: false
+  xy: 2070, 74
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_0_800.png
+  rotate: false
+  xy: 2138, 72
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_0.png
+  rotate: false
+  xy: 2250, 71
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_100.png
+  rotate: false
+  xy: 2105, 72
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_101.png
+  rotate: false
+  xy: 275, 71
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_102.png
+  rotate: false
+  xy: 1590, 70
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_103.png
+  rotate: false
+  xy: 321, 71
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_200.png
+  rotate: false
+  xy: 2169, 71
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_300.png
+  rotate: false
+  xy: 2196, 71
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_1_301.png
+  rotate: false
+  xy: 2223, 71
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_100.png
+  rotate: false
+  xy: 1481, 71
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_1000.png
+  rotate: false
+  xy: 124, 20
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_1001.png
+  rotate: false
+  xy: 598, 87
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_101.png
+  rotate: false
+  xy: 229, 19
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_102.png
+  rotate: false
+  xy: 892, 74
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_103.png
+  rotate: false
+  xy: 176, 71
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_200.png
+  rotate: false
+  xy: 1554, 71
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_300.png
+  rotate: false
+  xy: 1626, 72
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_301.png
+  rotate: false
+  xy: 1662, 72
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_400.png
+  rotate: false
+  xy: 1999, 79
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_401.png
+  rotate: false
+  xy: 1961, 79
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_402.png
+  rotate: false
+  xy: 1922, 79
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_403.png
+  rotate: false
+  xy: 2035, 79
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_500.png
+  rotate: false
+  xy: 2277, 81
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_501.png
+  rotate: false
+  xy: 2312, 81
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_600.png
+  rotate: false
+  xy: 649, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_601.png
+  rotate: false
+  xy: 698, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_602.png
+  rotate: false
+  xy: 747, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_701.png
+  rotate: false
+  xy: 933, 71
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_702.png
+  rotate: false
+  xy: 365, 74
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_703.png
+  rotate: false
+  xy: 1774, 74
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_800.png
+  rotate: false
+  xy: 1518, 71
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_801.png
+  rotate: false
+  xy: 227, 71
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_802.png
+  rotate: false
+  xy: 2, 11
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_901.png
+  rotate: false
+  xy: 1053, 71
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_2_902.png
+  rotate: false
+  xy: 1092, 71
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_100.png
+  rotate: false
+  xy: 1885, 75
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_101.png
+  rotate: false
+  xy: 1171, 72
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_102.png
+  rotate: false
+  xy: 1848, 75
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_103.png
+  rotate: false
+  xy: 1131, 72
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_200.png
+  rotate: false
+  xy: 1698, 75
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_300.png
+  rotate: false
+  xy: 1367, 74
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_301.png
+  rotate: false
+  xy: 1405, 74
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_800.png
+  rotate: false
+  xy: 1736, 75
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_801.png
+  rotate: false
+  xy: 70, 75
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_802.png
+  rotate: false
+  xy: 2, 74
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_901.png
+  rotate: false
+  xy: 1289, 75
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_3_902.png
+  rotate: false
+  xy: 1249, 75
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_7_100.png
+  rotate: false
+  xy: 1443, 73
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_7_101.png
+  rotate: false
+  xy: 973, 68
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_7_102.png
+  rotate: false
+  xy: 1211, 72
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_7_103.png
+  rotate: false
+  xy: 52, 14
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_a_7_900.png
+  rotate: false
+  xy: 1329, 74
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_0_101.png
+  rotate: false
+  xy: 1823, 58
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_100_101.png
+  rotate: false
+  xy: 3731, 91
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_100_102.png
+  rotate: false
+  xy: 160, 2
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_101_101.png
+  rotate: false
+  xy: 893, 28
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_101_102.png
+  rotate: false
+  xy: 837, 66
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_102_101.png
+  rotate: false
+  xy: 1228, 6
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_102_102.png
+  rotate: false
+  xy: 2969, 77
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_103_101.png
+  rotate: false
+  xy: 1799, 57
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_103_102.png
+  rotate: false
+  xy: 948, 3
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_500_101.png
+  rotate: false
+  xy: 608, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_500_102.png
+  rotate: false
+  xy: 92, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_700_102.png
+  rotate: false
+  xy: 1081, 21
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_701_101.png
+  rotate: false
+  xy: 1179, 3
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_701_102.png
+  rotate: false
+  xy: 190, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_702_101.png
+  rotate: false
+  xy: 636, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_702_102.png
+  rotate: false
+  xy: 700, 2
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_0_703_102.png
+  rotate: false
+  xy: 2380, 74
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_0_101.png
+  rotate: false
+  xy: 2776, 66
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_0_102.png
+  rotate: false
+  xy: 1227, 23
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_100_101.png
+  rotate: false
+  xy: 2766, 82
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_100_102.png
+  rotate: false
+  xy: 732, 2
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_101.png
+  rotate: false
+  xy: 1847, 60
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_101_102.png
+  rotate: false
+  xy: 3328, 88
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_102.png
+  rotate: false
+  xy: 2754, 49
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_102_102.png
+  rotate: false
+  xy: 973, 46
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_103.png
+  rotate: false
+  xy: 2744, 83
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_1_103_102.png
+  rotate: false
+  xy: 2420, 78
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_1000_101.png
+  rotate: false
+  xy: 1922, 66
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_1000_102.png
+  rotate: false
+  xy: 3409, 105
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_100_101.png
+  rotate: false
+  xy: 1047, 10
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_100_102.png
+  rotate: false
+  xy: 3731, 104
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_101_101.png
+  rotate: false
+  xy: 52, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_101_102.png
+  rotate: false
+  xy: 668, 2
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_102_101.png
+  rotate: false
+  xy: 2754, 65
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_102_102.png
+  rotate: false
+  xy: 1203, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_103_101.png
+  rotate: false
+  xy: 1774, 57
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_103_102.png
+  rotate: false
+  xy: 948, 46
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_1100_101.png
+  rotate: false
+  xy: 2705, 84
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_1100_102.png
+  rotate: false
+  xy: 899, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_402_101.png
+  rotate: false
+  xy: 1724, 62
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_403_101.png
+  rotate: false
+  xy: 1004, 26
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_403_102.png
+  rotate: false
+  xy: 2683, 53
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_500_101.png
+  rotate: false
+  xy: 2910, 84
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_500_102.png
+  rotate: false
+  xy: 3838, 107
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_600.png
+  rotate: false
+  xy: 450, 8
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_600_102.png
+  rotate: false
+  xy: 3273, 72
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_701_101.png
+  rotate: false
+  xy: 1749, 59
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_701_102.png
+  rotate: false
+  xy: 2641, 104
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_702_101.png
+  rotate: false
+  xy: 2061, 61
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_702_102.png
+  rotate: false
+  xy: 3328, 108
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_800.png
+  rotate: false
+  xy: 1022, 9
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_2_800_102.png
+  rotate: false
+  xy: 3528, 78
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_0_101.png
+  rotate: false
+  xy: 1698, 62
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_0_102.png
+  rotate: false
+  xy: 922, 5
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_100_101.png
+  rotate: false
+  xy: 1894, 60
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_100_102.png
+  rotate: false
+  xy: 1203, 22
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_101_101.png
+  rotate: false
+  xy: 996, 9
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_101_102.png
+  rotate: false
+  xy: 3581, 73
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_102_101.png
+  rotate: false
+  xy: 1871, 60
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_102_102.png
+  rotate: false
+  xy: 972, 7
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_103_101.png
+  rotate: false
+  xy: 1055, 25
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_3_103_102.png
+  rotate: false
+  xy: 3555, 73
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_0.png
+  rotate: false
+  xy: 808, 27
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_0_102.png
+  rotate: false
+  xy: 873, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_100.png
+  rotate: false
+  xy: 2035, 62
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_100_102.png
+  rotate: false
+  xy: 3372, 59
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_101.png
+  rotate: false
+  xy: 1029, 26
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_101_102.png
+  rotate: false
+  xy: 3607, 73
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_102.png
+  rotate: false
+  xy: 2657, 56
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_102_102.png
+  rotate: false
+  xy: 3398, 59
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_103.png
+  rotate: false
+  xy: 2718, 83
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_b_7_103_102.png
+  rotate: false
+  xy: 3633, 73
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_0.png
+  rotate: false
+  xy: 259, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_100.png
+  rotate: false
+  xy: 289, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_101.png
+  rotate: false
+  xy: 317, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_102.png
+  rotate: false
+  xy: 3557, 99
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_103_201.png
+  rotate: false
+  xy: 2420, 99
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_500_201.png
+  rotate: false
+  xy: 755, 27
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_701_201.png
+  rotate: false
+  xy: 3628, 99
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_702.png
+  rotate: false
+  xy: 2725, 99
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_0_703.png
+  rotate: false
+  xy: 3593, 99
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_1_100_201.png
+  rotate: false
+  xy: 3501, 79
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_1_101_201.png
+  rotate: false
+  xy: 3446, 104
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_1_102_201.png
+  rotate: false
+  xy: 3473, 79
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_1_103_201.png
+  rotate: false
+  xy: 3874, 104
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_1_300_201.png
+  rotate: false
+  xy: 869, 64
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_1000.png
+  rotate: false
+  xy: 3908, 104
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_1001.png
+  rotate: false
+  xy: 3697, 101
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_100_201.png
+  rotate: false
+  xy: 808, 69
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_101_201.png
+  rotate: false
+  xy: 865, 38
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_102_201.png
+  rotate: false
+  xy: 2910, 100
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_103_201.png
+  rotate: false
+  xy: 2557, 100
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_400.png
+  rotate: false
+  xy: 3803, 105
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_401.png
+  rotate: false
+  xy: 3371, 105
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_402.png
+  rotate: false
+  xy: 2685, 103
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_403_201.png
+  rotate: false
+  xy: 3767, 105
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_500_201.png
+  rotate: false
+  xy: 3416, 82
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_600_201.png
+  rotate: false
+  xy: 499, 43
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_601_201.png
+  rotate: false
+  xy: 499, 6
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_701.png
+  rotate: false
+  xy: 2949, 100
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_702.png
+  rotate: false
+  xy: 2600, 100
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_703.png
+  rotate: false
+  xy: 3063, 101
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_801_201.png
+  rotate: false
+  xy: 2513, 98
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_802_201.png
+  rotate: false
+  xy: 848, 87
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_900.png
+  rotate: false
+  xy: 3662, 101
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_2_901.png
+  rotate: false
+  xy: 2804, 94
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_0_201.png
+  rotate: false
+  xy: 3290, 103
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_100_201.png
+  rotate: false
+  xy: 3483, 102
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_101_201.png
+  rotate: false
+  xy: 2987, 101
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_102_201.png
+  rotate: false
+  xy: 3520, 102
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_103.png
+  rotate: false
+  xy: 3025, 101
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_801_201.png
+  rotate: false
+  xy: 2465, 103
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_802_201.png
+  rotate: false
+  xy: 796, 96
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_3_901.png
+  rotate: false
+  xy: 2380, 93
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_7_100_201.png
+  rotate: false
+  xy: 3252, 102
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_7_101_201.png
+  rotate: false
+  xy: 3176, 102
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_7_102_201.png
+  rotate: false
+  xy: 3138, 102
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_7_103_201.png
+  rotate: false
+  xy: 3214, 102
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_c_7_800.png
+  rotate: false
+  xy: 3100, 102
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_0.png
+  rotate: false
+  xy: 2994, 77
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_0_302.png
+  rotate: false
+  xy: 821, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_100.png
+  rotate: false
+  xy: 421, 4
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_101.png
+  rotate: false
+  xy: 392, 3
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_102.png
+  rotate: false
+  xy: 763, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_103.png
+  rotate: false
+  xy: 726, 22
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_500.png
+  rotate: false
+  xy: 836, 39
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_701_3.png
+  rotate: false
+  xy: 2508, 75
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_701_302.png
+  rotate: false
+  xy: 3023, 77
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_702_301.png
+  rotate: false
+  xy: 668, 21
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_702_302.png
+  rotate: false
+  xy: 2940, 77
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_0_703_3.png
+  rotate: false
+  xy: 4033, 93
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_0_3.png
+  rotate: false
+  xy: 549, 9
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_100.png
+  rotate: false
+  xy: 579, 45
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_100_302.png
+  rotate: false
+  xy: 2309, 57
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_101.png
+  rotate: false
+  xy: 579, 9
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_102.png
+  rotate: false
+  xy: 4063, 92
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_103.png
+  rotate: false
+  xy: 549, 45
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_1_300_302.png
+  rotate: false
+  xy: 455, 80
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_0_301.png
+  rotate: false
+  xy: 4003, 93
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_0_302.png
+  rotate: false
+  xy: 2451, 75
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_0_303.png
+  rotate: false
+  xy: 4093, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_100.png
+  rotate: false
+  xy: 638, 17
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_1001_301.png
+  rotate: false
+  xy: 2875, 95
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_101.png
+  rotate: false
+  xy: 608, 17
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_102_301.png
+  rotate: false
+  xy: 608, 52
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_103_3.png
+  rotate: false
+  xy: 3940, 93
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_1100_302.png
+  rotate: false
+  xy: 2277, 57
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_300_301.png
+  rotate: false
+  xy: 379, 35
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_300_302.png
+  rotate: false
+  xy: 552, 81
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_400.png
+  rotate: false
+  xy: 3972, 93
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_401_3.png
+  rotate: false
+  xy: 666, 56
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_402.png
+  rotate: false
+  xy: 696, 56
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_402_302.png
+  rotate: false
+  xy: 3052, 77
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_403_3.png
+  rotate: false
+  xy: 755, 56
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_403_302.png
+  rotate: false
+  xy: 3319, 64
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_500_301.png
+  rotate: false
+  xy: 519, 45
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_600_3.png
+  rotate: false
+  xy: 2765, 98
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_600_302.png
+  rotate: false
+  xy: 893, 45
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_703_301.png
+  rotate: false
+  xy: 726, 56
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_801_301.png
+  rotate: false
+  xy: 519, 9
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_801_302.png
+  rotate: false
+  xy: 792, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_802_3.png
+  rotate: false
+  xy: 2841, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_802_302.png
+  rotate: false
+  xy: 3387, 82
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_901_3.png
+  rotate: false
+  xy: 697, 21
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_902_3.png
+  rotate: false
+  xy: 638, 52
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_2_902_302.png
+  rotate: false
+  xy: 3445, 80
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_0_3.png
+  rotate: false
+  xy: 289, 32
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_100_301.png
+  rotate: false
+  xy: 469, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_101_3.png
+  rotate: false
+  xy: 469, 41
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_102_301.png
+  rotate: false
+  xy: 439, 35
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_102_302.png
+  rotate: false
+  xy: 2480, 77
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_103_3.png
+  rotate: false
+  xy: 409, 35
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_300_302.png
+  rotate: false
+  xy: 504, 82
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_801_301.png
+  rotate: false
+  xy: 259, 31
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_801_302.png
+  rotate: false
+  xy: 920, 44
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_802_301.png
+  rotate: false
+  xy: 169, 27
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_802_302.png
+  rotate: false
+  xy: 808, 41
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_901_301.png
+  rotate: false
+  xy: 319, 32
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_3_902_301.png
+  rotate: false
+  xy: 349, 32
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_0_302.png
+  rotate: false
+  xy: 920, 26
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_100_301.png
+  rotate: false
+  xy: 948, 28
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_100_302.png
+  rotate: false
+  xy: 221, 2
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_101_3.png
+  rotate: false
+  xy: 1951, 61
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_101_302.png
+  rotate: false
+  xy: 1979, 62
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_102_302.png
+  rotate: false
+  xy: 3359, 88
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_103_3.png
+  rotate: false
+  xy: 976, 28
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_d_7_103_302.png
+  rotate: false
+  xy: 2007, 62
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_0_401.png
+  rotate: false
+  xy: 3225, 72
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_100.png
+  rotate: false
+  xy: 2681, 73
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_101.png
+  rotate: false
+  xy: 3129, 72
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_102.png
+  rotate: false
+  xy: 3105, 72
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_103.png
+  rotate: false
+  xy: 368, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_500_401.png
+  rotate: false
+  xy: 344, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_702_401.png
+  rotate: false
+  xy: 3249, 72
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_0_703_401.png
+  rotate: false
+  xy: 2708, 53
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_1_0_401.png
+  rotate: false
+  xy: 2537, 70
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_1_101_401.png
+  rotate: false
+  xy: 2339, 53
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_1_102_401.png
+  rotate: false
+  xy: 1107, 14
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_101_401.png
+  rotate: false
+  xy: 3201, 71
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_102_401.png
+  rotate: false
+  xy: 3177, 71
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_103_401.png
+  rotate: false
+  xy: 3153, 71
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_1100.png
+  rotate: false
+  xy: 785, 27
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_300_401.png
+  rotate: false
+  xy: 3348, 59
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_501_401.png
+  rotate: false
+  xy: 176, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_600.png
+  rotate: false
+  xy: 850, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_701_401.png
+  rotate: false
+  xy: 2657, 73
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_702_401.png
+  rotate: false
+  xy: 2633, 69
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_703_401.png
+  rotate: false
+  xy: 2609, 69
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_800.png
+  rotate: false
+  xy: 2585, 69
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_801.png
+  rotate: false
+  xy: 2561, 69
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_802.png
+  rotate: false
+  xy: 784, 59
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_901.png
+  rotate: false
+  xy: 3296, 72
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_2_902.png
+  rotate: false
+  xy: 2732, 52
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_100_401.png
+  rotate: false
+  xy: 1195, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_101.png
+  rotate: false
+  xy: 1155, 14
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_102.png
+  rotate: false
+  xy: 1131, 13
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_103.png
+  rotate: false
+  xy: 1219, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_300_401.png
+  rotate: false
+  xy: 1171, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_801.png
+  rotate: false
+  xy: 1029, 42
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_802.png
+  rotate: false
+  xy: 1179, 16
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_901_401.png
+  rotate: false
+  xy: 1101, 42
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_3_902_401.png
+  rotate: false
+  xy: 1125, 42
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_7_0.png
+  rotate: false
+  xy: 3081, 72
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_7_100_401.png
+  rotate: false
+  xy: 1147, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_7_101_401.png
+  rotate: false
+  xy: 1077, 42
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_7_102_401.png
+  rotate: false
+  xy: 1053, 42
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_e_7_103_401.png
+  rotate: false
+  xy: 1005, 39
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+gnome_gnome_64_sd_0_0.png
+  rotate: false
+  xy: 126, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1

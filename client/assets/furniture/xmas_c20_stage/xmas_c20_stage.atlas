@@ -1,0 +1,132 @@
+
+xmas_c20_stage.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_stage_xmas_c20_stage_64_a_0_1.png
+  rotate: false
+  xy: 140, 158
+  size: 138, 30
+  orig: 138, 30
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_a_0_2.png
+  rotate: false
+  xy: 278, 192
+  size: 138, 62
+  orig: 138, 62
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_b_0_2.png
+  rotate: false
+  xy: 2, 26
+  size: 128, 34
+  orig: 128, 34
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_c_0_1.png
+  rotate: false
+  xy: 410, 126
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_d_0_1.png
+  rotate: false
+  xy: 140, 190
+  size: 136, 64
+  orig: 136, 64
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_d_0_2.png
+  rotate: false
+  xy: 2, 157
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_e_0_1.png
+  rotate: false
+  xy: 201, 34
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_e_0_2.png
+  rotate: false
+  xy: 132, 2
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_f_4_1.png
+  rotate: false
+  xy: 34, 11
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_g_4_1.png
+  rotate: false
+  xy: 270, 57
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_g_4_2.png
+  rotate: false
+  xy: 2, 62
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_g_4_3.png
+  rotate: false
+  xy: 201, 2
+  size: 85, 30
+  orig: 85, 30
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_h_4_1.png
+  rotate: false
+  xy: 410, 68
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_h_4_2.png
+  rotate: false
+  xy: 418, 170
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_h_4_3.png
+  rotate: false
+  xy: 270, 37
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_i_0_1.png
+  rotate: false
+  xy: 140, 90
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_64_sd_0_0.png
+  rotate: false
+  xy: 280, 124
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+xmas_c20_stage_xmas_c20_stage_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

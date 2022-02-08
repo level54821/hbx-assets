@@ -1,0 +1,81 @@
+CComandos do iBlue Hotel
+<span class="padding-top"><br></span><h2>Comandos Clássicos</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>:shows</b>  - Desativa alertas de show da visa.</p>
+<p class="bullet-item">·&nbsp;<b>:online</b>  - Veja a Quantidade de Usuários Online.</p>
+<p class="bullet-item">·&nbsp;<b>:chat</b>  - Ativa ou desativa o chat de grupo.</p>
+<p class="bullet-item">·&nbsp;<b>:about</b>  - Mostra as Informações sobre o Hotel.</p>
+<p class="bullet-item">·&nbsp;<b>:info</b>  - Mostra as Informações sobre o Hotel.</p>
+<p class="bullet-item">·&nbsp;<b>:pickall</b>  - Recolhe todos os Items do seu quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:ejectall</b>  - Saca todos los furnis de tu sala.</p>
+<p class="bullet-item">·&nbsp;<b>:deitar</b>  - Deitar-se em qualquer lugar.</p>
+<p class="bullet-item">·&nbsp;<b>:sentar</b>  - Sentar-se em qualquer lugar.</p>
+<p class="bullet-item">·&nbsp;<b>:copiar &lt;usuario&gt;</b> - Gostou do Visual de um Blue? Pegue pra você com este comando!</p>
+<p class="bullet-item">·&nbsp;<b>:dancar &lt;usuario&gt;</b> - Está com preguiça de dar um clique para dançar? Pode dançar com este comando!</p>
+<p class="bullet-item">·&nbsp;<b>:puxar &lt;usuario&gt;</b> - Empurra um Usuário para longe de você.</p>
+<p class="bullet-item">·&nbsp;<b>:empurrar &lt;usuario&gt;</b> - Puxa um Usuário para perto de você.</p>
+<p class="bullet-item">·&nbsp;<b>:efeito &lt;numero&gt;</b> - Pode usar qualquer efeito! (188-196) e (500-999)</p>
+<p class="bullet-item">·&nbsp;<b>:item &lt;numero&gt;</b> - Pode segurar qualquer Bebida ou Item!</p>
+<p class="bullet-item">·&nbsp;<b>:seguir &lt;usuario&gt;</b> - Quer visitar algum Usuário? Pode usar este comando!</p>
+<p class="bullet-item">·&nbsp;<b>:semcara</b>   - Use este comando para ficar sem a cara!</p>
+<p class="bullet-item">·&nbsp;<b>:moonwalk</b>   - Ande de Costas!</p>
+<p class="bullet-item">·&nbsp;<b>:limpar</b>   - Está com o Inventário cheio? Pode esvaziá-lo com este comando.</p>
+<p class="bullet-item">·&nbsp;<b>:mudarnick</b>   - Cansado do seu Nick? Mude-o com este comando.</p>
+<p class="bullet-item">·&nbsp;<b>:status</b>   - Veja suas Estatísticas.</p>
+<p class="bullet-item">·&nbsp;<b>:desativarpresentes</b>  - Ativa ou Desativa a opção de receber presentes.</p>
+<p class="bullet-item">·&nbsp;<b>:convertermoedas</b>   - Converta seus Objetos em Moedas.</p>
+<p class="bullet-item">·&nbsp;<b>:desativarcopiar</b>   - Ativando ou Desativando este comando usuários não poderão Copiar seu Visual.</p>
+<p class="bullet-item">·&nbsp;<b>:pet &lt;mascote&gt;</b>- Transforme-se em um Mascote..</p>
+<p class="bullet-item">·&nbsp;<b>:alertas</b> Desativar Alertas de Evento</p>
+<p class="bullet-item">·&nbsp;<b>:chooser</b> Veja todos os usuários presentes no Quarto</p>
+<p class="bullet-item">·&nbsp;<b>:furni</b> Veja todos os Furnis presentes NO SEU QUARTO</p>
+
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Comandos para Gerenciar o Quarto</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>:floor</b> Ferramentas de Chão</p>
+<p class="bullet-item">·&nbsp;<b>:mutarpets</b>   - Silenciar o Chat dos Mascotes .</p>
+<p class="bullet-item">·&nbsp;<b>:mutarbots</b>   - Silenciar o Chat dos Bots.</p>
+<p class="bullet-item">·&nbsp;<b>:setmax &lt;numero&gt;</b> - Escolha o Máximo de Visitantes no seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:setspeed &lt;numero&gt;</b> - Escolha a Velocidade dos Rolers no seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:desativardiagonal</b>   - Desativa a opção de andar na diagonal no seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:kikarpets</b>   - Expulse todos os Mascotes de seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:kikarbots</b>   - Expulse todos os Bot's de seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:unload &lt;id&gt;</b> - Recarregar o seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:quarto push/pull/enables/respect</b>  - Desabilite Comandos Básicos do Quarto.</p>
+
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Comandos Exclusivos do iBlue</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span>
+<p class="bullet-item">·&nbsp;<b>:mudarcornick &lt;color&gt;</b> - (off/red/green/blue/purple/pink/yellow/orange/ Codigo HEX) Muda a cor do seu Nome</p>
+<p class="bullet-item">·&nbsp;<b>:mudarcor &lt;color&gt;</b> - (off/red/green/blue/purple/pink/yellow/orange/ Codigo HEX) Muda a cor do seu Nome</p>
+<p class="bullet-item">·&nbsp;<b>:aumentarnick &lt;numero&gt;</b> - (1-20) Escolha o tamanho do seu nome</p>
+<p class="bullet-item">·&nbsp;<b>:emoji &lt;numero&gt;</b> - (1-189) Envia um Emoji</p>
+<p class="bullet-item">·&nbsp;<b>:commands</b> - Ativa ou Desativa comandos Personalizados contra você.</p>
+<p class="bullet-item">·&nbsp;<b>:atirar &lt;usuario&gt;</b> Atira em um usuário com um Revolver.</p>
+<p class="bullet-item">·&nbsp;<b>:mp5</b> Saque uma MP5.</p>
+<p class="bullet-item">·&nbsp;<b>:socar &lt;usuario&gt;</b> Socar um Usuário.</p>
+<p class="bullet-item">·&nbsp;<b>:rasteira &lt;usuario&gt;</b> Dar Rasteira em um Usuário.</p>
+<p class="bullet-item">·&nbsp;<b>:voar</b> Voe com uma Vassoura.</p>
+<p class="bullet-item">·&nbsp;<b>:sexo &lt;usuario&gt;</b> Tenha relações com um Usuário |</p>
+<p class="bullet-item">·&nbsp;<b>:ausente</b> Use para quando for ficar ausente.</p>
+<p class="bullet-item">·&nbsp;<b>:picachu</b> Vire um Picachu.</p>
+<p class="bullet-item">·&nbsp;<b>:beijar &lt;usuario&gt;</b> - Dê um Beijo em um Usuário |</p>
+<p class="bullet-item">·&nbsp;<b>:chutar &lt;usuario&gt;</b> - Chuta um Usuário</p>
+<p class="bullet-item">·&nbsp;<b>:abracar &lt;usuario&gt;</b> - Dê um Abraço em um Usuário |</p>
+<p class="bullet-item">·&nbsp;<b>:casar &lt;ação&gt; &lt;usuário&gt;</b> - Case com Alguém |</p>
+<p class="bullet-item">·&nbsp;<b>:punheta</b> - Case com Alguém |</p>
+<p class="bullet-item">·&nbsp;<b>:penis</b> - Segure um Pênis</p>
+<p class="bullet-item">·&nbsp;<b>:punheta</b> - Se Masturbe</p>
+
+<p class="bullet-item">·&nbsp;<b>:addquarto &lt;palavra&gt;</b> - Digite o Comando para mais informações.</p>
+<p class="bullet-item">·&nbsp;<b>:comprarquarto &lt;palavra&gt;</b> - Compre o Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:venderquarto &lt;palavra&gt;</b> - Venda seu Quarto.</p>
+<p class="bullet-item">·&nbsp;<b>:recusaroferta &lt;palavra&gt;</b> - Recusar Oferta</p>
+<p class="bullet-item">·&nbsp;<b>:aceitaroferta &lt;palavra&gt;</b> - Aceitar Oferta</p>
+
+<span class="padding-top"><br></span><h2>Caracteres especiales con codigos alt!</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Para mas diversion puedes usar signos especiales solo con presionar las siguientes teclas de tu teclado!</p><span class="padding-bottom"><br></span>
+<img src="http://habboo-a.akamaihd.net/c_images/habbopages/chat_altcodes.png" height="295" hspace="1" vspace="1"/><font size="12px"><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></font><p><font size="-1"> </font></p><img src="http://images-eussl.habbo.com/c_images/reception/3b505e.png" width="1000" height="1"/><br>
+<span class="padding-top"><br></span><p>Tambien debes leer: <a href="event:habbopages/chat/emoji.txt">Lista de Emoji</a></p><span class="padding-bottom"><br></span>
+

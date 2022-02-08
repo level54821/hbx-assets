@@ -1,0 +1,153 @@
+
+xmas_c20_rockguy.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_1.png
+  rotate: false
+  xy: 48, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_10.png
+  rotate: false
+  xy: 593, 2
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_11.png
+  rotate: false
+  xy: 635, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_12.png
+  rotate: false
+  xy: 458, 4
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_13.png
+  rotate: false
+  xy: 504, 6
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_14.png
+  rotate: false
+  xy: 549, 8
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_15.png
+  rotate: false
+  xy: 676, 9
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_16.png
+  rotate: false
+  xy: 716, 10
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_17.png
+  rotate: false
+  xy: 791, 10
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_18.png
+  rotate: false
+  xy: 755, 10
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_2.png
+  rotate: false
+  xy: 94, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_3.png
+  rotate: false
+  xy: 140, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_4.png
+  rotate: false
+  xy: 186, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_5.png
+  rotate: false
+  xy: 232, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_6.png
+  rotate: false
+  xy: 278, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_7.png
+  rotate: false
+  xy: 324, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_8.png
+  rotate: false
+  xy: 370, 2
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_a_0_9.png
+  rotate: false
+  xy: 414, 2
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_64_sd_0_0.png
+  rotate: false
+  xy: 858, 41
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c20_rockguy_xmas_c20_rockguy_icon_a.png
+  rotate: false
+  xy: 827, 27
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1

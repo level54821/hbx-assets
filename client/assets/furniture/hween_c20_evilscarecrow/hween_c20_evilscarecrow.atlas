@@ -1,0 +1,251 @@
+
+hween_c20_evilscarecrow.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_0.png
+  rotate: false
+  xy: 1130, 34
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_1.png
+  rotate: false
+  xy: 1177, 34
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_10.png
+  rotate: false
+  xy: 518, 33
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_11.png
+  rotate: false
+  xy: 886, 37
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_12.png
+  rotate: false
+  xy: 834, 35
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_13.png
+  rotate: false
+  xy: 730, 35
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_14.png
+  rotate: false
+  xy: 678, 35
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_15.png
+  rotate: false
+  xy: 782, 35
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_16.png
+  rotate: false
+  xy: 334, 16
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_2.png
+  rotate: false
+  xy: 1221, 33
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_3.png
+  rotate: false
+  xy: 1264, 30
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_4.png
+  rotate: false
+  xy: 1084, 30
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_5.png
+  rotate: false
+  xy: 989, 30
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_6.png
+  rotate: false
+  xy: 940, 33
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_7.png
+  rotate: false
+  xy: 1037, 30
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_8.png
+  rotate: false
+  xy: 627, 31
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_a_4_9.png
+  rotate: false
+  xy: 574, 31
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_b_4_0.png
+  rotate: false
+  xy: 462, 32
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_b_4_1.png
+  rotate: false
+  xy: 400, 25
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_b_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_b_4_3.png
+  rotate: false
+  xy: 82, 13
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_b_4_4.png
+  rotate: false
+  xy: 168, 16
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_b_4_5.png
+  rotate: false
+  xy: 253, 17
+  size: 79, 106
+  orig: 79, 106
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_0.png
+  rotate: false
+  xy: 1385, 103
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_1.png
+  rotate: false
+  xy: 1417, 114
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_2.png
+  rotate: false
+  xy: 1417, 103
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_3.png
+  rotate: false
+  xy: 1449, 114
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_6.png
+  rotate: false
+  xy: 1321, 114
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_7.png
+  rotate: false
+  xy: 1353, 114
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_8.png
+  rotate: false
+  xy: 1353, 103
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_2_9.png
+  rotate: false
+  xy: 1385, 114
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_4_10.png
+  rotate: false
+  xy: 82, 2
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_4_4.png
+  rotate: false
+  xy: 114, 2
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_64_c_4_5.png
+  rotate: false
+  xy: 1321, 103
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c20_evilscarecrow_hween_c20_evilscarecrow_icon_a.png
+  rotate: false
+  xy: 1304, 94
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+hat_U_crookedhat.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_crookedhat_h_lay_ha_3784_2_0.png
+  rotate: false
+  xy: 2, 16
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_lsp_ha_3785_2_0.png
+  rotate: false
+  xy: 531, 43
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_lsp_ha_3786_2_0.png
+  rotate: false
+  xy: 59, 18
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3785_0_0.png
+  rotate: false
+  xy: 531, 33
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3785_1_0.png
+  rotate: false
+  xy: 346, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3785_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3785_3_0.png
+  rotate: false
+  xy: 242, 2
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3785_7_0.png
+  rotate: false
+  xy: 326, 2
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3786_0_0.png
+  rotate: false
+  xy: 326, 11
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3786_1_0.png
+  rotate: false
+  xy: 409, 14
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3786_2_0.png
+  rotate: false
+  xy: 492, 15
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3786_3_0.png
+  rotate: false
+  xy: 451, 15
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_spk_ha_3786_7_0.png
+  rotate: false
+  xy: 368, 10
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_std_ha_3784_0_0.png
+  rotate: false
+  xy: 155, 7
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_std_ha_3784_1_0.png
+  rotate: false
+  xy: 110, 10
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_std_ha_3784_2_0.png
+  rotate: false
+  xy: 285, 9
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_std_ha_3784_3_0.png
+  rotate: false
+  xy: 242, 8
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+hat_U_crookedhat_h_std_ha_3784_7_0.png
+  rotate: false
+  xy: 199, 7
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1

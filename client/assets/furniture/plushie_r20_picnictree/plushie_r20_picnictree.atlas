@@ -1,0 +1,69 @@
+
+plushie_r20_picnictree.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_r20_picnictree_plushie_r20_picnictree_64_a_0_0.png
+  rotate: false
+  xy: 456, 172
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_a_0_1.png
+  rotate: false
+  xy: 562, 221
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_b_0_0.png
+  rotate: false
+  xy: 456, 206
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_b_0_1.png
+  rotate: false
+  xy: 346, 97
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_c_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 170, 219
+  orig: 170, 219
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_c_0_1.png
+  rotate: false
+  xy: 174, 34
+  size: 170, 219
+  orig: 170, 219
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_d_0_0.png
+  rotate: false
+  xy: 346, 146
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_64_sd_0_0.png
+  rotate: false
+  xy: 346, 45
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+plushie_r20_picnictree_plushie_r20_picnictree_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

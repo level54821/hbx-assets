@@ -1,0 +1,594 @@
+
+shoes_U_scuffedboots.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_scuffedboots_h_lay_sh_3348_2_0.png
+  rotate: false
+  xy: 777, 42
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_lay_sh_3349_2_0.png
+  rotate: false
+  xy: 552, 41
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_lay_sh_3350_2_0.png
+  rotate: false
+  xy: 1013, 53
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_sit_sh_3348_0_0.png
+  rotate: false
+  xy: 2, 27
+  size: 145, 35
+  orig: 145, 35
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_sit_sh_3348_2_0.png
+  rotate: false
+  xy: 755, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_sit_sh_3349_0_0.png
+  rotate: false
+  xy: 798, 44
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_sit_sh_3349_2_0.png
+  rotate: false
+  xy: 526, 41
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_sit_sh_3350_0_0.png
+  rotate: false
+  xy: 217, 13
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_sit_sh_3350_2_0.png
+  rotate: false
+  xy: 217, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3348_0_0.png
+  rotate: false
+  xy: 632, 47
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3348_1_0.png
+  rotate: false
+  xy: 277, 10
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3348_2_0.png
+  rotate: false
+  xy: 471, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3348_3_0.png
+  rotate: false
+  xy: 150, 14
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3348_7_0.png
+  rotate: false
+  xy: 298, 38
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3349_0_0.png
+  rotate: false
+  xy: 819, 50
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3349_1_0.png
+  rotate: false
+  xy: 297, 11
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3349_2_0.png
+  rotate: false
+  xy: 444, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3349_3_0.png
+  rotate: false
+  xy: 321, 35
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3349_7_0.png
+  rotate: false
+  xy: 111, 5
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_0_0.png
+  rotate: false
+  xy: 819, 23
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_1_0.png
+  rotate: false
+  xy: 173, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_2_0.png
+  rotate: false
+  xy: 896, 52
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_3_0.png
+  rotate: false
+  xy: 680, 34
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_7_0.png
+  rotate: false
+  xy: 597, 33
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_7_0.png
+  rotate: false
+  xy: 664, 35
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_0_0.png
+  rotate: false
+  xy: 683, 47
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_0_1.png
+  rotate: false
+  xy: 47, 11
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_0_2.png
+  rotate: false
+  xy: 578, 45
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_0_3.png
+  rotate: false
+  xy: 658, 47
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_1_0.png
+  rotate: false
+  xy: 173, 13
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_1_1.png
+  rotate: false
+  xy: 234, 47
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_1_2.png
+  rotate: false
+  xy: 256, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_1_3.png
+  rotate: false
+  xy: 192, 47
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_2_0.png
+  rotate: false
+  xy: 498, 43
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_2_1.png
+  rotate: false
+  xy: 274, 25
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_2_2.png
+  rotate: false
+  xy: 708, 45
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_2_3.png
+  rotate: false
+  xy: 90, 11
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_3_0.png
+  rotate: false
+  xy: 233, 16
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_3_1.png
+  rotate: false
+  xy: 387, 37
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_3_2.png
+  rotate: false
+  xy: 990, 47
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_3_3.png
+  rotate: false
+  xy: 194, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_7_0.png
+  rotate: false
+  xy: 819, 36
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_7_1.png
+  rotate: false
+  xy: 275, 40
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_7_2.png
+  rotate: false
+  xy: 233, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3348_7_3.png
+  rotate: false
+  xy: 150, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_0_0.png
+  rotate: false
+  xy: 845, 51
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_0_1.png
+  rotate: false
+  xy: 2, 11
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_0_2.png
+  rotate: false
+  xy: 388, 50
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_0_3.png
+  rotate: false
+  xy: 605, 47
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_1_0.png
+  rotate: false
+  xy: 344, 35
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_1_1.png
+  rotate: false
+  xy: 149, 47
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_1_2.png
+  rotate: false
+  xy: 365, 36
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_1_3.png
+  rotate: false
+  xy: 149, 31
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_2_0.png
+  rotate: false
+  xy: 416, 42
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_2_1.png
+  rotate: false
+  xy: 256, 17
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_2_2.png
+  rotate: false
+  xy: 732, 45
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_2_3.png
+  rotate: false
+  xy: 192, 32
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_3_0.png
+  rotate: false
+  xy: 967, 47
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_3_1.png
+  rotate: false
+  xy: 921, 48
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_3_2.png
+  rotate: false
+  xy: 194, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_3_3.png
+  rotate: false
+  xy: 944, 48
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_7_0.png
+  rotate: false
+  xy: 88, 4
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_7_1.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_7_2.png
+  rotate: false
+  xy: 65, 4
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3349_7_3.png
+  rotate: false
+  xy: 25, 2
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_0_0.png
+  rotate: false
+  xy: 798, 31
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_0_0.png
+  rotate: false
+  xy: 294, 25
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_0_1.png
+  rotate: false
+  xy: 275, 52
+  size: 39, 10
+  orig: 39, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_0_3.png
+  rotate: false
+  xy: 129, 11
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_1_0.png
+  rotate: false
+  xy: 613, 33
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_1_2.png
+  rotate: false
+  xy: 630, 33
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_1_3.png
+  rotate: false
+  xy: 231, 33
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_1_3.png
+  rotate: false
+  xy: 352, 50
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_2_0.png
+  rotate: false
+  xy: 870, 52
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_2_1.png
+  rotate: false
+  xy: 134, 4
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_2_2.png
+  rotate: false
+  xy: 578, 33
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_2_3.png
+  rotate: false
+  xy: 316, 52
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_3_0.png
+  rotate: false
+  xy: 498, 36
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_3_1.png
+  rotate: false
+  xy: 647, 29
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_3_2.png
+  rotate: false
+  xy: 680, 40
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_3_3.png
+  rotate: false
+  xy: 845, 45
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_7_1.png
+  rotate: false
+  xy: 277, 2
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_7_2.png
+  rotate: false
+  xy: 647, 35
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_7_3.png
+  rotate: false
+  xy: 48, 2
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1

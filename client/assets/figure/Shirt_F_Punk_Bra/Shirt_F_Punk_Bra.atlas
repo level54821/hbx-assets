@@ -1,0 +1,1273 @@
+
+Shirt_F_Punk_Bra.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shirt_F_Punk_Bra_h_crr_ls_2074_0_0.png
+  rotate: false
+  xy: 1867, 45
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2074_1_0.png
+  rotate: false
+  xy: 1652, 48
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2074_2_0.png
+  rotate: false
+  xy: 1602, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2074_3_0.png
+  rotate: false
+  xy: 1472, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2074_7_0.png
+  rotate: false
+  xy: 1756, 42
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2075_0_0.png
+  rotate: false
+  xy: 1861, 45
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2075_1_0.png
+  rotate: false
+  xy: 1131, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2075_2_0.png
+  rotate: false
+  xy: 1640, 42
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2075_3_0.png
+  rotate: false
+  xy: 587, 25
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_ls_2075_7_0.png
+  rotate: false
+  xy: 1739, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_0_0.png
+  rotate: false
+  xy: 766, 41
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_1_0.png
+  rotate: false
+  xy: 1148, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_2_0.png
+  rotate: false
+  xy: 818, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_3_0.png
+  rotate: false
+  xy: 81, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_4_0.png
+  rotate: false
+  xy: 1627, 42
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_5_0.png
+  rotate: false
+  xy: 969, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_6_0.png
+  rotate: false
+  xy: 1835, 43
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2074_7_0.png
+  rotate: false
+  xy: 1748, 42
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_0_0.png
+  rotate: false
+  xy: 747, 41
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_1_0.png
+  rotate: false
+  xy: 1081, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_2_0.png
+  rotate: false
+  xy: 802, 37
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_3_0.png
+  rotate: false
+  xy: 567, 24
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_4_0.png
+  rotate: false
+  xy: 1614, 42
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_5_0.png
+  rotate: false
+  xy: 953, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_6_0.png
+  rotate: false
+  xy: 1821, 43
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_crr_rs_2075_7_0.png
+  rotate: false
+  xy: 1730, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_0_0.png
+  rotate: false
+  xy: 1165, 44
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_1_0.png
+  rotate: false
+  xy: 706, 50
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_2_0.png
+  rotate: false
+  xy: 474, 46
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_3_0.png
+  rotate: false
+  xy: 1098, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_4_0.png
+  rotate: false
+  xy: 461, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_5_0.png
+  rotate: false
+  xy: 602, 50
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_6_0.png
+  rotate: false
+  xy: 549, 50
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2074_7_0.png
+  rotate: false
+  xy: 1680, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_0_0.png
+  rotate: false
+  xy: 728, 44
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_1_0.png
+  rotate: false
+  xy: 628, 50
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_2_0.png
+  rotate: false
+  xy: 447, 46
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_3_0.png
+  rotate: false
+  xy: 1064, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_4_0.png
+  rotate: false
+  xy: 447, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_5_0.png
+  rotate: false
+  xy: 576, 50
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_6_0.png
+  rotate: false
+  xy: 522, 50
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_drk_rs_2075_7_0.png
+  rotate: false
+  xy: 1669, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_lay_ch_2074_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_lay_ch_2075_2_0.png
+  rotate: false
+  xy: 42, 37
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_lay_ls_2074_2_0.png
+  rotate: false
+  xy: 654, 51
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_lay_ls_2075_2_0.png
+  rotate: false
+  xy: 680, 51
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_lay_rs_2074_2_0.png
+  rotate: false
+  xy: 422, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_lay_rs_2075_2_0.png
+  rotate: false
+  xy: 498, 44
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2074_0_0.png
+  rotate: false
+  xy: 81, 30
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2074_1_0.png
+  rotate: false
+  xy: 199, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2074_2_0.png
+  rotate: false
+  xy: 29, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2074_3_0.png
+  rotate: false
+  xy: 135, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2074_7_0.png
+  rotate: false
+  xy: 160, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2075_0_0.png
+  rotate: false
+  xy: 108, 30
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2075_1_0.png
+  rotate: false
+  xy: 178, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2075_2_0.png
+  rotate: false
+  xy: 55, 3
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2075_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ch_2075_7_0.png
+  rotate: false
+  xy: 185, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2074_0_0.png
+  rotate: false
+  xy: 693, 27
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2074_1_0.png
+  rotate: false
+  xy: 1701, 42
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2074_2_0.png
+  rotate: false
+  xy: 1814, 42
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2074_3_0.png
+  rotate: false
+  xy: 220, 3
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2074_7_0.png
+  rotate: false
+  xy: 438, 16
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2075_0_0.png
+  rotate: false
+  xy: 1764, 40
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2075_1_0.png
+  rotate: false
+  xy: 597, 26
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2075_2_0.png
+  rotate: false
+  xy: 1807, 42
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2075_3_0.png
+  rotate: false
+  xy: 1451, 35
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_ls_2075_7_0.png
+  rotate: false
+  xy: 428, 16
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2074_0_0.png
+  rotate: false
+  xy: 1244, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2074_1_0.png
+  rotate: false
+  xy: 1721, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2074_2_0.png
+  rotate: false
+  xy: 527, 23
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2074_3_0.png
+  rotate: false
+  xy: 418, 8
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2074_7_0.png
+  rotate: false
+  xy: 1532, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2075_0_0.png
+  rotate: false
+  xy: 1292, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2075_1_0.png
+  rotate: false
+  xy: 684, 27
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2075_2_0.png
+  rotate: false
+  xy: 517, 17
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2075_3_0.png
+  rotate: false
+  xy: 408, 9
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_std_rs_2075_7_0.png
+  rotate: false
+  xy: 1482, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_0_0.png
+  rotate: false
+  xy: 938, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_0_1.png
+  rotate: false
+  xy: 329, 8
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_1_0.png
+  rotate: false
+  xy: 1359, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_1_1.png
+  rotate: false
+  xy: 1371, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_2_0.png
+  rotate: false
+  xy: 265, 9
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_2_1.png
+  rotate: false
+  xy: 365, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_3_0.png
+  rotate: false
+  xy: 365, 8
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_3_1.png
+  rotate: false
+  xy: 329, 35
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_4_0.png
+  rotate: false
+  xy: 310, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_4_1.png
+  rotate: false
+  xy: 248, 9
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_5_0.png
+  rotate: false
+  xy: 785, 37
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_5_1.png
+  rotate: false
+  xy: 834, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_6_0.png
+  rotate: false
+  xy: 227, 36
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_6_1.png
+  rotate: false
+  xy: 133, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_7_0.png
+  rotate: false
+  xy: 384, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2074_7_1.png
+  rotate: false
+  xy: 269, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_0_0.png
+  rotate: false
+  xy: 923, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_0_1.png
+  rotate: false
+  xy: 282, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_1_0.png
+  rotate: false
+  xy: 1220, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_1_1.png
+  rotate: false
+  xy: 1232, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_2_0.png
+  rotate: false
+  xy: 381, 10
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_2_1.png
+  rotate: false
+  xy: 403, 38
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_3_0.png
+  rotate: false
+  xy: 850, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_3_1.png
+  rotate: false
+  xy: 230, 8
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_4_0.png
+  rotate: false
+  xy: 290, 36
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_4_1.png
+  rotate: false
+  xy: 347, 8
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_5_0.png
+  rotate: false
+  xy: 347, 35
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_5_1.png
+  rotate: false
+  xy: 210, 34
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_6_0.png
+  rotate: false
+  xy: 157, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_6_1.png
+  rotate: false
+  xy: 109, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_7_0.png
+  rotate: false
+  xy: 300, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wav_ls_2075_7_1.png
+  rotate: false
+  xy: 248, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_0_0.png
+  rotate: false
+  xy: 1786, 41
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_0_1.png
+  rotate: false
+  xy: 1828, 43
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_0_2.png
+  rotate: false
+  xy: 647, 26
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_0_3.png
+  rotate: false
+  xy: 607, 26
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_1_1.png
+  rotate: false
+  xy: 1047, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_1_2.png
+  rotate: false
+  xy: 1691, 44
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_1_3.png
+  rotate: false
+  xy: 1842, 43
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_2_0.png
+  rotate: false
+  xy: 1772, 40
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_2_1.png
+  rotate: false
+  xy: 674, 27
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_2_3.png
+  rotate: false
+  xy: 1873, 49
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_3_0.png
+  rotate: false
+  xy: 1337, 34
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_3_1.png
+  rotate: false
+  xy: 1440, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_3_3.png
+  rotate: false
+  xy: 1348, 34
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_7_0.png
+  rotate: false
+  xy: 1522, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_7_1.png
+  rotate: false
+  xy: 507, 17
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_7_2.png
+  rotate: false
+  xy: 1512, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2074_7_3.png
+  rotate: false
+  xy: 1502, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_0_0.png
+  rotate: false
+  xy: 1800, 41
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_0_1.png
+  rotate: false
+  xy: 1854, 44
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_0_2.png
+  rotate: false
+  xy: 1779, 40
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_0_3.png
+  rotate: false
+  xy: 664, 27
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_1_1.png
+  rotate: false
+  xy: 1031, 42
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_1_2.png
+  rotate: false
+  xy: 654, 27
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_1_3.png
+  rotate: false
+  xy: 1848, 43
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_2_1.png
+  rotate: false
+  xy: 617, 26
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_2_2.png
+  rotate: false
+  xy: 1793, 41
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_2_3.png
+  rotate: false
+  xy: 475, 4
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_3_0.png
+  rotate: false
+  xy: 1461, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_3_1.png
+  rotate: false
+  xy: 1542, 37
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_3_3.png
+  rotate: false
+  xy: 1553, 37
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_7_0.png
+  rotate: false
+  xy: 398, 10
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_7_1.png
+  rotate: false
+  xy: 497, 18
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_7_2.png
+  rotate: false
+  xy: 447, 19
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_ls_2075_7_3.png
+  rotate: false
+  xy: 457, 19
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_0_0.png
+  rotate: false
+  xy: 1576, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_0_1.png
+  rotate: false
+  xy: 1207, 38
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_0_2.png
+  rotate: false
+  xy: 1395, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_0_3.png
+  rotate: false
+  xy: 1180, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_1_0.png
+  rotate: false
+  xy: 1711, 42
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_1_1.png
+  rotate: false
+  xy: 1588, 41
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_1_3.png
+  rotate: false
+  xy: 1115, 44
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_2_0.png
+  rotate: false
+  xy: 1280, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_2_1.png
+  rotate: false
+  xy: 866, 36
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_2_2.png
+  rotate: false
+  xy: 1268, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_2_3.png
+  rotate: false
+  xy: 909, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_3_0.png
+  rotate: false
+  xy: 1315, 33
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_3_1.png
+  rotate: false
+  xy: 1429, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_3_2.png
+  rotate: false
+  xy: 1304, 33
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_3_3.png
+  rotate: false
+  xy: 1326, 33
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_7_0.png
+  rotate: false
+  xy: 477, 19
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_7_1.png
+  rotate: false
+  xy: 467, 19
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_7_2.png
+  rotate: false
+  xy: 1492, 36
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2074_7_3.png
+  rotate: false
+  xy: 487, 19
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_0_0.png
+  rotate: false
+  xy: 1564, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_0_1.png
+  rotate: false
+  xy: 1194, 38
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_0_2.png
+  rotate: false
+  xy: 1383, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_0_3.png
+  rotate: false
+  xy: 1001, 39
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_1_0.png
+  rotate: false
+  xy: 627, 26
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_1_1.png
+  rotate: false
+  xy: 1016, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_1_2.png
+  rotate: false
+  xy: 637, 26
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_1_3.png
+  rotate: false
+  xy: 985, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_2_0.png
+  rotate: false
+  xy: 1256, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_2_1.png
+  rotate: false
+  xy: 881, 36
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_2_3.png
+  rotate: false
+  xy: 895, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_3_0.png
+  rotate: false
+  xy: 318, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_3_1.png
+  rotate: false
+  xy: 1407, 37
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_3_3.png
+  rotate: false
+  xy: 1418, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_7_0.png
+  rotate: false
+  xy: 537, 23
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_7_1.png
+  rotate: false
+  xy: 547, 23
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_7_2.png
+  rotate: false
+  xy: 557, 23
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Shirt_F_Punk_Bra_h_wlk_rs_2075_7_3.png
+  rotate: false
+  xy: 577, 24
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+hween_c20_hallway.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_hallway_hween_c20_hallway_64_a_2_0.png
+  rotate: false
+  xy: 398, 64
+  size: 34, 145
+  orig: 34, 145
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_a_4_0.png
+  rotate: false
+  xy: 362, 64
+  size: 34, 145
+  orig: 34, 145
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_b_2_0.png
+  rotate: false
+  xy: 281, 61
+  size: 79, 148
+  orig: 79, 148
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_b_4_0.png
+  rotate: false
+  xy: 200, 61
+  size: 79, 148
+  orig: 79, 148
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_c_2_0.png
+  rotate: false
+  xy: 101, 56
+  size: 97, 153
+  orig: 97, 153
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_c_4_0.png
+  rotate: false
+  xy: 2, 56
+  size: 97, 153
+  orig: 97, 153
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_sd_2_0.png
+  rotate: false
+  xy: 102, 2
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+hween_c20_hallway_hween_c20_hallway_icon_a.png
+  rotate: false
+  xy: 434, 179
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

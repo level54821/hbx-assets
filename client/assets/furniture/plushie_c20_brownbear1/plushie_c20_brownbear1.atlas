@@ -1,0 +1,27 @@
+
+plushie_c20_brownbear1.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_brownbear1_plushie_c20_brownbear1_64_a_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+plushie_c20_brownbear1_plushie_c20_brownbear1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 27
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+plushie_c20_brownbear1_plushie_c20_brownbear1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

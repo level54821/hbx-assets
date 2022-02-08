@@ -1,0 +1,139 @@
+
+hween_r20_hourglass.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_r20_hourglass_hween_r20_hourglass_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 120
+  orig: 64, 120
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_b_0_0.png
+  rotate: false
+  xy: 126, 166
+  size: 56, 21
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_c_0_0.png
+  rotate: false
+  xy: 123, 130
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_c_0_1.png
+  rotate: false
+  xy: 123, 148
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_c_0_2.png
+  rotate: false
+  xy: 138, 148
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_c_0_3.png
+  rotate: false
+  xy: 236, 205
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_d_0_0.png
+  rotate: false
+  xy: 68, 53
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_d_0_1.png
+  rotate: false
+  xy: 68, 115
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_d_0_2.png
+  rotate: false
+  xy: 126, 189
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_d_0_3.png
+  rotate: false
+  xy: 181, 194
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_h_0_0.png
+  rotate: false
+  xy: 123, 172
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_h_0_1.png
+  rotate: false
+  xy: 123, 175
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_h_0_2.png
+  rotate: false
+  xy: 181, 189
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_h_0_3.png
+  rotate: false
+  xy: 236, 198
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_h_0_4.png
+  rotate: false
+  xy: 68, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_i_0_0.png
+  rotate: false
+  xy: 68, 178
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_j_0_0.png
+  rotate: false
+  xy: 2, 124
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_64_sd_0_0.png
+  rotate: false
+  xy: 68, 11
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hween_r20_hourglass_hween_r20_hourglass_icon_a.png
+  rotate: false
+  xy: 236, 223
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

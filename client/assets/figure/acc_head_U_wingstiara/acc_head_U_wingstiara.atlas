@@ -1,0 +1,48 @@
+
+acc_head_U_wingstiara.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_wingstiara_h_lay_he_3816_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+acc_head_U_wingstiara_h_std_he_3816_0_0.png
+  rotate: false
+  xy: 40, 30
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+acc_head_U_wingstiara_h_std_he_3816_1_0.png
+  rotate: false
+  xy: 40, 9
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+acc_head_U_wingstiara_h_std_he_3816_2_0.png
+  rotate: false
+  xy: 2, 27
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+acc_head_U_wingstiara_h_std_he_3816_3_0.png
+  rotate: false
+  xy: 75, 33
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+acc_head_U_wingstiara_h_std_he_3816_7_0.png
+  rotate: false
+  xy: 77, 7
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>ProtoHT - Nitro Client</title>
+    <base href="./">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="preload" href="protocolonitrodiseño.css">
+    <link rel="stylesheet" href="protocolonitrodiseño.css">
+	<style type="text/css">
+	html,body {height:100%}
+#coDntenedor{
+    position:absolute;
+  
+	 margin-left: 1785px;
+    top:50%;
+    margin-top:-415px; /*el negativo de la mitad de la altura del div*/
+    }
+</style>
+</head>
+<body>
+
+		
+    <app-root></app-root>
+    <script>
+        var NitroConfig = {
+            configurationUrl: './configuration.json',
+            sso: (new URLSearchParams(window.location.search).get('sso') || null)
+        };
+    </script>
+<script async src="runtime.js" defer></script><script async src="polyfills.js" defer></script><script async src="styles.js" defer></script><script async src="vendor.js" defer></script><script async src="main.js" defer></script></body>
+</html>
+<div id="contenedor">
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<div id="coDntenedor">
+
+ <?php
+$checkStaffsOnlineS = $conn->query("SELECT * FROM users WHERE online = '1' AND rank = '7'");
+$sacardj = $conn->query("SELECT * FROM users WHERE rank = '7' AND online = '1' LIMIT 1");
+$djinfo = $sacardj->fetch_array();
+			 
+			    $luk = $djinfo["look"];
+				?>
+						<div class="title blue"> <font color="white" size="2"><B>DJ ProtoHT <?php echo $djinfo["username"]; ?></B></center></font></div>
+                      <CENTER>
+					  <?PHP
+if($checkStaffsOnlineS->num_rows == 0) {
+?><BR><img src="/images/cross.png">
+
+<img src="/images/habbo_skeleton.GIF" style="border:5px solid red; padding:5px; background: #FFFFFF;" />
+<?php
+}
+else 
+{
+?>
+<?php 
+			 
+			 
+
+			
+echo ' <BR><img src="http://www.habbo.nl/habbo-imaging/avatarimage?figure='.$luk.'" style="border:5px solid green; padding:5px; background: #FFFFFF;" />
+<br>
+<img src="/images/habbo_online_anim_big.gif" />
+';
+ ?>
+
+
+
+	<?php
+}
+
+?>
+			
+
+
+
+
+<script type="text/javascript">
+MRP.insert({
+'url':'http://stream.zeno.fm/927u0qundq8uv',
+'lang':'en',
+'codec':'mp3',
+'volume':100,
+'introurl':'http://stream.zeno.fm/927u0qundq8uv',
+'autoplay':true,
+'forceHTML5':true,
+'jsevents':true,
+'buffering':0,
+'title':'ProtoFM',
+'welcome':'Pide tus canciones',
+'wmode':'transparent',
+'skin':'mcclean',
+'width':190,
+'height':60
+});
+</script>
+
+</div>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+</div>
+

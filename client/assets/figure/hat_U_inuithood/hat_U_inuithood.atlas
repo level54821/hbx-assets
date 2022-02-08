@@ -1,0 +1,90 @@
+
+hat_U_inuithood.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_inuithood_h_lay_ha_3827_2_0.png
+  rotate: false
+  xy: 40, 219
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_lsp_ha_3828_2_0.png
+  rotate: false
+  xy: 2, 153
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_spk_ha_3828_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_spk_ha_3828_1_0.png
+  rotate: false
+  xy: 33, 87
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_spk_ha_3828_2_0.png
+  rotate: false
+  xy: 2, 186
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_spk_ha_3828_3_0.png
+  rotate: false
+  xy: 2, 223
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_spk_ha_3828_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_std_ha_3827_0_0.png
+  rotate: false
+  xy: 2, 86
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_std_ha_3827_1_0.png
+  rotate: false
+  xy: 38, 185
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_std_ha_3827_2_0.png
+  rotate: false
+  xy: 2, 51
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_std_ha_3827_3_0.png
+  rotate: false
+  xy: 32, 75
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hat_U_inuithood_h_std_ha_3827_7_0.png
+  rotate: false
+  xy: 2, 121
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1

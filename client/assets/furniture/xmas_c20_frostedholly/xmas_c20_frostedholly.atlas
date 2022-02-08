@@ -1,0 +1,48 @@
+
+xmas_c20_frostedholly.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_frostedholly_xmas_c20_frostedholly_64_a_0_0.png
+  rotate: false
+  xy: 107, 13
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+xmas_c20_frostedholly_xmas_c20_frostedholly_64_a_0_1.png
+  rotate: false
+  xy: 183, 13
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+xmas_c20_frostedholly_xmas_c20_frostedholly_64_b_0_0.png
+  rotate: false
+  xy: 259, 15
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+xmas_c20_frostedholly_xmas_c20_frostedholly_64_b_0_1.png
+  rotate: false
+  xy: 328, 15
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+xmas_c20_frostedholly_xmas_c20_frostedholly_64_sd_0_0.png
+  rotate: false
+  xy: 2, 29
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+xmas_c20_frostedholly_xmas_c20_frostedholly_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

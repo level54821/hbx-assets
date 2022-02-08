@@ -1,0 +1,27 @@
+
+plushie_c20_flowercrown.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_flowercrown_plushie_c20_flowercrown_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+plushie_c20_flowercrown_plushie_c20_flowercrown_64_sd_0_0.png
+  rotate: false
+  xy: 67, 4
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+plushie_c20_flowercrown_plushie_c20_flowercrown_icon_a.png
+  rotate: false
+  xy: 35, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

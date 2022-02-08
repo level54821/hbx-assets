@@ -1,0 +1,20 @@
+
+plushie_c20_bow.png
+size: 32,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plushie_c20_bow_plushie_c20_bow_64_a_0_0.png
+  rotate: false
+  xy: 2, 17
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+plushie_c20_bow_plushie_c20_bow_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

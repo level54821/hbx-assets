@@ -1,0 +1,132 @@
+
+jacket_U_kilt.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_kilt_h_lay_cc_3939_2_0.png
+  rotate: false
+  xy: 29, 28
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_lay_cc_3940_2_0.png
+  rotate: false
+  xy: 73, 28
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_lay_cc_3941_2_0.png
+  rotate: false
+  xy: 29, 15
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3939_0_0.png
+  rotate: false
+  xy: 209, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3939_1_0.png
+  rotate: false
+  xy: 399, 25
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3939_2_0.png
+  rotate: false
+  xy: 148, 24
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3939_3_0.png
+  rotate: false
+  xy: 239, 23
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3939_7_0.png
+  rotate: false
+  xy: 295, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3940_0_0.png
+  rotate: false
+  xy: 179, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3940_1_0.png
+  rotate: false
+  xy: 375, 25
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3940_2_0.png
+  rotate: false
+  xy: 117, 24
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3940_3_0.png
+  rotate: false
+  xy: 268, 23
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3940_7_0.png
+  rotate: false
+  xy: 322, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3941_0_0.png
+  rotate: false
+  xy: 349, 25
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3941_1_0.png
+  rotate: false
+  xy: 423, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3941_2_0.png
+  rotate: false
+  xy: 423, 31
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3941_3_0.png
+  rotate: false
+  xy: 2, 4
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+jacket_U_kilt_h_std_cc_3941_7_0.png
+  rotate: false
+  xy: 452, 26
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1

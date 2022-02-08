@@ -1,0 +1,132 @@
+
+hat_U_frog.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_frog_h_lay_ha_4050_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_lsp_ha_4051_2_0.png
+  rotate: false
+  xy: 180, 30
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_lsp_ha_4052_2_0.png
+  rotate: false
+  xy: 173, 14
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_spk_ha_4050_0_0.png
+  rotate: false
+  xy: 38, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_spk_ha_4052_0_0.png
+  rotate: false
+  xy: 53, 15
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_spk_ha_4052_1_0.png
+  rotate: false
+  xy: 180, 47
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_spk_ha_4052_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_spk_ha_4052_3_0.png
+  rotate: false
+  xy: 147, 14
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_spk_ha_4052_7_0.png
+  rotate: false
+  xy: 204, 50
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4050_1_0.png
+  rotate: false
+  xy: 147, 30
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4050_2_0.png
+  rotate: false
+  xy: 74, 28
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4050_3_0.png
+  rotate: false
+  xy: 109, 2
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4050_7_0.png
+  rotate: false
+  xy: 109, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4051_0_0.png
+  rotate: false
+  xy: 195, 21
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4051_1_0.png
+  rotate: false
+  xy: 26, 5
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4051_2_0.png
+  rotate: false
+  xy: 26, 12
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4051_3_0.png
+  rotate: false
+  xy: 147, 6
+  size: 28, 6
+  orig: 28, 6
+  offset: 0, 0
+  index: -1
+hat_U_frog_h_std_ha_4051_7_0.png
+  rotate: false
+  xy: 147, 2
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1

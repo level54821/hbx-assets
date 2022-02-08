@@ -1,0 +1,27 @@
+
+tile_stackmagic6.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tile_stackmagic6_tile_stackmagic6_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 312, 158
+  orig: 312, 158
+  offset: 0, 0
+  index: -1
+tile_stackmagic6_tile_stackmagic6_64_a_0_1.png
+  rotate: false
+  xy: 316, 33
+  size: 312, 158
+  orig: 312, 158
+  offset: 0, 0
+  index: -1
+tile_stackmagic6_tile_stackmagic6_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,643 @@
+
+jacket_F_knighttop.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_F_knighttop_h_crr_lc_2783_0_0.png
+  rotate: false
+  xy: 449, 47
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_1_0.png
+  rotate: false
+  xy: 201, 7
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_2_0.png
+  rotate: false
+  xy: 481, 49
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_3_0.png
+  rotate: false
+  xy: 326, 12
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_4_0.png
+  rotate: false
+  xy: 371, 99
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_5_0.png
+  rotate: false
+  xy: 368, 73
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_6_0.png
+  rotate: false
+  xy: 194, 63
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_lc_2783_7_0.png
+  rotate: false
+  xy: 469, 48
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_0_0.png
+  rotate: false
+  xy: 484, 104
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_1_0.png
+  rotate: false
+  xy: 242, 40
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_2_0.png
+  rotate: false
+  xy: 409, 101
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_3_0.png
+  rotate: false
+  xy: 378, 47
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_4_0.png
+  rotate: false
+  xy: 259, 14
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_5_0.png
+  rotate: false
+  xy: 214, 61
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_6_0.png
+  rotate: false
+  xy: 351, 25
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_crr_rc_2783_7_0.png
+  rotate: false
+  xy: 494, 43
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_0_0.png
+  rotate: false
+  xy: 277, 73
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_1_0.png
+  rotate: false
+  xy: 277, 95
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_2_0.png
+  rotate: false
+  xy: 158, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_3_0.png
+  rotate: false
+  xy: 494, 82
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_4_0.png
+  rotate: false
+  xy: 494, 67
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_5_0.png
+  rotate: false
+  xy: 159, 47
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_6_0.png
+  rotate: false
+  xy: 277, 110
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_drk_rc_2783_7_0.png
+  rotate: false
+  xy: 372, 33
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_lay_cc_2783_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_lay_lc_2783_2_0.png
+  rotate: false
+  xy: 304, 95
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_lay_rc_2783_2_0.png
+  rotate: false
+  xy: 306, 107
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_cc_2783_0_0.png
+  rotate: false
+  xy: 128, 51
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_cc_2783_1_0.png
+  rotate: false
+  xy: 227, 93
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_cc_2783_2_0.png
+  rotate: false
+  xy: 128, 10
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_cc_2783_3_0.png
+  rotate: false
+  xy: 200, 87
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_cc_2783_7_0.png
+  rotate: false
+  xy: 173, 88
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_lc_2783_0_0.png
+  rotate: false
+  xy: 175, 19
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_lc_2783_1_0.png
+  rotate: false
+  xy: 338, 40
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_lc_2783_2_0.png
+  rotate: false
+  xy: 363, 22
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_lc_2783_3_0.png
+  rotate: false
+  xy: 441, 71
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_lc_2783_7_0.png
+  rotate: false
+  xy: 413, 44
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_rc_2783_0_0.png
+  rotate: false
+  xy: 314, 65
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_rc_2783_2_0.png
+  rotate: false
+  xy: 259, 37
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_rc_2783_3_0.png
+  rotate: false
+  xy: 187, 31
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_std_rc_2783_7_0.png
+  rotate: false
+  xy: 339, 13
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_0_0.png
+  rotate: false
+  xy: 159, 62
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_0_1.png
+  rotate: false
+  xy: 297, 68
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_1_0.png
+  rotate: false
+  xy: 249, 66
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_1_1.png
+  rotate: false
+  xy: 385, 73
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_2_0.png
+  rotate: false
+  xy: 187, 2
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_2_1.png
+  rotate: false
+  xy: 399, 73
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_3_0.png
+  rotate: false
+  xy: 128, 92
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_3_1.png
+  rotate: false
+  xy: 390, 101
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_4_0.png
+  rotate: false
+  xy: 173, 62
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_4_1.png
+  rotate: false
+  xy: 447, 102
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_5_0.png
+  rotate: false
+  xy: 428, 102
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_5_1.png
+  rotate: false
+  xy: 466, 102
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_6_0.png
+  rotate: false
+  xy: 330, 102
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_6_1.png
+  rotate: false
+  xy: 253, 101
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_7_0.png
+  rotate: false
+  xy: 158, 19
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wav_lc_2783_7_1.png
+  rotate: false
+  xy: 351, 101
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_0_0.png
+  rotate: false
+  xy: 404, 46
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_0_1.png
+  rotate: false
+  xy: 349, 49
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_0_3.png
+  rotate: false
+  xy: 286, 17
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_1_1.png
+  rotate: false
+  xy: 297, 45
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_1_2.png
+  rotate: false
+  xy: 312, 12
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_1_3.png
+  rotate: false
+  xy: 272, 11
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_2_0.png
+  rotate: false
+  xy: 461, 46
+  size: 6, 23
+  orig: 6, 23
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_2_1.png
+  rotate: false
+  xy: 341, 77
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_2_2.png
+  rotate: false
+  xy: 504, 103
+  size: 6, 23
+  orig: 6, 23
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_2_3.png
+  rotate: false
+  xy: 180, 3
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_3_1.png
+  rotate: false
+  xy: 481, 72
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_3_2.png
+  rotate: false
+  xy: 454, 71
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_3_3.png
+  rotate: false
+  xy: 391, 47
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_7_1.png
+  rotate: false
+  xy: 425, 44
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_7_2.png
+  rotate: false
+  xy: 437, 44
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_lc_2783_7_3.png
+  rotate: false
+  xy: 285, 45
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_0_0.png
+  rotate: false
+  xy: 272, 37
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_0_1.png
+  rotate: false
+  xy: 312, 38
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_0_3.png
+  rotate: false
+  xy: 243, 14
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_1_0.png
+  rotate: false
+  xy: 364, 47
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_1_1.png
+  rotate: false
+  xy: 351, 75
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_1_3.png
+  rotate: false
+  xy: 231, 66
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_2_0.png
+  rotate: false
+  xy: 467, 72
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_2_1.png
+  rotate: false
+  xy: 214, 33
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_2_2.png
+  rotate: false
+  xy: 200, 33
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_2_3.png
+  rotate: false
+  xy: 262, 72
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_3_0.png
+  rotate: false
+  xy: 328, 71
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_3_1.png
+  rotate: false
+  xy: 218, 7
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_3_2.png
+  rotate: false
+  xy: 428, 71
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_3_3.png
+  rotate: false
+  xy: 415, 71
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_7_0.png
+  rotate: false
+  xy: 231, 6
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_7_1.png
+  rotate: false
+  xy: 230, 33
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_7_2.png
+  rotate: false
+  xy: 326, 38
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_F_knighttop_h_wlk_rc_2783_7_3.png
+  rotate: false
+  xy: 300, 18
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1

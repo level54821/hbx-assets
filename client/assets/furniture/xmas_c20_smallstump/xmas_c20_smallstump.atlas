@@ -1,0 +1,55 @@
+
+xmas_c20_smallstump.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c20_smallstump_xmas_c20_smallstump_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_smallstump_xmas_c20_smallstump_64_a_0_1.png
+  rotate: false
+  xy: 61, 24
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+xmas_c20_smallstump_xmas_c20_smallstump_64_a_0_2.png
+  rotate: false
+  xy: 120, 34
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+xmas_c20_smallstump_xmas_c20_smallstump_64_a_0_3.png
+  rotate: false
+  xy: 162, 34
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+xmas_c20_smallstump_xmas_c20_smallstump_64_a_0_4.png
+  rotate: false
+  xy: 2, 7
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+xmas_c20_smallstump_xmas_c20_smallstump_64_a_0_5.png
+  rotate: false
+  xy: 204, 45
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+xmas_c20_smallstump_xmas_c20_smallstump_icon_a.png
+  rotate: false
+  xy: 53, 2
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

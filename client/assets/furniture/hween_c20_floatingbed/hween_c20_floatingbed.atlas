@@ -1,0 +1,90 @@
+
+hween_c20_floatingbed.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c20_floatingbed_hween_c20_floatingbed_64_a_2_0.png
+  rotate: false
+  xy: 605, 16
+  size: 38, 92
+  orig: 38, 92
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_a_2_1.png
+  rotate: false
+  xy: 555, 16
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_b_2_1.png
+  rotate: false
+  xy: 81, 2
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_c_2_0.png
+  rotate: false
+  xy: 645, 25
+  size: 34, 83
+  orig: 34, 83
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_d_2_0.png
+  rotate: false
+  xy: 504, 26
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_e_2_1.png
+  rotate: false
+  xy: 446, 33
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_f_2_1.png
+  rotate: false
+  xy: 681, 35
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_g_2_0.png
+  rotate: false
+  xy: 367, 46
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_h_2_0.png
+  rotate: false
+  xy: 160, 46
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_64_sd_2_0.png
+  rotate: false
+  xy: 269, 51
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+hween_c20_floatingbed_hween_c20_floatingbed_icon_a.png
+  rotate: false
+  xy: 160, 15
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1

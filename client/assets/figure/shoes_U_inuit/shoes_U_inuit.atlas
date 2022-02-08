@@ -1,0 +1,398 @@
+
+shoes_U_inuit.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_inuit_h_lay_sh_3933_2_0.png
+  rotate: false
+  xy: 356, 11
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_lay_sh_3934_2_0.png
+  rotate: false
+  xy: 187, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_sit_sh_3933_0_0.png
+  rotate: false
+  xy: 334, 11
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_sit_sh_3933_2_0.png
+  rotate: false
+  xy: 378, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_sit_sh_3934_0_0.png
+  rotate: false
+  xy: 256, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_sit_sh_3934_2_0.png
+  rotate: false
+  xy: 169, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3933_0_0.png
+  rotate: false
+  xy: 233, 18
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3933_1_0.png
+  rotate: false
+  xy: 722, 21
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3933_2_0.png
+  rotate: false
+  xy: 205, 5
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3933_3_0.png
+  rotate: false
+  xy: 296, 7
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3933_7_0.png
+  rotate: false
+  xy: 468, 22
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3934_0_0.png
+  rotate: false
+  xy: 272, 4
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3934_1_0.png
+  rotate: false
+  xy: 873, 24
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3934_2_0.png
+  rotate: false
+  xy: 287, 18
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3934_3_0.png
+  rotate: false
+  xy: 399, 12
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_std_sh_3934_7_0.png
+  rotate: false
+  xy: 422, 12
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_0_0.png
+  rotate: false
+  xy: 112, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_0_1.png
+  rotate: false
+  xy: 2, 17
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_0_3.png
+  rotate: false
+  xy: 231, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_1_0.png
+  rotate: false
+  xy: 423, 20
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_1_1.png
+  rotate: false
+  xy: 46, 19
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_1_2.png
+  rotate: false
+  xy: 445, 21
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_1_3.png
+  rotate: false
+  xy: 88, 19
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_2_0.png
+  rotate: false
+  xy: 260, 18
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_2_1.png
+  rotate: false
+  xy: 742, 20
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_2_2.png
+  rotate: false
+  xy: 311, 18
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_2_3.png
+  rotate: false
+  xy: 130, 14
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_3_0.png
+  rotate: false
+  xy: 557, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_3_1.png
+  rotate: false
+  xy: 662, 20
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_3_2.png
+  rotate: false
+  xy: 535, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_3_3.png
+  rotate: false
+  xy: 642, 20
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_7_0.png
+  rotate: false
+  xy: 600, 20
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_7_1.png
+  rotate: false
+  xy: 702, 19
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_7_2.png
+  rotate: false
+  xy: 579, 20
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3933_7_3.png
+  rotate: false
+  xy: 682, 19
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_0_0.png
+  rotate: false
+  xy: 139, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_0_1.png
+  rotate: false
+  xy: 169, 21
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_0_2.png
+  rotate: false
+  xy: 28, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_0_3.png
+  rotate: false
+  xy: 439, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_1_0.png
+  rotate: false
+  xy: 321, 8
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_1_1.png
+  rotate: false
+  xy: 82, 9
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_1_2.png
+  rotate: false
+  xy: 857, 24
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_1_3.png
+  rotate: false
+  xy: 204, 21
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_2_0.png
+  rotate: false
+  xy: 621, 20
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_2_1.png
+  rotate: false
+  xy: 760, 19
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_2_2.png
+  rotate: false
+  xy: 399, 20
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_2_3.png
+  rotate: false
+  xy: 50, 6
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_3_0.png
+  rotate: false
+  xy: 491, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_3_1.png
+  rotate: false
+  xy: 399, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_3_2.png
+  rotate: false
+  xy: 513, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_3_3.png
+  rotate: false
+  xy: 419, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_7_0.png
+  rotate: false
+  xy: 797, 24
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_7_1.png
+  rotate: false
+  xy: 837, 24
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_7_2.png
+  rotate: false
+  xy: 817, 24
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+shoes_U_inuit_h_wlk_sh_3934_7_3.png
+  rotate: false
+  xy: 777, 24
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
